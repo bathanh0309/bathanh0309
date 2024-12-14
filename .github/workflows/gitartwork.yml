@@ -7,10 +7,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
+       - uses: BATHANH/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: BATHANH
             # Text on contribution graph 
             text: BATHANH
-       - uses: jasineri/simple-push-action@v1
+       - uses: BATHANH/simple-push-action@v1
