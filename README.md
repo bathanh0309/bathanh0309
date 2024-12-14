@@ -20,9 +20,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bathanh0309/bathanh0309/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
+<a href='https://tinyurl.com/fpfcnpcv/V7V4RAK9C' target='_blank'>
 <img height='64' style='border:0px;height:64px;' 
-src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' 
+src='https://tinyurl.com/fpfcnpcv/cdn/kofi1.png?v=3' 
 border='0' alt='Buy Me a Coffee' /></a>
 </div>
 
