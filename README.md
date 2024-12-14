@@ -5,5 +5,18 @@
 </h1>
 
 
+<h3 align="center">A Hardware Design developer from VietNam 🇨🇦</h3>
+<div align="center"> 
+  <a href="mailto:bathanh124ads@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://drive.google.com/file/d/1-7Yenpj1BHHnFLYQtxDh5Syuprsx6kB6/view?usp=sharing" target="_blank">
+     <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bathanh0309/bathanh0309/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bathanh0309/bathanh0309/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
