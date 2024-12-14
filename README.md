@@ -1,1 +1,2 @@
-![snake gif](https://github.com/bathanh0309/bathanh0309/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/haphucc/haphucc/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/haphucc/haphucc/output/github-contribution-grid-snake.svg#gh-light-mode-only)
