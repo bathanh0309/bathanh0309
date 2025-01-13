@@ -5,10 +5,15 @@
 
 <h3 align="center">A Hardware Design developer from VietNam </h3>
 <div align="center"> 
--------------------------
+
 I am a self-taught Hardware Designer at 🇻🇳
+
 ✨ Main skills: Electronic circuit design, Circuit analysis, Circuit simulation and testing, C/C++ programming, Basic Verilog
+
 📝 I am very interested in internship in Analog circuit design
+
 📚 I am a student of Electronics and Telecommunications at Danang University of Technology
+
 🗺 Love Trekking, Backpacking
+
 ️⚽Football, running
