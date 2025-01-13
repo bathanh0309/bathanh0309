@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh!;" />
 </h2>
 
-<h3 align="center">A Hardware Design developer from VietNam </h3>
-<div align="center"> 
+
 ```
 I am a self-taught Hardware Designer at 🇻🇳
 ✨ Main skills: Electronic circuit design, Circuit analysis, Circuit simulation and testing, C/C++ programming, Basic Verilog
