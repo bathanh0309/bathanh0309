@@ -12,3 +12,7 @@ I am a self-taught Hardware Designer at Viet Nam
 🗺 Love Trekking, Backpacking
 ️⚽ Football, running
 ```
+### Target
+- [x] Professional Knowledge
+- [ ] Graduation Degree
+- [ ] TOEIC certificate
