@@ -13,6 +13,7 @@ I am a self-taught Hardware Designer at Viet Nam
 ️⚽ Football, running
 ```
 ### Target
-- [x] Professional Knowledge
+- [x] Basic Knowledge
+- [x] Understanding of software and design tools
 - [ ] Graduation Degree
 - [ ] TOEIC certificate
