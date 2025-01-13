@@ -5,8 +5,9 @@
 
 ```
 I am a self-taught Hardware Designer at Viet Nam
-✨ Main skills: Electronic circuit design, Circuit analysis, Circuit simulation and testing, C/C++ programming, Basic Verilog
-📝 I am very interested in internship in Analog circuit design
+✨ Main skills: Electronic circuit design, Circuit analysis, Circuit simulation and testing
+💻 C/C++ programming, Basic Verilog
+📝 Looking for an internship in the field of Analog circuit design
 📚 I am a student of Electronics and Telecommunications at Danang University of Technology
 🗺 Love Trekking, Backpacking
 ️⚽ Football, running
