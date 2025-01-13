@@ -12,6 +12,6 @@
   <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://drive.google.com/drive/my-drive" target="_blank">
+  <a href="https://drive.google.com/file/d/1mHs4PT_ODCJb7MAUFWgz-GbmOrKSqQns/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
