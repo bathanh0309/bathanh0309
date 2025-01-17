@@ -3,7 +3,7 @@
 </h2>
 
 ```
-I am a self-taught Hardware Designer at Viet Nam
+Navigate IC design internship opportunity
 📚 I am a student of Electronics and Telecommunications at Danang University of Technology
 ✨ Main skills: Electronic circuit Design, Analysis, Simulation, Testing ...
 🔧 Altium, VS code, Matlab, ModelSim, Optisystem, Wireshark, Proteus ...
