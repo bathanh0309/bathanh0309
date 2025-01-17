@@ -15,4 +15,4 @@ Navigate IC design internship opportunity
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
 - [ ] Graduation Degree
-- [ ] TOEIC certificate
+- [ ] TOEIC certificate (the range from 550 to 650)
