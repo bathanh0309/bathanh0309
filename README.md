@@ -20,7 +20,7 @@
 - [ ] Graduation Degree
 - [ ] TOEIC certificate (the range from 550 to 650)
 <div align="center">
-<strong>Research with me </strong>🔎👉 <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link"> It's here </a>
+<strong>Research with me </strong>👉 <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link"> It's here💡</a>
 </div>
 
 <br>
