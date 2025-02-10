@@ -15,6 +15,7 @@
   <strong>CV Nguyen Ba Thanh</strong></a>
 </div>
 
+<a href="https://www.example.com" style="text-decoration: none;">Liên kết không gạch chân</a>
 ### Target
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
