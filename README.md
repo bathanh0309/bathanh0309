@@ -11,7 +11,7 @@
 ️⚽ Football, running
 ```
 <div align="center">
-<strong>My CV </strong>🔎👉 <a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link"> It's here </a>
+<a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link"><strong>CV Nguyen Ba Thanh</strong></a>
 </div>
 
 <br>
