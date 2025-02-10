@@ -10,6 +10,11 @@
 🗺 Love Trekking, Vlogging
 ️⚽ Football, running
 ```
+<div align="center">
+<strong>My CV </strong>🔎👉 <a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link"> It's here </a>
+</div>
+
+<br>
 ### Target
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
