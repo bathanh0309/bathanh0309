@@ -7,7 +7,7 @@
 ✨ Main skills: Design, Analysis, Simulation, Testing Circuit
 🔧 Altium, VS code, Matlab, ModelSim, Optisystem, Wireshark, Proteus ...
 💻 C/C++, Basic Verilog, Basic Python
-🗺 Love Trekking, Vlogging
+🗺 Love Trekking, Chef
 ️⚽ Football, running
 ```
 
