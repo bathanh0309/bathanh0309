@@ -13,11 +13,11 @@
 
  <div align="center">
   <a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link" target="_blank">
-     <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh🔎-808080?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
 
-### Target
+### Target 📌
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
 - [ ] Graduation Degree
@@ -25,7 +25,7 @@
 
  <div align="center">
   <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">
-     <img src="https://img.shields.io/badge/Research with me📌-808080?style=for-the-badge&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Research with me-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
 
