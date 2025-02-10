@@ -14,8 +14,7 @@
 <strong>my CV </strong>🔎<a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link" style="text-decoration: none;">
   <strong>CV Nguyen Ba Thanh</strong></a>
 </div>
-<a href="https://www.example.com" style="text-decoration: none; color: black;">Liên kết không gạch chân và màu đen</a>
-<a href="https://www.example.com" style="text-decoration: none;">Liên kết không gạch chân</a>
+
 ### Target
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
