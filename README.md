@@ -3,11 +3,10 @@
 </h2>
 
 ```
-
-📚 I am a student of Electronics and Telecommunications at Danang University of Technology
-✨ Main skills: Electronic circuit Design, Analysis, Simulation, Testing ...
+📚 I am a student of ETE - DUT - UDN - VN 📌
+✨ Main skills: Design, Analysis, Simulation, Testing Circuit
 🔧 Altium, VS code, Matlab, ModelSim, Optisystem, Wireshark, Proteus ...
-💻 C/C++, Basic Verilog
+💻 C/C++, Basic Verilog, Basic Python
 🗺 Love Trekking, Vlogging
 ️⚽ Football, running
 ```
