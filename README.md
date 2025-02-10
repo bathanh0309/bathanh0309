@@ -16,7 +16,7 @@
 - [ ] Graduation Degree
 - [ ] TOEIC certificate (the range from 550 to 650)
 
-<b>Research with me </b>🔎👉: <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link"> It's here </a>
+<strong>Research with me </strong>🔎👉 <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link"> It's here </a>
 
 <div align="center">
 <a href='https://drive.google.com/file/d/1vr_itUlary8sRufgbF8mKlrpiMlAw9ge/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
