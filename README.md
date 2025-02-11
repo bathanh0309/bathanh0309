@@ -9,7 +9,7 @@
 </div>
 
 ```
-📚 I am studying at ETE - DUT - UDN - VN
+📚 I am studying at ETE - DUT - UDN - VN 
 ✨ Main skills: Design, Analysis, Simulation, Testing Circuit
 🔧 Altium, VS code, Matlab, ModelSim, Optisystem, Wireshark, Proteus ...
 💻 C/C++, Basic Verilog, Basic Python
