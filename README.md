@@ -7,6 +7,7 @@
      <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
+
 ```
 📚 I am studying at ETE - DUT - UDN - VN
 ✨ Main skills: Design, Analysis, Simulation, Testing Circuit
