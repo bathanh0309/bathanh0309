@@ -18,8 +18,9 @@
 ```
  <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/NuaJob-808080?style=for-the-badge&logoColor=white" target="_blank" />
+      👈👈
   </a>
-👈
+
 
 ### Target 📌 
 - [x] Basic Knowledge
