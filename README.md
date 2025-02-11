@@ -1,19 +1,20 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Hardware+Engineering;" />
 </h2>
-  
+
+<div align="center">
+<a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link" target="_blank">
+     <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
+  </a>
+</div>
 ```
 📚 I am studying at ETE - DUT - UDN - VN
 ✨ Main skills: Design, Analysis, Simulation, Testing Circuit
 🔧 Altium, VS code, Matlab, ModelSim, Optisystem, Wireshark, Proteus ...
 💻 C/C++, Basic Verilog, Basic Python
-🗺 Love Trekking, Chef  <div align="center">
+🗺 Love Trekking, Chef 
 ️⚽ Football, running
 ```
-<a href="https://drive.google.com/file/d/1WJ4st-vZM3GRmnWzykhN8GsKSrJ1ThMf/view?usp=drive_link" target="_blank">
-     <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
-  </a>
-<br>
  <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/NuaJob-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
