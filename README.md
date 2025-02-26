@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1ieKqPJcrtxeVP6oFVePkxBOFJzfmXTD7/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1W2GvcFcE9MdL7xer8dMYxeRDiicRkNqa/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
