@@ -17,7 +17,7 @@
 ️⚽ Football, running
 ```
  <a href="https://beacons.ai/bathanh0309" target="_blank">
-     <img src="https://img.shields.io/badge/Tôi là ai 🎯-808080?style=for-the-badge&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/🔗Một chút kỉ niệm quãng đời sinh viên🔗-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 
 
