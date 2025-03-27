@@ -9,7 +9,7 @@
 </div>
 
 <div style="display: flex; justify-content: center;">  
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"   
+  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
        alt="GIF example" style="width: 250px;">  
 </div>  
 
