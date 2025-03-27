@@ -33,9 +33,8 @@
 - [ ] TOEIC certificate (the range from 550 to 650)
 
 
- <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">  
+ <div align="center">  
   <!-- Thẻ GIF bên trái -->    
-  <div style="margin-right: 20px;">  
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
          alt="GIF example" style="width: 150px;">  
    <div>
