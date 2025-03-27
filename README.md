@@ -24,9 +24,8 @@
 </div>  
 
 <div style="display: flex; justify-content: center;">  
-      Target 
-  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
-       alt="GIF example" style="width: 30px;">  
+      Target  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
+       alt="GIF example" style="width: 20px;">  
 </div>  
 
 - [x] Basic Knowledge
