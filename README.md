@@ -34,18 +34,17 @@
 
 
  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">  
-  <!-- Thẻ GIF bên trái -->  
-  <div style="margin-right: 20px;">  
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
-         alt="GIF example" style="width: 150px;">  
-  </div>  
-  
+  <!-- Thẻ GIF bên trái -->    
   <!-- Hai thẻ chồng lên nhau bên phải -->  
   <div style="display: flex; flex-direction: column;">  
     <a href="https://beacons.ai/bathanh0309" target="_blank">  
       <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />  
     </a>   
     <br>  
+         <div style="margin-right: 20px;">  
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
+         alt="GIF example" style="width: 150px;">  
+  </div>  
     <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">  
       <img src="https://img.shields.io/badge/Research with me🔎-808080?style=for-the-badge&logoColor=white" target="_blank" />  
     </a>  
@@ -58,10 +57,3 @@
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />  
   </a>  
 </div>  
-
-
-<div style="display: flex; align-items: center; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" 
-             alt="GIF example" style="width: 150px;">
-    </div>
