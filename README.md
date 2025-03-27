@@ -34,8 +34,8 @@
 <div align="center">  
      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
        alt="GIF example" style="width: 150px;">
-       </div>
-     <div>
+</div>
+<div align="center">
  <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a> 
@@ -43,7 +43,7 @@
   <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">  
     <img src="https://img.shields.io/badge/Research with me🔎-808080?style=for-the-badge&logoColor=white" target="_blank" />  
   </a>  
-  </div>
+</div>
      
   <br> <!-- Thêm dòng trống giữa hai thẻ -->  
   <a href='https://drive.google.com/file/d/1vr_itUlary8sRufgbF8mKlrpiMlAw9ge/view?usp=drive_link' target='_blank'>  
