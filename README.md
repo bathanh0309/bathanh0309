@@ -21,7 +21,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"   
        alt="GIF example" style="width:100;">  
 </div>  
-
+      <div>
+     <a    href="https://beacons.ai/bathanh0309" target="_blank">
+      <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />  
+    </a> 
+     </div>
 <div style="display: flex; justify-content: center;">  
       Target  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
        alt="GIF example" style="width: 20px;">  
