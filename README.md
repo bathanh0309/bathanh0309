@@ -37,13 +37,12 @@
 <div align="center">  
 <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"   
        alt="GIF example" style="width: 80px;">  
+     <p>-</p>
   <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">
      <img src="https://img.shields.io/badge/Research with me🔎-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <br>
-
 <div align="center">
 <a href='https://drive.google.com/file/d/1vr_itUlary8sRufgbF8mKlrpiMlAw9ge/view?usp=drive_link' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
