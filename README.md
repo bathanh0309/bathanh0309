@@ -8,6 +8,12 @@
   </a>
 </div>
 
+
+<div style="display: flex; justify-content: center;">  
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"   
+       alt="GIF example" style="width: 250px;">  
+</div>  
+
 ```
 📚 I am studying at ETE.DUT.UDN.VN
 🔧 Looking for an internship opportunity related to semiconductor field
