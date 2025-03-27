@@ -35,12 +35,10 @@
 
  <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">  
   <!-- Thẻ GIF bên trái -->    
-        <div style="margin-right: 20px;">  
+  <div style="margin-right: 20px;">  
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
          alt="GIF example" style="width: 150px;">  
   </div>  
-  <!-- Hai thẻ chồng lên nhau bên phải -->  
-  <div style="display: flex; flex-direction: column;">  
     <a href="https://beacons.ai/bathanh0309" target="_blank">  
       <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />  
     </a>   
