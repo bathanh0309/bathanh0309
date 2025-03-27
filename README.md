@@ -18,7 +18,7 @@
      <img src="https://img.shields.io/badge/Nơi lưu giữ những kỉ niệm⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="GIF example" width="200" height="200">  
 ### Target 📌 
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
