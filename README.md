@@ -17,8 +17,9 @@
  <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/Nơi lưu giữ những kỉ niệm⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
+ <a
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GIF example" width="400" height="400">    </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GIF example" width="400" height="400">  
 ### Target 📌 
 
 - [x] Basic Knowledge
