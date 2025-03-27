@@ -7,7 +7,8 @@
        alt="GIF example" style="width: 100px;">
 <a href="https://drive.google.com/file/d/1W2GvcFcE9MdL7xer8dMYxeRDiicRkNqa/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
-     &nbsp;
+
+     
   </a>
      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
          alt="GIF example" style="width: 150px;">    
