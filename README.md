@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<div style="display: flex; justify-content: center;">  
-  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
-       alt="GIF example" style="width: 80px;">  
-</div>  
-
 ```
 📚 I am studying at ETE.DUT.UDN.VN
 🔧 Looking for an internship opportunity related to semiconductor field
@@ -28,7 +23,11 @@
        alt="GIF example" style="width:100;">  
 </div>  
 
-### Target 📌 
+ Target 📌 
+<div style="display: flex; justify-content: center;">  
+  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
+       alt="GIF example" style="width: 80px;">  
+</div>  
 
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
