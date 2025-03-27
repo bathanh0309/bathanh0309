@@ -22,12 +22,7 @@
 ```
  <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/Nơi lưu giữ những kỉ niệm⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />
-  </a>
- 
-<div style="display: flex; justify-content: center;">  
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"   
-       alt="GIF example" style="width: 250px;">  
-</div>  
+  </a> 
 
 
 ### Target 📌 
