@@ -20,6 +20,7 @@
 
 
 ### Target 📌 
+https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif
 - [x] Basic Knowledge
 - [x] Understanding of software and design tools
 - [ ] Graduation Degree
