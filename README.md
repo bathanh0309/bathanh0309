@@ -3,15 +3,15 @@
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"   
-       alt="GIF example" style="width:100;">  
-</div>  
-
-<div align="center">
 <a href="https://drive.google.com/file/d/1W2GvcFcE9MdL7xer8dMYxeRDiicRkNqa/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"   
+       alt="GIF example" style="width:100;">  
+</div>  
 
 
 <div style="display: flex; justify-content: center;">  
