@@ -23,6 +23,9 @@
 <div align="center">
      <a href="https://beacons.ai/bathanh0309" target="_blank">
      <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />  </a> 
+     </div>
+
+ <div align="center">  
      <a    href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Research with me🔎-808080?style=for-the-badge&logoColor=white" target="_blank" />  </a>   
 </div>  
