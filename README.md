@@ -3,8 +3,6 @@
 </h2>
 
 <div align="center">
-     <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"   
-       alt="GIF example" style="width: 100px;">
 <a href="https://drive.google.com/file/d/1W2GvcFcE9MdL7xer8dMYxeRDiicRkNqa/view?usp=sharing" target="_blank">
      <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" /> 
 </div>
@@ -44,3 +42,5 @@
   </a>  
 </div>  
 
+   <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"   
+       alt="GIF example" style="width: 100px;">
