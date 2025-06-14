@@ -29,8 +29,6 @@
 </div>  
 
  <div align="center">  
-     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
-         alt="GIF example" style="width: 150px;">    
      <a    href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/Research with me🔎-808080?style=for-the-badge&logoColor=white" target="_blank" />  
      </a>   
@@ -42,5 +40,9 @@
   </a>  
 </div>  
 
+
+
    <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif"   
        alt="GIF example" style="width: 100px;">
+     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
+         alt="GIF example" style="width: 150px;">    
