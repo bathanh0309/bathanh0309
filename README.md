@@ -42,5 +42,3 @@
        alt="GIF example" style="width: 100px;">
      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
          alt="GIF example" style="width: 150px;">    
-      Target  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif"   
-       alt="GIF example" style="width: 20px;">  
