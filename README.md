@@ -22,7 +22,8 @@
 </div>  
 <div align="center">
      <a href="https://beacons.ai/bathanh0309" target="_blank">
-     <img src="https://img.shields.io/badge/My memories⌛-808080?style=for-the-badge&logoColor=white" target="_blank" />  </a> 
+     <img src="https://img.shields.io/badge/My memories-808080?style=for-the-badge&logoColor=white" target="_blank" />  </a> 
+     ⌛
      </div>
 
  <div align="center">  
