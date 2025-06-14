@@ -36,7 +36,7 @@
        alt="GIF example" style="width: 100px;">
      
   <a href='https://drive.google.com/file/d/1vr_itUlary8sRufgbF8mKlrpiMlAw9ge/view?usp=drive_link' target='_blank'>  
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />  </a>  
+    <img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />  </a>  
  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"   
          alt="GIF example" style="width: 100px;">    
 </div>  
