@@ -4,7 +4,7 @@
 
 ```
 📚 I am studying at ETE.DUT.UDN.VN
-🔧 Looking for internship opportunities related to microelectronics
+🔧 Looking for internship opportunities related to microelectronics and hardware design
 🗺 Love Trekking, Chef 
 ️⚽ Football, running
 ```
