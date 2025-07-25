@@ -8,5 +8,5 @@
 🗺 Love Trekking, Chef 
 ️⚽ Football, running
 ```
-<a href="https://drive.google.com/file/d/1W2GvcFcE9MdL7xer8dMYxeRDiicRkNqa/view?usp=sharing" target="_blank">
-     <img src="https://img.shields.io/badge/CV Nguyen Ba Thanh-808080?style=for-the-badge&logoColor=white" target="_blank" />
+<a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse" target="_blank">
+     <img src="https://img.shields.io/badge/Research with me -808080?style=for-the-badge&logoColor=white" target="_blank" />
