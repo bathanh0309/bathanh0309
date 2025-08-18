@@ -6,7 +6,7 @@
 </a>
 <br>
 <a href="https://drive.google.com/drive/folders/1smQaw4DKGni0t3p_JQrvk1aibW-mN8e7" target="_blank">
-     <img src="https://img.shields.io/badge/Certificate -808080?style=for-the-badge&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/CERTIFICATE -808080?style=for-the-badge&logoColor=white" target="_blank" />
 </a>
 
 ```
