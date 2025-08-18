@@ -5,6 +5,9 @@
      <img src="https://img.shields.io/badge/Research with me -808080?style=for-the-badge&logoColor=white" target="_blank" />
 </a>
 
+<a href="https://drive.google.com/drive/folders/1smQaw4DKGni0t3p_JQrvk1aibW-mN8e7" target="_blank">
+     <img src="https://img.shields.io/badge/Certificate -808080?style=for-the-badge&logoColor=white" target="_blank" />
+</a>
 ```
 📚 I am studying at ETE.DUT.UDN.VN
 🔧 Looking for internship opportunities related to microelectronics and hardware design
