@@ -7,9 +7,7 @@
 - 🗺 Love Trekking & Cooking
 - ⚽ Passionate about Football and Running
 ```
-# 📌 My Projects  
-## 📌 My Projects  
-
+# 📌 My Projects    
 | Project 1 | Project 2 |
 |-----------|-----------|
 | <a href="https://github.com/bathanh0309/ADC_Modulator_Design/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ADC_Modulator_Design&theme=radical" /></a> | <a href="https://github.com/bathanh0309/FreeRTOS_Smart_Aquarium/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeRTOS_Smart_Aquarium&theme=merko" /></a> |
