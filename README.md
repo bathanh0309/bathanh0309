@@ -3,9 +3,9 @@
 ```
 - 🎓 I am studying at Electronics and Telecommunications Engineering
 - 🌐 ETE.DUT.UDN.VN
-- 🔧 Tools DSP & EDA: Altium Designer, Proteus, Simulink(Matlab), OptiSystem
-- 🔧 fff
-- 🔧fff
+- 🔧 Programming language: C++, Python, Matlab
+- 🔧 Tools DSP & EDA: Altium, Proteus, Simulink, OptiSystem
+- 🔧 Processor: ESP32, STM32, Jetson Nano(basic)
 ```
 📌 My Projects    
 | Electronics | Telecoms |
