@@ -11,5 +11,6 @@
 | Project 1 | Project 2 |
 |-----------|-----------|
 | <a href="https://github.com/bathanh0309/ADC_Modulator_Design/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ADC_Modulator_Design&theme=radical" /></a> | <a href="https://github.com/bathanh0309/FreeRTOS_Smart_Aquarium/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeRTOS_Smart_Aquarium&theme=merko" /></a> |
+
 | <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=gruvbox" /></a> | <a href="https://github.com/bathanh0309/Latex_mmWave_THz/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Latex_mmWave_THz&theme=dark" /></a> |
 | <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=onedark" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=radical" /></a> |
