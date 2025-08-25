@@ -9,7 +9,6 @@
 - 🛠️ DSP & EDA tools: **Simulink**, **OptiSystem**, **Altium**, **Proteus**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
 # 📌 My Projects
-
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms** |
 |---|---|
