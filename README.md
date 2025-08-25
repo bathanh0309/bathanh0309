@@ -1,42 +1,43 @@
+### 👋 WELCOME TO MY PAGE 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" 
-/>
+## 📚 About me  
+- 🎓 I am studying at **Electronics and Telecommunications Engineering - DUT, UDN (ETE.DUT.UDN.VN)**  
+- 🔧 Currently looking for **internship opportunities**  
+- 🗺 Love **Trekking** & **Cooking** 👨‍🍳  
+- ⚽ Passionate about **Football** and **Running**  
 
+---
 
-```
-📚 I am studying at ETE.DUT.UDN.VN
-🔧 Looking for internship opportunities 
-🗺 Love Trekking, Chef 
-️⚽ Football, running
-```
+## 📫 How to reach me:  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)  
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bathanh0309)  
+
+---
+
+## 📊 GitHub Stats  
+![Thanh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+---
+
+## 📌 My Projects  
 
 <a href="https://github.com/bathanh0309/ADC_Modulator_Design/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ADC-Modulator-Design&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ADC_Modulator_Design&theme=radical" />
 </a>    
-
 
 <a href="https://github.com/bathanh0309/FreeRTOS_Smart_Aquarium/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeRTOS_Smart_Aquarium&theme=merko" />
 </a>
-
-
 
 <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=gruvbox" />
 </a>    
 
-
 <a href="https://github.com/bathanh0309/Latex_mmWave_THz/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Latex_mmWave_THz&theme=dark" />
 </a>
 
-
-
-<a href="hhttps://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
+<a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=onedark" />
 </a>    
