@@ -28,3 +28,7 @@
 <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=onedark" />
 </a>    
+
+<a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=radical" />
+</a>
