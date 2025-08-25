@@ -7,11 +7,4 @@
 🗺 Love Trekking, Chef 
 ️⚽ Football, running
 ```
-<a href="https://github.com/bathanh0309/ADC_Modulator_Design">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bathanh0309&repo=ADCModulatorDesign&theme=radical" />
-</a>    
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
-</a>    
