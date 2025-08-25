@@ -7,7 +7,6 @@
 - 🗺 Love Trekking & Cooking
 - ⚽ Passionate about Football and Running
 ```
-
 # 📌 My Projects  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
