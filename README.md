@@ -7,6 +7,6 @@
 🗺 Love Trekking, Chef 
 ️⚽ Football, running
 ```
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/bathanh0309/ADC Modulator Design/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
 </a>    
