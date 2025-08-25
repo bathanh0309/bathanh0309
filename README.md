@@ -3,15 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" />
 </p>
 
-## About me
+# About me
 - 🎓 Studying **Electronics & Telecommunications Engineering** (ETE.DUT.UDN.VN)
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Simulink**, **OptiSystem**, **Altium**, **Proteus**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
-
----
-
-## 📌 My Projects
+# 📌 My Projects
 
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms** |
