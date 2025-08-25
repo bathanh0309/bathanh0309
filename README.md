@@ -7,14 +7,6 @@
 - 🗺 Love **Trekking** & **Cooking** 👨‍🍳  
 - ⚽ Passionate about **Football** and **Running**  
 
----
-
-## 📫 How to reach me:  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)  
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/bathanh0309)  
-
----
-
 ## 📌 My Projects  
 
 <a href="https://github.com/bathanh0309/ADC_Modulator_Design/">
