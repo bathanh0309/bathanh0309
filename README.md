@@ -5,7 +5,7 @@
 
 # 📌[About me - myCV](https://drive.google.com/file/d/1BKjBULJNqaFmmttrhNGEM_o5bkJ-ipHc/view?usp=drive_link)
 
-- 🎓 Studying **Electronics & Telecommunications Engineering** (ETE.DUT.UDN.VN)
+- 🎓 Studying **Electronics & Telecommunications Engineering** [ETE.DUT.UDN.VN](http://ete.dut.udn.vn/gioi-thieu/tong-quan.html)
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Simulink**, **OptiSystem**, **Altium**, **Proteus**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
