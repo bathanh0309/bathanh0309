@@ -8,10 +8,12 @@
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Simulink**, **OptiSystem**, **Altium**, **Proteus**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
-# 📌 My Projects 
+  
 <a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse" target="_blank">
      <img src="https://img.shields.io/badge/Research with me -808080?style=for-the-badge&logoColor=white" target="_blank" />
 </a>
+
+# 📌 My Projects 
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms** |
 |---|---|
