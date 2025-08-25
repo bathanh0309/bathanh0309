@@ -4,8 +4,8 @@
 - 🎓 I am studying at Electronics and Telecommunications Engineering
 - 🌐 ETE.DUT.UDN.VN
 - 🔧 Currently looking for internship opportunities  
-- 🗺 Love Trekking & Cooking
-- ⚽ Passionate about Football and Running
+- 🗺 Trekking & Cooking
+- ⚽ Football & Running
 ```
 📌 My Projects    
 | Electronics | Telecoms |
