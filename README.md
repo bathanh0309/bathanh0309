@@ -16,10 +16,7 @@
 | <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Latex_mmWave_THz/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Latex_mmWave_THz&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
 
-<!-- Optional: stats section (remove if không cần) -->
-<!--
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-</p>
--->
+
+<a href="https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse" target="_blank">
+     <img src="https://img.shields.io/badge/Research with me -808080?style=for-the-badge&logoColor=white" target="_blank" />
+</a>
