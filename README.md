@@ -3,9 +3,9 @@
 ```
 - 🎓 I am studying at Electronics and Telecommunications Engineering
 - 🌐 ETE.DUT.UDN.VN
-- 🔧 Currently looking for internship opportunities  
-- 🗺 Trekking & Cooking
-- ⚽ Football & Running
+- 🔧 Tools DSP & EDA: Altium Designer, Proteus, Simulink(Matlab), OptiSystem
+- 🔧 fff
+- 🔧fff
 ```
 📌 My Projects    
 | Electronics | Telecoms |
