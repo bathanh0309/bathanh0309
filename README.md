@@ -15,11 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Thanh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
----
-
 ## 📌 My Projects  
 
 <a href="https://github.com/bathanh0309/ADC_Modulator_Design/">
