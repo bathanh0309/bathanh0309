@@ -10,8 +10,6 @@
 
 ## 📌 My Projects  
 
-## 📌 My Projects  
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
   <a href="https://github.com/bathanh0309/ADC_Modulator_Design/">
