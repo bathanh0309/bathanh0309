@@ -3,11 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" />
 </p>
 
-<a href="https://drive.google.com/file/d/1BKjBULJNqaFmmttrhNGEM_o5bkJ-ipHc/view?usp=drive_link " target="_blank">
-     <img src="https://img.shields.io/badge/myCV -808080?style=for-the-badge&logoColor=white" target="_blank" />
-</a>
+# [About me](https://drive.google.com/file/d/1BKjBULJNqaFmmttrhNGEM_o5bkJ-ipHc/view?usp=drive_link)
 
-# About me
 - 🎓 Studying **Electronics & Telecommunications Engineering** (ETE.DUT.UDN.VN)
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Simulink**, **OptiSystem**, **Altium**, **Proteus**
