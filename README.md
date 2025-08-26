@@ -7,7 +7,7 @@
 
 - 🎓 Studying **Electronics & Telecommunications Engineering** [ETE.DUT.UDN.VN](http://ete.dut.udn.vn/gioi-thieu/tong-quan.html)
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
-- 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo Xilinx**, **wireshark**, **OptiSystem**
+- 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
 
 # [My Projects - Research with me](https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse)
