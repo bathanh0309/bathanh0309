@@ -12,7 +12,7 @@
 
 # [My Projects - Research with me](https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse)
 <!-- 2-column grid using a markdown table -->
-| **Electronics** | **Telecoms** |
+| **Electronics** | **Telecoms & Computer Science** |
 |---|---|
 | <a href="https://github.com/bathanh0309/FreeRTOS_Smart_Aquarium/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeRTOS_Smart_Aquarium&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/ADC_Modulator_Design/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ADC_Modulator_Design&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Latex_mmWave_THz/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=High_Frequency_mmWave_THz&theme=tokyonight" /></a> |
