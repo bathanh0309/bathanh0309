@@ -3,14 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" />
 </p>
 
-# [About me - myCV](https://drive.google.com/file/d/1YUS4QiCql3SFWSE8oLDhU2sn7u3oTEaG/view?usp=drive_link)
+# [About me]
 
 - 🎓 Studying **Electronics & Telecommunications Engineering** [ETE.DUT.UDN.VN](http://ete.dut.udn.vn/gioi-thieu/tong-quan.html)
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
 
-# [Research with me](https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse)
+# [Research with me]
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms & Computer Science** |
 |---|---|
