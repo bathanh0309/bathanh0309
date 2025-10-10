@@ -10,7 +10,7 @@
 - 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
 
-# [My Projects - Research with me](https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse)
+# [Research with me](https://drive.google.com/drive/folders/16SKT1RGw4aA7DBIhNqv73GJ5IANRuQse)
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms & Computer Science** |
 |---|---|
