@@ -10,6 +10,35 @@
 - 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
 
+🛠️ My Tech Stack & Skills
+Here's a summary of the languages, tools, and technologies I'm proficient in:
+
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />
+
+<b>Programming Languages</b>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,raspberrypi,arduino" />
+
+<b>Hardware & Embedded</b>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,opencv" />
+
+<b>AI & Computer Vision</b>
+</td>
+<td align="center" width="180">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatlab,vscode,git,altium" />
+
+<b>Tools & Software</b>
+</td>
+</tr>
+</table>
+
+
 # Research with me
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms & Computer Science** |
@@ -58,32 +87,20 @@ Here's a summary of the languages, tools, and technologies I'm proficient in:
 <td align="center" width="180">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />
 
-
-
-
 <b>Programming Languages</b>
 </td>
 <td align="center" width="180">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,raspberrypi,arduino" />
-
-
-
 
 <b>Hardware & Embedded</b>
 </td>
 <td align="center" width="180">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,opencv" />
 
-
-
-
 <b>AI & Computer Vision</b>
 </td>
 <td align="center" width="180">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatlab,vscode,git,altium" />
-
-
-
 
 <b>Tools & Software</b>
 </td>
