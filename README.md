@@ -163,12 +163,6 @@ Here are some of the key projects I've worked on. You can find more on my reposi
 </tr>
 </table>
 
-📊 My GitHub Stats
-<p align="center">
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dbathanh0309%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dbathanh0309%26layout%3Dcompact%26langs_count%3D6%26theme%3Dtokyonight%26hide_border%3Dtrue" />
-</p>
-
-<p align="center">
+📊 <p align="center">
 Thanks for visiting my profile!
 </p>
