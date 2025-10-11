@@ -17,7 +17,7 @@
   <b>🧠 Programming Languages</b>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Arduino-00979D%3Fstyle%3Dfor-the-badge%26logo%3Darduino%26logoColor%3Dwhite" alt="Arduino"/>
 </td>
 
 
