@@ -23,6 +23,11 @@
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/><br/>
       <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+    <span>
+  <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" alt="I2C"/>
+  <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" alt="SPI"/>
+  <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge" alt="UART"/>
+</span>
     </td>
 
     
