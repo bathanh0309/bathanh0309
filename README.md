@@ -11,7 +11,7 @@
 <td align="center" width="165">
 <b>📡 Signal & Simulation </b>
   <br>
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=simulink&logoColor=white" alt="Simulink"/>
+  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Matlab-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" alt="Matlab"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </td>
 
