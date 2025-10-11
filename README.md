@@ -10,7 +10,6 @@
 
 <table>
   <tr>
-    <!-- Programming -->
     <td align="center" width="260">
       <b>🧠 Programming Languages</b><br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
@@ -37,19 +36,15 @@
   </tr>
 
   <tr>
-    <!-- Tools -->
     <td align="center" width="260">
       <b>⚙️ Tools & Platforms</b><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </td>
-
-  <!-- EDA / PCB -->
     
   <td align="center" width="260">
       <b>📐 EDA / PCB</b><br/>
-      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
     </td>
