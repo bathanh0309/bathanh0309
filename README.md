@@ -9,7 +9,7 @@
 
 <td align="center" width="165">
 <!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
-<b>🎓Đại học Bách Khoa Đà Nẵng</b>
+<b>🎓Bách Khoa Đại học Đà Nẵng</b>
 </td>
   
 <td align="center" width="165">
