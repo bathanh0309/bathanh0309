@@ -23,8 +23,9 @@
 
 
 <td align="center" width="165">
-<b>🛠️Embedded Hardware </b>
-   <br>
+  <b>🛠️Embedded Hardware </b>
+  <br>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 </td>
 
 <td align="center" width="165">
