@@ -22,7 +22,7 @@
 </td>
 
 <td align="center" width="165">
-<b>🚀AI & Computer Vision</b>
+<b>🚀Computer Science & Vision</b>
 </td>
 
 <td align="center" width="165">
