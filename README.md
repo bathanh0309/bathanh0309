@@ -81,8 +81,6 @@
   <div class="badges">
     <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
     <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="FreeRTOS"/>
-    <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"/>
     <img src="https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge" alt="Proteus (Simulation)"/>
 
   </div>
