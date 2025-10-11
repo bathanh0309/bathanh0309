@@ -62,7 +62,6 @@
   </tr>
 </table>
 
-
 # My projects
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Signal & Computer Science** |
