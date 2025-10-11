@@ -13,9 +13,9 @@
 </td>
   
 <td align="center" width="165">
-<!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
-<b>🧠Programming Languages</b>
-  https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000
+  <b>🧠 Programming Languages</b>
+  <br>
+  <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="Python Logo" width="40"/>
 </td>
 
 <td align="center" width="165">
