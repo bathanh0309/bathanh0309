@@ -56,9 +56,9 @@
     
   <td align="center" width="280">
       <b>📡 Networking & Signal</b><br/>
-      <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/><br/>
-      <img src="https://img.shields.io/badge/MATLAB-%20?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8&color=FF8C00" alt="MATLAB"/><br/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/><br/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/><br/>
+    <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
     </td>
   </tr>
 </table>
