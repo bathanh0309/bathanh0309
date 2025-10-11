@@ -25,7 +25,7 @@
 <td align="center" width="165">
   <b>🛠️Embedded Hardware </b>
   <br>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&%26logo=mqtt%26&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white" alt="MQTT"/>
 </td>
 
 <td align="center" width="165">
