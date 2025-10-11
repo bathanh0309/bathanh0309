@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
   <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
+<img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
 
 </td>
 
