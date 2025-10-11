@@ -42,12 +42,3 @@
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
 
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="VS Code"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vim-019733%3Fstyle%3Dfor-the-badge%26logo%3Dvim%26logoColor%3Dwhite" alt="Vim"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
-</p>
