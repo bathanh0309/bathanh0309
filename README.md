@@ -41,4 +41,11 @@
 | <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
 
-
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MATLAB-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" alt="MATLAB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" alt="Rust"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Assembly-6E6E6E%3Fstyle%3Dfor-the-badge%26logo%3Dnasm%26logoColor%3Dwhite" alt="Assembly"/>
+</p>
