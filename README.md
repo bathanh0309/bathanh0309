@@ -21,7 +21,7 @@
   <b>🧠 Programming Languages</b>
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+    <img src="https://www.google.com/search?q=https://img.shields.io/badge/Matlab-0076A8%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26logoColor%3Dwhite" alt="Matlab"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </td>
