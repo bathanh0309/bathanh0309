@@ -49,7 +49,7 @@
       <b>📐 EDA / PCB</b><br/>
       <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/><br/>
-    <img src="https://img.shields.io/badge/AMD%20Vivado-000000?style=for-the-badge&logo=amd&logoColor=white"
+    <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=amd&logoColor=white"
      alt="Vivado"/>
     </td>
 
