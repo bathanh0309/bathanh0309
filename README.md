@@ -37,6 +37,8 @@
 
 <td align="center" width="165">
 <b>⚙️Tools Software</b>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </td>
 
 
