@@ -7,25 +7,25 @@
 <table>
 <tr>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
 <b>🎓Đại học Bách Khoa Đà Nẵng</b>
 </td>
   
-<td align="center" width="150">
+<td align="center" width="160">
 <!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
 <b>🧠Programming Languages</b>
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <b>🛠️ Hardware & Embedded</b>
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <b>🚀AI & Computer Vision</b>
 </td>
 
-<td align="center" width="150">
+<td align="center" width="160">
 <b>⚙️Tools & Software</b>
 </td>
 </tr>
