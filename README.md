@@ -11,7 +11,6 @@
 <td align="center" width="165">
 <b>📡 Signal & Simulation </b>
   <br>
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/Altium%2520Designer-A5915F%3Fstyle%3Dfor-the-badge" alt="Altium Designer"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </td>
 
