@@ -21,7 +21,7 @@
 
     
   <td align="center" width="280">
-      <b>🔩 Embedded / IOT</b><br/>
+      <b>🔩 Embedded IOT</b><br/>
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
@@ -44,7 +44,7 @@
 
   <tr>
     <td align="center" width="280">
-      <b>⚙️ Software / DevOps</b><br/>
+      <b>⚙️ Software DevOps</b><br/>
       <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
