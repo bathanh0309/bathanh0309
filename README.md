@@ -9,7 +9,7 @@
 - 🧠 Programming: **C++**, **Python**, **MATLAB**
 - 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
 - ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
-🚀 
+ 
 🛠️ My Tech Stack & Skills
 Here's a summary of the languages, tools, and technologies I'm proficient in:
 
@@ -23,19 +23,17 @@ Here's a summary of the languages, tools, and technologies I'm proficient in:
 
 
 <td align="center" width="180">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,raspberrypi,arduino" />
-
-<b>Hardware & Embedded</b>
+<b>🛠️ Hardware & Embedded</b>
 </td>
-<td align="center" width="180">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,opencv" />
 
-<b>AI & Computer Vision</b>
+
+
+<td align="center" width="180">
+<b>🚀AI & Computer Vision</b>
 </td>
-<td align="center" width="180">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmatlab,vscode,git,altium" />
 
-<b>Tools & Software</b>
+<td align="center" width="180">
+<b>⚙️Tools & Software</b>
 </td>
 </tr>
 </table>
