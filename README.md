@@ -20,7 +20,7 @@
 
     
   <td align="center" width="260">
-      <b>🔩 Embedded Hardware & IoT</b><br/>
+      <b>🔩 Embedded Hardware & IOT</b><br/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/><br/>
       <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
@@ -30,7 +30,9 @@
   <td align="center" width="260">
       <b>🚀 Computer Science & Vision</b><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/><br/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+
     </td>
   </tr>
 
@@ -47,7 +49,7 @@
     
   <td align="center" width="260">
       <b>📐 EDA / PCB</b><br/>
-      <!-- Altium & Proteus chưa có slug logo chính thức trên Simple Icons nên để badge chữ -->
+      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
     </td>
@@ -55,6 +57,8 @@
     
   <td align="center" width="260">
       <b>📡 Networking & Signal</b><br/>
+      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
+      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </td>
   </tr>
