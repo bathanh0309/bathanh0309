@@ -19,7 +19,8 @@
     </td>
 
     <!-- Embedded / IoT -->
-    <td align="center" width="260">
+    
+  <td align="center" width="260">
       <b>🔩 Embedded Hardware & IoT</b><br/>
       <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/><br/>
       <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/><br/>
@@ -27,7 +28,8 @@
     </td>
 
     <!-- CS & Vision -->
-    <td align="center" width="260">
+    
+  <td align="center" width="260">
       <b>🚀 Computer Science & Vision</b><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -53,7 +55,8 @@
     </td>
 
     <!-- Networking & Signal -->
-    <td align="center" width="260">
+    
+  <td align="center" width="260">
       <b>📡 Networking & Signal</b><br/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </td>
