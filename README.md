@@ -6,7 +6,7 @@
 
 <!-- ===== About me ===== -->
 <h1>📖 About me</h1>
-🎓 DUT – Đại học Bách Khoa - Đại học Đà Nẵng 🌐<br/>
+🎓 DUT – Đại học Bách Khoa - Đại học Đà Nẵng 🌐<br>
 
 <table>
   <tr>
