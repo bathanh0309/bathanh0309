@@ -21,7 +21,7 @@
 
     
   <td align="center" width="280">
-      <b>🔩 Embedded / Hardware / IOT</b><br/>
+      <b>🔩 Embedded / IOT</b><br/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/><br/>
     <span>
@@ -48,7 +48,7 @@
     </td>
     
   <td align="center" width="280">
-      <b>📐 EDA / PCB</b><br/>
+      <b>📐 Hardware Design</b><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/><br/>
     <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
     </td>
