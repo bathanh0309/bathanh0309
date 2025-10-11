@@ -6,14 +6,14 @@
 
 <!-- ===== About me ===== -->
 <h1>📖 About me</h1>
-🎓 DUT – Đại học Bách Khoa - Đại học Đà Nẵng 🌐<br>
-<br>
+🎓 DUT – Đại học Bách Khoa - Đại học Đà Nẵng 🌐<br/>
+<br/>
 <table>
   <tr>
     <td align="center" width="280">
       <b>🧠 Programming Languages</b><br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
-      <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB/MathWorks"/><br/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </td>
 
