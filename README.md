@@ -20,8 +20,9 @@
 <td align="center" width="165">
   <b>🧠 Programming Languages</b>
   <br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge&logo%3Dcplusplus&logoColor%3Dwhite" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </td>
 
 
