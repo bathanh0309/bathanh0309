@@ -29,6 +29,8 @@
 
 <td align="center" width="165">
 <b>🚀Computer Science & Computer Vision</b>
+  <br>
+  <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV"/>
 </td>
 
 <td align="center" width="165">
