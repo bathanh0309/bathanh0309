@@ -30,7 +30,7 @@
 <td align="center" width="165">
 <b>🚀Computer Science & Computer Vision</b>
   <br>
-  <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dfor-the-badge%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </td>
 
 <td align="center" width="165">
