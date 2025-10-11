@@ -18,7 +18,7 @@
 </td>
 
 <td align="center" width="165">
-<b>🛠️ Hardware & Embedded</b>
+<b>🛠️ Hardware Embedded</b>
 </td>
 
 <td align="center" width="165">
