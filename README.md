@@ -29,7 +29,7 @@
 <b>⚙️Tools IDE Software</b>
 </td>
 </tr>
-</table> lồng vào để hiện logo dưới mỗi mục trong readme github
+</table> 
 
 # My projects
 <!-- 2-column grid using a markdown table -->
