@@ -30,8 +30,12 @@
 
 
 <td align="center" width="165">
-  <b>🛠️Embedded Hardware </b>
+  <b>🛠️Embedded Hardware IOT</b>
   <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
   <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white" alt="MQTT"/>
