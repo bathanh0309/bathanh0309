@@ -42,7 +42,7 @@
 
   <tr>
     <td align="center" width="280">
-      <b>⚙️ Tools & Software</b><br/>
+      <b>⚙️ Software / DevOps</b><br/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
     </td>
@@ -55,7 +55,7 @@
 
     
   <td align="center" width="280">
-      <b>📡 Networking & Signal</b><br/>
+      <b>📡 Signal / Networking </b><br/>
     <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/><br/>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </td>
