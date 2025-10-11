@@ -4,12 +4,14 @@
 </p>
 
 # 📖About me: 
-🎓DUT Bách Khoa Đại học Đà Nẵng
+🎓DUT Bách Khoa Đại học Đà Nẵng 🌐
 <table>
 <tr>
 
 <td align="center" width="165">
-<b>🎓DUT Bách Khoa Đại học Đà Nẵng</b>
+<b>📡 Signal & Simulation </b>
+  <br>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
 </td>
 
 
