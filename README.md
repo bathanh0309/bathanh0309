@@ -15,7 +15,7 @@
   
 <td align="center" width="165">
   <b>🧠 Programming Languages</b>
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </td>
 
@@ -24,7 +24,6 @@
 <td align="center" width="165">
 <b>🛠️Embedded Hardware </b>
    <br>
-  <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" alt="Python Logo" width="40"/>
 </td>
 
 <td align="center" width="165">
