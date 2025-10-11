@@ -19,19 +19,19 @@
 
     
   <td align="center" width="260">
-      <b>🔩 Embedded Hardware & IOT</b><br/>
+      <b>🔩 Embedded / Hardware / IOT</b><br/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/><br/>
     <span>
-  <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" alt="I2C"/>
-  <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" alt="SPI"/>
-  <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge" alt="UART"/>
-</span>
+    <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" alt="I2C"/>
+    <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" alt="SPI"/>
+    <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge" alt="UART"/>
+    </span>
     </td>
 
     
   <td align="center" width="260">
-      <b>🚀 Computer Science & Vision</b><br/>
+      <b>🚀 Computer Science / AI / Vision</b><br/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
     <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson"/>
