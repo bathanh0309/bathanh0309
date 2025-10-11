@@ -4,6 +4,63 @@
 </p>
 
 
+<!-- ===== About me ===== -->
+<h1>📖 About me</h1>
+<p>🎓 DUT – Bách Khoa Đại học Đà Nẵng 🌐</p>
+
+<table>
+  <tr>
+    <!-- Programming -->
+    <td align="center" width="260">
+      <b>🧠 Programming Languages</b><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
+      <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB/MathWorks"/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+
+    <!-- Embedded / IoT -->
+    <td align="center" width="260">
+      <b>🔩 Embedded Hardware & IoT</b><br/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/><br/>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/><br/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+    </td>
+
+    <!-- CS & Vision -->
+    <td align="center" width="260">
+      <b>🚀 Computer Science & Vision</b><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Tools -->
+    <td align="center" width="260">
+      <b>⚙️ Tools & Platforms</b><br/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    </td>
+
+  EDA / PCB -->
+    
+  <td align="center" width="260">
+      <b>📐 EDA / PCB</b><br/>
+      <!-- Altium & Proteus chưa có slug logo chính thức trên Simple Icons nên để badge chữ -->
+      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
+      <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
+    </td>
+
+    <!-- Networking & Signal -->
+    <td align="center" width="260">
+      <b>📡 Networking & Signal</b><br/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+    </td>
+  </tr>
+</table>
+
+
 # My projects
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms & Computer Science** |
