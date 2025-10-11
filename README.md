@@ -6,10 +6,12 @@
 
 <!-- ===== About me ===== -->
 <h1>📖 About me</h1>
+
+<h4>
 <p align="center">
-<h4>🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng </h4>
-  </p>
- 
+🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng </p>
+</h4>
+
 <table>
   <tr>
     <td align="center" width="280">
