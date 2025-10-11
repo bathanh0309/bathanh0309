@@ -9,20 +9,20 @@
 
 <table>
 <tr>
-<td align="center" width="180">
+<td align="center" width="150">
 <!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
 <b>🧠Programming Languages</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="150">
 <b>🛠️ Hardware & Embedded</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="150">
 <b>🚀AI & Computer Vision</b>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="150">
 <b>⚙️Tools & Software</b>
 </td>
 </tr>
