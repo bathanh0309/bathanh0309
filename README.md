@@ -26,7 +26,7 @@
 </td>
 
 <td align="center" width="165">
-<b>⚙️Software Tools IDE </b>
+<b>⚙️Tools IDE Software</b>
 </td>
 </tr>
 </table>
