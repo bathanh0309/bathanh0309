@@ -36,7 +36,7 @@
 </td>
 
 <td align="center" width="165">
-<b>⚙️Tools IDE Software</b>
+<b>⚙️Tools Software</b>
 </td>
 
 
