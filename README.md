@@ -41,42 +41,5 @@
 | <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
 
-🛠️ Programming Languages
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python,matlab,rust,assembly" />
-</a>
-</p>
-
-🚀 Embedded Hardware & Protocols
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,raspberrypi,arduino,git" />
-</a>
-</p>
-
-Processors & Microcontrollers: ESP32, STM32, NVIDIA Jetson Nano
-
-EDA & Simulation Tools: Altium Designer, Proteus, Vivado, OptiSystem
-
-Communication Protocols: I2C, SPI, UART, MQTT, HTTP, REST API
-
-⚙️ Computer Science & Vision
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,opencv,numpy,pandas,scikitlearn" />
-</a>
-</p>
-
-Core Concepts: Machine Learning, Deep Learning, Computer Vision, Digital Signal Processing (DSP)
-
-💻 Tools, IDE & Software
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dvscode,vim,postman,docker,github,bash" />
-</a>
-</p>
-
-Network Analysis: Wireshark
 
 
