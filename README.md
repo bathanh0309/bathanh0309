@@ -16,10 +16,12 @@ Here's a summary of the languages, tools, and technologies I'm proficient in:
 <table>
 <tr>
 <td align="center" width="180">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />
-
+<!--   <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dc,cpp,python" />    -->
 <b>🧠Programming Languages</b>
 </td>
+
+
+
 <td align="center" width="180">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dlinux,raspberrypi,arduino" />
 
