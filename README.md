@@ -32,7 +32,7 @@
 </table>
 
 
-# Research with me
+# My projects
 <!-- 2-column grid using a markdown table -->
 | **Electronics** | **Telecoms & Computer Science** |
 |---|---|
