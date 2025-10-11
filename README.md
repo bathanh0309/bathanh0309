@@ -5,11 +5,11 @@
 
 
 <!-- ===== About me ===== -->
-<h1>📖 About me</h1>
+<h1>About me</h1>
 
 <h4>
 <p align="center">
-🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng </p>
+🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng 📖 </p>
 </h4>
 
 <table>
