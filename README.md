@@ -18,7 +18,7 @@
 </td>
 
 <td align="center" width="165">
-<b>🛠️ Hardware Embedded</b>
+<b>🛠️Embedded Hardware </b>
 </td>
 
 <td align="center" width="165">
@@ -26,7 +26,7 @@
 </td>
 
 <td align="center" width="165">
-<b>⚙️Tools  Software</b>
+<b>⚙️Software Tools IDE </b>
 </td>
 </tr>
 </table>
