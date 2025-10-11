@@ -9,8 +9,7 @@
 <p align="center">
 🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng 
   </p>
-  
-  <br/>
+ 
 <table>
   <tr>
     <td align="center" width="280">
