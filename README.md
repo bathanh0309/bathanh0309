@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="280">
       <b>⚙️ Software / DevOps</b><br/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><br/>
+      <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
     </td>
     
