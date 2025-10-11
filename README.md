@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td align="center" width="260">
+    <td align="center" width="280">
       <b>🧠 Programming Languages</b><br/>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
       <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB/MathWorks"/><br/>
@@ -18,7 +18,7 @@
     </td>
 
     
-  <td align="center" width="260">
+  <td align="center" width="280">
       <b>🔩 Embedded / Hardware / IOT</b><br/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/><br/>
@@ -30,7 +30,7 @@
     </td>
 
     
-  <td align="center" width="260">
+  <td align="center" width="280">
       <b>🚀 Computer Science / AI / Vision</b><br/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/><br/>
@@ -39,20 +39,20 @@
   </tr>
 
   <tr>
-    <td align="center" width="260">
+    <td align="center" width="280">
       <b>⚙️ Tools & Platforms</b><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
     </td>
     
-  <td align="center" width="260">
+  <td align="center" width="280">
       <b>📐 EDA / PCB</b><br/>
       <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
     </td>
 
     
-  <td align="center" width="260">
+  <td align="center" width="280">
       <b>📡 Networking & Signal</b><br/>
       <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/><br/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
