@@ -81,20 +81,11 @@
   <div class="badges">
     <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
     <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
-    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-    <img src="https://img.shields.io/badge/Gazebo-E66100?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo"/>
-    <img src="https://img.shields.io/badge/NS--3-555555?style=for-the-badge" alt="ns-3"/>
-    <img src="https://img.shields.io/badge/OMNeT%2B%2B-555555?style=for-the-badge" alt="OMNeT++"/>
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="FreeRTOS"/>
     <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS"/>
-    <img src="https://img.shields.io/badge/COMSOL-555555?style=for-the-badge" alt="COMSOL"/>
     <img src="https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge" alt="Proteus (Simulation)"/>
-    <img src="https://img.shields.io/badge/LTspice-A41E11?style=for-the-badge" alt="LTspice (Simulation)"/>
+
   </div>
 
-
-
- <p style="margin-top:28px;color:#666">
-    Tip: đổi màu ở tham số sau hostname (mã hex), đổi logo bằng <code>&logo=&lt;simple-icons-slug&gt;</code>, và màu logo bằng <code>&logoColor=white/black</code>.
-  </p>
 </body>
 </html>
