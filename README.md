@@ -7,7 +7,7 @@
 <!-- ===== About me ===== -->
 <h1>📖 About me</h1>
 <p align="center">
-<h2>🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng </h2>
+<h4>🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa - Đại học Đà Nẵng </h4>
   </p>
  
 <table>
