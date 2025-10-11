@@ -3,7 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ba+Thanh;Electronics+and+Telecommunications+Engineering;" />
 </p>
 
-# 📖About me
+# 📖About me: 
+🎓DUT Bách Khoa Đại học Đà Nẵng
 <table>
 <tr>
 
