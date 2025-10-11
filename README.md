@@ -6,12 +6,6 @@
 # 📖About me
 
 - 🎓 Studying **Electronics & Telecommunications Engineering** [ETE.DUT.UDN.VN](http://ete.dut.udn.vn/gioi-thieu/tong-quan.html)
-- 🧠 Programming: **C++**, **Python**, **MATLAB**
-- 🛠️ DSP & EDA tools: **Altium**, **Proteus**, **VScode**, **Vivaldo**, **Wireshark**, **OptiSystem**
-- ⚙️ Processors: **ESP32**, **STM32**, **Jetson Nano** *(basic)*
- 
-🛠️ My Tech Stack & Skills
-Here's a summary of the languages, tools, and technologies I'm proficient in:
 
 <table>
 <tr>
@@ -20,13 +14,9 @@ Here's a summary of the languages, tools, and technologies I'm proficient in:
 <b>🧠Programming Languages</b>
 </td>
 
-
-
 <td align="center" width="180">
 <b>🛠️ Hardware & Embedded</b>
 </td>
-
-
 
 <td align="center" width="180">
 <b>🚀AI & Computer Vision</b>
