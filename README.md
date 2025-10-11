@@ -17,6 +17,7 @@
   <b>🧠 Programming Languages</b>
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-thebadge%26logo%3Dcplusplus%26logoColor%3Dwhite" alt="C++"/>
 </td>
 
 
@@ -33,6 +34,8 @@
 <td align="center" width="165">
 <b>⚙️Tools IDE Software</b>
 </td>
+
+
 </tr>
 </table> 
 
