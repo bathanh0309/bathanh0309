@@ -48,17 +48,17 @@
     
   <td align="center" width="280">
       <b>📐 EDA / PCB</b><br/>
-      <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/><br/>
-    <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=amd&logoColor=white"
-     alt="Vivado"/>
+    <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=amd&logoColor=white"alt="Vivado"/><br/>
+    <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
     </td>
 
     
   <td align="center" width="280">
       <b>📡 Networking & Signal</b><br/>
       <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/><br/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/><br/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     </td>
   </tr>
 </table>
