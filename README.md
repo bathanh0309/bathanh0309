@@ -22,15 +22,15 @@
     
   <td align="center" width="280">
       <b>🔩 Embedded IOT</b><br/>
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-    <img src="https://img.shields.io/badge/Platform%20IO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
-    <span>
+     <span>
     <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" alt="I2C"/>
     <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" alt="SPI"/>
     <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge" alt="UART"/>
     </span>
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
+    <img src="https://img.shields.io/badge/Platform%20IO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
     </td>
 
     
