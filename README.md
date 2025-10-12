@@ -52,7 +52,8 @@
     
   <td align="center" width="280">
       <b>📐 Hardware Design</b><br/>
-      <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/><br/>
+      <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
+    <img src="https://img.shields.io/badge/📈 Oscilloscope-0A84FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Oscilloscope"/><br/>
     <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/>
     </td>
 
