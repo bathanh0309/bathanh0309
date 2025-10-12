@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32/Espressif"/><br/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
-    <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Bluetooth Low Energy"/><br/>
+    <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
     <span>
     <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" alt="I2C"/>
     <img src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" alt="SPI"/>
@@ -74,10 +74,6 @@
 | <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Latex_mmWave_THz/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=High_Frequency_mmWave_THz&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
-
-
-<img src="https://img.shields.io/badge/VS%20Code%20%2B%20PlatformIO-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code + PlatformIO"/>
-<img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
 
 
 
