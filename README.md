@@ -76,3 +76,8 @@
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
 
 
+<img src="https://img.shields.io/badge/VS%20Code%20%2B%20PlatformIO-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code + PlatformIO"/>
+<img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO"/>
+
+
+
