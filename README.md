@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/Proteus-1E5083?style=for-the-badge" alt="Proteus"/>
     <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" alt="Altium Designer"/><br/>
     <img src="https://img.shields.io/badge/📈 Oscilloscope-0A84FF?style=for-the-badge&logoColor=white&labelColor=000000" alt="Oscilloscope"/>
-    <img src="https://img.shields.io/badge/Free%20RTOS-00C4CC?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+    <img src="https://img.shields.io/badge/FreeRTOS-00C4CC?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
     </td>
 
     
