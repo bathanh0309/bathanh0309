@@ -60,7 +60,8 @@
     
   <td align="center" width="280">
       <b>📡 Signal / Networking </b><br/>
-    <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/><br/>
+    <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink"/>
+      <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=for-the-badge&logoColor=white" alt="OptiSystem"/><br/>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
     </td>
   </tr>
