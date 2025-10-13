@@ -45,9 +45,9 @@
   <tr>
     <td align="center" width="280">
       <b>⚙️ Software DevOps</b><br/>
-      <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+      <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WSL"/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
     </td>
     
