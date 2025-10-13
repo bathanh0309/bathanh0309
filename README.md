@@ -17,6 +17,7 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
      <img src="https://img.shields.io/badge/MATLAB-%20?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8&color=FF8C00" alt="MATLAB"/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Verilog%20HDL-000000?style=for-the-badge&logoColor=white" alt="Verilog"/>
     </td>
 
     
