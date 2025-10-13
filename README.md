@@ -36,7 +36,7 @@
     </td>
 
     
-  <td align="center" width="280">
+  <td align="center" width="285">
       <b>🤖 Computer Science / AI </b><br/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/><br/>
