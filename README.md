@@ -17,9 +17,9 @@
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
      <img src="https://img.shields.io/badge/MATLAB-%20?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8&color=FF8C00" alt="MATLAB"/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Fast%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br/>
+          <img src="https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br/>
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
 
     
