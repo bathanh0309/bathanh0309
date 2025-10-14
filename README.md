@@ -71,6 +71,33 @@
 </table>
 
 
+
+### 12) `ai-vision-portfolio`
+```md
+# AI & Computer Vision — Portfolio
+> Selected projects across IoT, CV/DL, Robotics, and Signal Processing.
+
+**At a glance**
+- **IoT**: FreeRTOS aquarium, smart parking, home hub  
+- **CV/DL**: CIFAR-100 (3×3 vs 9×9), transfer learning  
+- **Robotics**: RRT on Jetson Nano  
+- **Signal**: ADC sim, mmWave/THz notes, OptiSystem
+
+**Projects**
+- iot-freeaqua-rtos → [link]
+- iot-smart-parking-parksense → [link]
+- iot-homehub-smart-home → [link]
+- cv-cifar100-cnn-3x3-vs-9x9 → [link]
+- rob-rrt-jetson-nano → [link]
+- ml-sklearn-playbook → [link]
+- dl-vision-playground → [link]
+- sp-simu-adc → [link]
+- sp-mmwave-thz-notes → [link]
+- sp-audio-amplifier-otl → [link]
+- sp-optisystem-photonics → [link]
+
+```
+
 # My projects
 
 | **Embedded IOT** | **Computer Science** | **Signal** |
