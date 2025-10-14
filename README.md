@@ -121,4 +121,4 @@
 ---
 
 ## 🧾 Keywords
-`Embedded Systems` • `IoT` • `ESP32` • `FreeRTOS` • `MQTT` • `Computer Vision` • `TensorFlow` • `Keras` • `Machine Learning` • `Deep Learning` • `RRT` • `Jetson Nano` • `Signal Processing` • `ADC` • `OptiSystem`
+`Embedded Systems` • `IoT` • `ESP32` • `FreeRTOS` • `MQTT` • `Computer Vision` • `TensorFlow` • `Machine Learning` • `Deep Learning`  • `Jetson Nano` • `Signal Processing` • `ADC` • `OptiSystem`
