@@ -104,7 +104,7 @@
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
-  <li><b> Giấy chứng nhận DSAC:</b> FPGA cải thiện độ chính xác tín hiệu ECG (03/2025)
+  <li><b> Giấy chứng nhận DSAC:</b> FPGA cải thiện chất lượng tín hiệu ECG (03/2025)
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
