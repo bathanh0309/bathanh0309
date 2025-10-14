@@ -98,7 +98,9 @@
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view?usp=drive_link" target="_blank">📜</a>
   </li>
   
-
+  <li><b> Giấy chứng nhận NCKH:</b> Ứng dụng AI cho xe tự hành (12/2023)
+    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🪪</a>
+  </li>
   
   <li><b> Giấy chứng nhận NVIDIA:</b> Fundamentals of Deep Learning(09/2025)
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
@@ -108,12 +110,8 @@
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
-  
-  <li><b> Giấy chứng nhận NCKH:</b> Ứng dụng AI cho xe tự hành (12/2023)
-    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🪪</a>;
-  </li>
 
-  <li><b> Giấy chứng nhận Startup:</b> Thùng rác thông minh xử lý ảnh (08/2024)
+  <li><b> Giấy chứng nhận Startup:</b> Thùng rác thông minh xử lý ảnh và phân loại (08/2024)
     <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🪪</a>
   </li>
   
