@@ -99,16 +99,23 @@
   
 
   
-  <li><b>NVIDIA – Fundamentals of Deep Learning</b> (09/2025)
-    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>;
-    <b>DSAC – FPGA nâng cao độ chính xác ECG</b> (03/2025)
-    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">📄</a>
+  <li><b> Giấy chứng nhận NVIDIA – Fundamentals of Deep Learning</b> (09/2025)
+    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
   </li>
-  <li><b>NCKH: Ứng dụng AI cho xe tự hành</b> (12/2023)
-    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🔗</a>;
-    <b>Startup: Thùng rác thông minh xử lý ảnh</b> (08/2024)
-    <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🔗</a>
+
+  <li><b> Giấy chứng nhận DSAC – FPGA nâng cao độ chính xác tín hiệu ECG</b> (03/2025)
+    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">🪪</a>
   </li>
+
+  
+  <li><b> Giấy chứng nhận NCKH: Ứng dụng AI cho xe tự hành</b> (12/2023)
+    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🪪</a>;
+  </li>
+
+  <li><b> Giấy chứng nhận Startup: Thùng rác thông minh xử lý ảnh</b> (08/2024)
+    <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🪪</a>
+  </li>
+  
 </ul>
 
 
