@@ -7,7 +7,6 @@
   <a href="#about-me">About</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#overview">Overview</a> •
-  <a href="#projects">Projects</a> •
   <a href="#keywords">Keywords</a>
 </p>
 
