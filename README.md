@@ -90,7 +90,7 @@
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view?usp=drive_link" target="_blank">🎓</a>
   </li>
   
-  <li><b> Giải Nhất:</b> NCKH Khoa Cơ khí Giao thông (12/2023) 
+  <li><b> Giải Nhất:</b> NCKH cấp Khoa - Khoa Cơ khí Giao thông (12/2023) 
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view?usp=drive_link" target="_blank">📜</a>
   </li>
   
@@ -104,7 +104,7 @@
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
-  <li><b> Giấy chứng nhận DSAC:</b> FPGA nâng cao độ chính xác tín hiệu ECG (03/2025)
+  <li><b> Giấy chứng nhận DSAC:</b> FPGA cải thiện độ chính xác tín hiệu ECG (03/2025)
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
