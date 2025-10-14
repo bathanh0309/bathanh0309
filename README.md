@@ -84,12 +84,12 @@
 ---
 
 <!-- ====================== HIGHLIGHTS ====================== -->
-### 🔦 Highlights
-- **FreeAqua-RTOS:** Real-time aquarium control (ESP32 + FreeRTOS) with MQTT & OTA.  
-- **Smart-Parking:** Sensor-based detection + web dashboard + history logging.  
-- **CIFAR-100 (3×3 vs 9×9):** Compare first-conv kernels, log curves, show 3×3 & 9×9 grids and confusion matrix.  
-- **RRTNavNano:** RRT* planning on Jetson Nano; CUDA-assisted collision checks.  
-- **SimuADC / mmWave-THz / Optisystem:** Signal processing & photonics simulations and notes.
+### 🏆 Highlights
+- Hiệu trưởng vinh danh **Sinh viên NCKH – ĐH Đà Nẵng** (12/2024) → [Giấy khen](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view?usp=drive_link).
+- **Giải Nhất** NCKH khoa Cơ khí Giao thông (12/2023); **Giải Nhì** BKTechShow (12/2023) → [Chứng nhận](https://drive.google.com/your-link-2).
+- **NVIDIA – Fundamentals of Deep Learning** (09/2025) → [Certificate](https://drive.google.com/your-link-3); **DSAC – FPGA nâng cao độ chính xác ECG** (03/2025) → [Certificate](https://drive.google.com/your-link-4).
+- **NCKH: Ứng dụng AI cho xe tự hành** (12/2023) → [Chứng nhận](https://drive.google.com/your-link-5); **Startup: Thùng rác thông minh xử lý ảnh** (08/2024) → [Chứng nhận/Pitch](https://drive.google.com/your-link-6).
+
 
 ---
 
