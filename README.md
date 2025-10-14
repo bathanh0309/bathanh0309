@@ -72,9 +72,9 @@
 
 
 
-### 12) `ai-vision-portfolio`
+### 12) `portfolio`
 ```md
-# AI & Computer Vision — Portfolio
+Portfolio
 > Selected projects across IoT, CV/DL, Robotics, and Signal Processing.
 
 **At a glance**
@@ -96,16 +96,7 @@
 - sp-audio-amplifier-otl → [link]
 - sp-optisystem-photonics → [link]
 
-```
-
-# My projects
-
-| **Embedded IOT** | **Computer Science** | **Signal** |
-|---|---|---|
-| <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeAqua-RTOS&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/DeepLearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=DeepLearning&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/SimuADC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=SimuADC&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/PBL3_Smart_Parking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/ProcessingImage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ProcessingImage&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/mmWave-THz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=mmWave-THz&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/Amplifier-OTL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Amplifier-OTL&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/RRTNavNano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=RRTNavNano&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Optiwave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Optiwave&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/IoT-HomeHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=IoT-HomeHub&theme=tokyonight" /></a> | &nbsp; | &nbsp; |
+```md
 
 
 
