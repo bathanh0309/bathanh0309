@@ -102,15 +102,14 @@
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🪪</a>
   </li>
   
-  <li><b> Giấy chứng nhận NVIDIA:</b> Fundamentals of Deep Learning(09/2025)
-    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
-  </li>
-
   <li><b> Giấy chứng nhận DSAC:</b> FPGA cải thiện chất lượng ECG (03/2025)
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">🪪</a>
   </li>
 
-
+  <li><b> Giấy chứng nhận NVIDIA:</b> Fundamentals of Deep Learning(09/2025)
+    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>
+  </li>
+  
   <li><b> Giấy chứng nhận Startup:</b> Thùng rác xử lý ảnh và phân loại (08/2024)
     <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🪪</a>
   </li>
