@@ -96,7 +96,6 @@ Portfolio
 - sp-audio-amplifier-otl → [link]
 - sp-optisystem-photonics → [link]
 
-```md
 
 
 
