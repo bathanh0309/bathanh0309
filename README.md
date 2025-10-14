@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/MATLAB-%20?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8&color=FF8C00" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td align="center" width="300">
       <b>🔩 Embedded / IoT</b><br/>
