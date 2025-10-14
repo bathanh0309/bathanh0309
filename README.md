@@ -70,7 +70,7 @@
 
 ---
 <!-- ====================== OVERVIEW ====================== -->
-<h2 id="overview">🧩 Overview</h2>
+<h1 id="overview">🧩 Overview</h1>
 
 | Category | Focus Areas | Projects |
 |-----------|--------------|------------------|
