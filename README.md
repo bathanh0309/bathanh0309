@@ -85,16 +85,24 @@
 <h1 id="Highlights">🏆 Highlights</h1>
 
 <ul>
-  <li>Hiệu trưởng vinh danh <b>Sinh viên NCKH – ĐH Đà Nẵng</b> (12/2024)
+  <li>Hiệu trưởng vinh danh <b>Sinh viên NCKH – ĐH Đà Nẵng </b> (12/2024)
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view?usp=drive_link" target="_blank">🎓</a>
   </li>
-  <li><b>Giải Nhất</b> NCKH khoa Cơ khí Giao thông (12/2023); <b>Giải Nhì</b> BKTechShow (12/2023)
-    <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view?usp=drive_link" target="_blank">📄</a>
+  
+  <li><b>Giải Nhất</b> NCKH khoa Cơ khí Giao thông (12/2023) </b>
+    <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view?usp=drive_link" target="_blank">📜</a>
   </li>
+  
+  <li><b>Giải Nhì</b> BKTechShow (12/2023) </b>
+    <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view?usp=drive_link" target="_blank">📜</a>
+  </li>
+  
+
+  
   <li><b>NVIDIA – Fundamentals of Deep Learning</b> (09/2025)
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view?usp=drive_link" target="_blank">🪪</a>;
     <b>DSAC – FPGA nâng cao độ chính xác ECG</b> (03/2025)
-    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">📜</a>
+    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view?usp=drive_link" target="_blank">📄</a>
   </li>
   <li><b>NCKH: Ứng dụng AI cho xe tự hành</b> (12/2023)
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🔗</a>;
