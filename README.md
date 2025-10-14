@@ -82,17 +82,6 @@
 
 ---
 
-<!-- ====================== PROJECT CARDS (3 COLUMNS) ====================== -->
-<h2 id="projects">📂 Projects</h2>
-
-<!-- 3-column grid using github-readme-stats pinned cards -->
-| **Embedded IOT** | **Computer Science** | **Signal** |
-|---|---|---|
-| <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeAqua-RTOS&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/DeepLearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=DeepLearning&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/SimuADC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=SimuADC&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/PBL3_Smart_Parking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL3_Smart_Parking&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/MachineLearning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=MachineLearning&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/mmWave-THz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=mmWave-THz&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/IoT-HomeHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=IoT-HomeHub&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/RRTNavNano"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=RRTNavNano&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Optisystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Optisystem&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/Amplifier-OTL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Amplifier-OTL&theme=tokyonight" /></a> | &nbsp; | &nbsp; |
-
 ---
 
 <!-- ====================== HIGHLIGHTS ====================== -->
