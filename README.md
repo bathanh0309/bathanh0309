@@ -84,7 +84,7 @@ Portfolio
 - **Signal**: ADC sim, mmWave/THz notes, OptiSystem
 
 **Projects**
-- iot-freeaqua-rtos → [link]
+- iot-freeaqua-rtos → [https://github.com/bathanh0309/iot-freeaqua-rtos]
 - iot-smart-parking-parksense → [link]
 - iot-homehub-smart-home → [link]
 - cv-cifar100-cnn-3x3-vs-9x9 → [link]
