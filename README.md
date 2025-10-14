@@ -72,29 +72,54 @@
 
 
 
-### 12) `portfolio`
-```md
-Portfolio
-> Selected projects across IoT, CV/DL, Robotics, and Signal Processing.
+# 🧠 AI • IoT • Robotics • Signal Processing — Portfolio
 
-**At a glance**
-- **IoT**: FreeRTOS aquarium, smart parking, home hub  
-- **CV/DL**: CIFAR-100 (3×3 vs 9×9), transfer learning  
-- **Robotics**: RRT on Jetson Nano  
-- **Signal**: ADC sim, mmWave/THz notes, OptiSystem
+> 🚀 Selected personal projects across **IoT**, **Computer Vision / Deep Learning**, **Robotics**, and **Signal Processing**.  
+> Each project below links directly to its GitHub repository.
 
-**Projects**
-- iot-freeaqua-rtos → [https://github.com/bathanh0309/iot-freeaqua-rtos]
-- iot-smart-parking-parksense → [link]
-- iot-homehub-smart-home → [link]
-- cv-cifar100-cnn-3x3-vs-9x9 → [link]
-- rob-rrt-jetson-nano → [link]
-- ml-sklearn-playbook → [link]
-- dl-vision-playground → [link]
-- sp-simu-adc → [link]
-- sp-mmwave-thz-notes → [link]
-- sp-audio-amplifier-otl → [link]
-- sp-optisystem-photonics → [link]
+---
+
+## 🧩 Overview
+
+| Category | Focus Areas | Example Projects |
+|-----------|--------------|------------------|
+| 🛰️ **IoT / Embedded** | ESP32, FreeRTOS, MQTT, OTA | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS), [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking), [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
+| 🧠 **Computer Vision / Deep Learning** | TensorFlow, CNN, CIFAR-100 | [DeepLearning](https://github.com/bathanh0309/DeepLearning), [MachineLearning](https://github.com/bathanh0309/MachineLearning), [CIFAR-100 CNN (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
+| 🤖 **Robotics / Path Planning** | Jetson Nano, RRT*, Navigation | [RRTNavNano](https://github.com/bathanh0309/RRTNavNano) |
+| 📡 **Signal & Photonics** | ADC, mmWave, THz, OptiSystem | [SimuADC](https://github.com/bathanh0309/SimuADC), [mmWave-THz](https://github.com/bathanh0309/mmWave-THz), [Optisystem](https://github.com/bathanh0309/Optisystem), [Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL) |
+
+---
+
+## 📂 Project Highlights
+
+### 🛰️ IoT & Embedded Systems
+- **[FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS)** — Real-time aquarium control with FreeRTOS, MQTT, OTA updates.  
+- **[PBL3_Smart_Parking](https://github.com/bathanh0309/PBL3_Smart_Parking)** — Smart parking system using sensors and web dashboard.  
+- **[IoT-HomeHub](https://github.com/bathanh0309/IoT-HomeHub)** — Centralized home automation hub with FastAPI + MQTT.
+
+### 🧠 Deep Learning / Computer Vision
+- **[DeepLearning](https://github.com/bathanh0309/DeepLearning)** — CNNs, image classification & visualization.  
+- **[MachineLearning](https://github.com/bathanh0309/MachineLearning)** — sklearn pipelines, classical ML experiments.  
+- **[CIFAR-100 CNN (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning)** — Compare convolution kernels, visualize predictions, confusion matrix.
+
+### 🤖 Robotics / Path Planning
+- **[RRTNavNano](https://github.com/bathanh0309/RRTNavNano)** — Real-time RRT* path planning on Jetson Nano with GPU acceleration.
+
+### 📡 Signal Processing & Photonics
+- **[SimuADC](https://github.com/bathanh0309/SimuADC)** — ADC modulator simulation (SNR/ENOB plots).  
+- **[mmWave-THz](https://github.com/bathanh0309/mmWave-THz)** — Notes on mmWave & THz communication.  
+- **[Optisystem](https://github.com/bathanh0309/Optisystem)** — Optical fiber link & WDM simulation.  
+- **[Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL)** — OTL audio amplifier SPICE simulation.
+
+---
+
+## 🧾 Keywords
+`Embedded Systems` • `IoT` • `ESP32` • `FreeRTOS` • `Computer Vision` • `TensorFlow` • `Keras` • `Machine Learning` • `Deep Learning` • `RRT` • `Jetson Nano` • `Signal Processing` • `ADC` • `OptiSystem`
+
+---
+
+⭐ **Tip:** pin 6–8 repos nổi bật này lên GitHub profile để HR thấy ngay chuyên môn của bạn trong 10 giây đầu.
+
 
 
 
