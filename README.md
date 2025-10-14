@@ -72,7 +72,7 @@
 <!-- ====================== OVERVIEW ====================== -->
 <h2 id="overview">🧩 Overview</h2>
 
-| Category | Focus Areas | Example Projects |
+| Category | Focus Areas | Projects |
 |-----------|--------------|------------------|
 | 🛰️ **IoT / Embedded** | ESP32, FreeRTOS, MQTT | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS), [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking), [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
 | 🧠 **Computer Vision / Deep Learning** | TensorFlow/Keras, CNN, CIFAR-100 | [DeepLearning](https://github.com/bathanh0309/DeepLearning), [MachineLearning](https://github.com/bathanh0309/MachineLearning), [CIFAR-100 (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
