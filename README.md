@@ -82,7 +82,7 @@
 ---
 
 <!-- ====================== HIGHLIGHTS ====================== -->
-### 🏆 Highlights
+ <h1 id="Highlights">🏆 Highlights</h1> 
 - Hiệu trưởng vinh danh **Sinh viên NCKH – ĐH Đà Nẵng** (12/2024) → [Giấy khen](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view?usp=drive_link).
 - **Giải Nhất** NCKH khoa Cơ khí Giao thông (12/2023); **Giải Nhì** BKTechShow (12/2023) → [Chứng nhận](https://drive.google.com/your-link-2).
 - **NVIDIA – Fundamentals of Deep Learning** (09/2025) → [Certificate](https://drive.google.com/your-link-3); **DSAC – FPGA nâng cao độ chính xác ECG** (03/2025) → [Certificate](https://drive.google.com/your-link-4).
