@@ -71,19 +71,13 @@
 </table>
 
 
-
-# 🧠 AI • IoT • Robotics • Signal Processing — Portfolio
-
-> 🚀 Selected personal projects across **IoT**, **Computer Vision / Deep Learning**, **Robotics**, and **Signal Processing**.  
-> Each project below links directly to its GitHub repository.
-
 ---
 
 ## 🧩 Overview
 
 | Category | Focus Areas | Example Projects |
 |-----------|--------------|------------------|
-| 🛰️ **IoT / Embedded** | ESP32, FreeRTOS, MQTT, OTA | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS), [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking), [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
+| 🛰️ **IoT / Embedded** | ESP32, FreeRTOS, MQTT | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS), [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking), [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
 | 🧠 **Computer Vision / Deep Learning** | TensorFlow, CNN, CIFAR-100 | [DeepLearning](https://github.com/bathanh0309/DeepLearning), [MachineLearning](https://github.com/bathanh0309/MachineLearning), [CIFAR-100 CNN (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
 | 🤖 **Robotics / Path Planning** | Jetson Nano, RRT*, Navigation | [RRTNavNano](https://github.com/bathanh0309/RRTNavNano) |
 | 📡 **Signal & Photonics** | ADC, mmWave, THz, OptiSystem | [SimuADC](https://github.com/bathanh0309/SimuADC), [mmWave-THz](https://github.com/bathanh0309/mmWave-THz), [Optisystem](https://github.com/bathanh0309/Optisystem), [Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL) |
