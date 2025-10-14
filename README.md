@@ -16,7 +16,7 @@
 <p align="center"><b>🎓 DUT – Khoa Điện tử Viễn Thông, Đại học Bách Khoa – ĐH Đà Nẵng</b></p>
 
 <!-- ====================== TECH STACK ====================== -->
-<h2 id="tech-stack">Tech stack</h2>
+<h1 id="tech-stack">Tech stack</h1>
 
 <table>
   <tr>
