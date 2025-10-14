@@ -7,6 +7,7 @@
   <a href="#about-me">About</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#overview">Overview</a> •
+  <a href="#Highlights">Highlights</a> •
   <a href="#keywords">Keywords</a>
 </p>
 
@@ -68,7 +69,6 @@
 </table>
 
 ---
-
 <!-- ====================== OVERVIEW ====================== -->
 <h2 id="overview">🧩 Overview</h2>
 
@@ -78,8 +78,6 @@
 | 🧠 **Computer Vision / Deep Learning** | TensorFlow/Keras, CNN, CIFAR-100 | [DeepLearning](https://github.com/bathanh0309/DeepLearning), [MachineLearning](https://github.com/bathanh0309/MachineLearning), [CIFAR-100 (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
 | 🤖 **Robotics / Path Planning** | Jetson Nano, RRT* | [RRTNavNano](https://github.com/bathanh0309/RRTNavNano) |
 | 📡 **Signal & Photonics** | ADC, mmWave/THz, OptiSystem | [SimuADC](https://github.com/bathanh0309/SimuADC), [mmWave-THz](https://github.com/bathanh0309/mmWave-THz), [Optisystem](https://github.com/bathanh0309/Optisystem), [Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL) |
-
----
 
 ---
 
