@@ -90,11 +90,11 @@
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view?usp=drive_link" target="_blank">🎓</a>
   </li>
   
-  <li><b> Giải Nhất:</b> NCKH khoa Cơ khí Giao thông (12/2023) 
+  <li><b> Giải Nhất:</b> NCKH Khoa Cơ khí Giao thông (12/2023) 
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view?usp=drive_link" target="_blank">📜</a>
   </li>
   
-  <li><b> Giải Nhì: </b> BKTechShow (12/2023)
+  <li><b> Giải Nhì: </b> Triễn lãm sản phẩm công nghệ BKTechShow (12/2023)
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view?usp=drive_link" target="_blank">📜</a>
   </li>
   
@@ -109,11 +109,11 @@
   </li>
 
   
-  <li><b> Giấy chứng nhận NCKH:</b> Ứng dụng AI cho xe tự hành(12/2023)
+  <li><b> Giấy chứng nhận NCKH:</b> Ứng dụng AI cho xe tự hành (12/2023)
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view?usp=drive_link" target="_blank">🪪</a>;
   </li>
 
-  <li><b> Giấy chứng nhận Startup:</b> Thùng rác thông minh xử lý ảnh(08/2024)
+  <li><b> Giấy chứng nhận Startup:</b> Thùng rác thông minh xử lý ảnh (08/2024)
     <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🪪</a>
   </li>
   
