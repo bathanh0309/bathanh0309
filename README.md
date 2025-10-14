@@ -76,7 +76,7 @@
 |---|---|
 | <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=FreeAqua-RTOS&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/SimuADC/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=SimuADC&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/PBL3_Smart_Parking/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=ParkSense&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/mmWave-THz/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=mmWave-THz&theme=tokyonight" /></a> |
-| <a href="https://github.com/bathanh0309/PBL2_Design_Amplifier_OTL_Differential/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=PBL2_Design_Amplifier_OTL_Differential&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
+| <a href="https://github.com/bathanh0309/Amplifier-OTL/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Amplifier-OTL&theme=tokyonight" /></a> | <a href="https://github.com/bathanh0309/Reasearch_Algorithm_RRT/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Reasearch_Algorithm_RRT&theme=tokyonight" /></a> |
 | <a href="https://github.com/bathanh0309/Design_Smart_House/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bathanh0309&repo=Design_Smart_House&theme=tokyonight" /></a> |
 
 
