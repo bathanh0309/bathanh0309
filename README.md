@@ -111,7 +111,7 @@
   </li>
 
 
-  <li><b> Giấy chứng nhận Startup:</b> Thùng rác thông minh xử lý ảnh và phân loại (08/2024)
+  <li><b> Giấy chứng nhận Startup:</b> Thùng rác xử lý ảnh và phân loại (08/2024)
     <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view?usp=drive_link" target="_blank">🪪</a>
   </li>
   
