@@ -38,7 +38,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
           <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=flat-square&logo=hackaday&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
           <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=flat-square&logo=homeassistant&logoColor=white"/>
