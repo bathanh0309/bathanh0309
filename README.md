@@ -13,6 +13,7 @@
         <b>🛰️ Embedded & IoT</b><br/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
+      
       <td valign="top">
         <b>FreeAquaRTOS</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -25,6 +26,7 @@
         <b>HomeHub</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/IoT-HomeHub"><img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
+      
     </tr>
     <tr>
       <td valign="top">
@@ -32,11 +34,11 @@
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
       <td valign="top">
-        <b>DeepLearning</b><br/>&nbsp;<br/>
+        <b>DeepLearning</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/DeepLearning"><img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
       <td valign="top">
-        <b>MachineLearning</b><br/>&nbsp;<br/>
+        <b>MachineLearning</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/MachineLearning"><img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
       <td valign="top">
