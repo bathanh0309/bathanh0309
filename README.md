@@ -16,21 +16,21 @@
   <!-- Row 1: SKILLS -->
   <tr>
     <td align="center">
-      <b>Hardware<br/>Embedded</b><br/>
+      <b>⚙️Hardware<br/>Embedded</b><br/>
       <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
       <img src="https://cdn.simpleicons.org/espressif/E7352C" width="24" alt="ESP32"/>
       <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="26" alt="Proteus"/>
       <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
     </td>
     <td align="center">
-      <b>Computer Science<br/>Computer Vision</b><br/>
+      <b>🧠Computer Science<br/>Computer Vision</b><br/>
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="26" alt="tensorflow"/>
       <img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" alt="Jupyter"/>
       <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" alt="OpenCV"/>
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="26" alt="Google Colab"/>
     </td>
     <td align="center">
-      <b>Signal<br/>Networking</b><br/>
+      <b>📡Signal<br/>Networking</b><br/>
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
       <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
     </td>
