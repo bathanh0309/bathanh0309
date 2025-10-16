@@ -18,7 +18,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <thead>
     <tr>
       <th width="70%">Skills</th>
-      <th width="30%">Projects</th>
+      <th width="50%">Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -126,7 +126,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <b>Fundamentals of Deep Learning</b>
+        <b>Fundamentals of Deep Learning</b><br/>
         <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
           <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -140,7 +140,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <b>FPGA-based ECG Enhancement</b>
+        <b>FPGA-based ECG Enhancement</b><br/>
         <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
           <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -154,7 +154,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-       <b>AI for Autonomous Vehicles</b>
+       <b>AI for Autonomous Vehicles</b><br/>
         <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
           <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
