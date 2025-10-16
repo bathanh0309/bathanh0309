@@ -14,12 +14,12 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <div align="center" style="max-width: 1200px; margin: 0 auto;">
 
 <div align="center">
-<table width="98%">
+<table width="100%">
   <!-- Khóa tỉ lệ cột để không bị lệch -->
   <colgroup>
-    <col width="48%">
+    <col width="49%">
     <col width="19%">
-    <col width="15%">
+    <col width="16%">
     <col width="20%">
   </colgroup>
 
