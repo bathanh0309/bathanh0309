@@ -202,13 +202,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 </div>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
