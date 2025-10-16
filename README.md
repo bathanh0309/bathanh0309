@@ -56,23 +56,23 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <b>DeepLearning</b><br/>
-        
         <a href="https://github.com/bathanh0309/DeepLearning">
+        
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>MachineLearning</b><br/>
+        <a href="https://github.com/bathanh0309/MachineLearning">
         
-        <a href="https://github.com/bathanh0309/MachineLearning">
           <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>CIFAR100</b><br/>
-        
-        <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+       <a href="https://github.com/bathanh0309/DeepLearning">
+       
+       <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
@@ -85,7 +85,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <b>SimuADC</b><br/>
         <a href="https://github.com/bathanh0309/SimuADC">
         
-          <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
