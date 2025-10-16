@@ -118,7 +118,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
   </thead>
   <tbody>
-
     <tr>
       <td valign="top">
         <b>🥇 First Prize</b> — Faculty Research Competition (Dec 2023)<br/>
@@ -133,7 +132,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-
     <tr>
       <td valign="top">
         <b>🥈 Second Prize</b> — BKTechShow Technology Exhibition (Dec 2023)<br/>
@@ -148,7 +146,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-
     <tr>
       <td valign="top">
         <b>🎓 Presidential Honor</b> — Da Nang University Research Student Award (Dec 2024)<br/>
@@ -163,7 +160,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-
     <tr>
       <td valign="top">
         <!-- trống để cân hàng cuối -->
