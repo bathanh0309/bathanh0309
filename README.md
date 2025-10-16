@@ -80,7 +80,7 @@
       </a>
     </td>
     <td align="center">
-      <b>ml-AI</b><br/>
+      <b>machine_learning_AI</b><br/>
       <a href="https://github.com/bathanh0309/MachineLearning">
         <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -105,7 +105,7 @@
       </a>
     </td>
     <td align="center">
-      <b>image-processing</b><br/>
+      <b>image_processing</b><br/>
       <a href="https://github.com/bathanh0309/DeepLearning">
         <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
