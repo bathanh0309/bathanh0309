@@ -121,8 +121,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<div align="center">
-<table width="96%">
+<table width="100%">
   <thead>
     <tr>
       <th width="50%">🏅Achievements</th>
@@ -186,7 +185,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
   </tbody>
 </table>
-</div>
+
 
 ---
 
