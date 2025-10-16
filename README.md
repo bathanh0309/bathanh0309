@@ -32,6 +32,7 @@
     <td align="center">
       <b>Signal</b><br/>
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-photonics-industry-flaticons-lineal-color-flat-icons.png" width="26" alt="OptiSystem"/> <b>OptiSystem</b>
     </td>
     <td align="center">
       <b>SW & Algorithm</b><br/>
