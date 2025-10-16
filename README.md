@@ -31,7 +31,6 @@
     </td>
     <td align="center">
       <b>Signal</b><br/>
-      ![Simulink](https://img.shields.io/badge/Matlab%20%7C%20Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
     </td>
     <td align="center">
