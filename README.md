@@ -126,7 +126,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white"/> <b>Fundamentals of Deep Learning</b> — Sep 2025<br/>
+        <b>Fundamentals of Deep Learning</b> — Sep 2025<br/>
         <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
           <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -140,7 +140,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <img src="https://img.shields.io/badge/DSAC-FF6B6B?style=flat-square&logo=circuit&logoColor=white"/> <b>FPGA-based ECG Enhancement</b> — Mar 2025<br/>
+        <b>FPGA-based ECG Enhancement</b> — Mar 2025<br/>
         <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
           <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -154,7 +154,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <img src="https://img.shields.io/badge/Research-0A84FF?style=flat-square&logo=academia&logoColor=white"/> <b>AI for Autonomous Vehicles</b> — Dec 2023<br/>
+       <b>AI for Autonomous Vehicles</b> — Dec 2023<br/>
         <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
           <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
