@@ -16,17 +16,17 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table width="120%">
   <colgroup>
     <col width="30%">
-    <col width="30%">
-    <col width="30%">
-    <col width="30%">
+    <col width="25%">
+    <col width="25%">
+    <col width="25%">
   </colgroup>
 
   <thead>
     <tr>
       <th width="30%">🏅 Skills</th>
-      <th width="30%">📜 Project 1</th>
-      <th width="30%">📜 Project 2</th>
-      <th width="30%">📜 Project 3</th>
+      <th width="25%">📜 Project 1</th>
+      <th width="25%">📜 Project 2</th>
+      <th width="25%">📜 Project 3</th>
     </tr>
   </thead>
   
