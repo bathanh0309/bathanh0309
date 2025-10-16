@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
+  
 ### 🛰️ Embedded & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
@@ -61,7 +61,7 @@
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+<div align="left">
 <table width="100%">
   <colgroup>
     <col width="25%"><col width="25%"><col width="25%"><col width="25%">
