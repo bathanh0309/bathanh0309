@@ -59,7 +59,7 @@
     </td>
     <td align="center">
       <b>sp_simuADC</b><br/>
-      <a href="https://github.com/bathanh0309/sp-simu-adc">
+      <a href="https://github.com/bathanh0309/sp_simu_ADC">
         <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
