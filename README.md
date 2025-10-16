@@ -15,15 +15,14 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table>
   <thead>
     <tr>
-      <th width="25%">🏅 Skills</th>
-      <th width="25%">📜 Project 1</th>
-      <th width="25%">📜 Project 2</th>
-      <th width="25%">📜 Project 3</th>
+      <th width="31%">🏅 Skills</th>
+      <th width="23%">📜 Project 1</th>
+      <th width="23%">📜 Project 2</th>
+      <th width="23%">📜 Project 3</th>
     </tr>
   </thead>
   
   <tbody>
-    <!-- IoT / Embedded -->
     <tr>
       <td valign="top">
         <b>🛰️ Embedded Systems & IoT</b><br/>
@@ -48,7 +47,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-    <!-- CV / AI -->
     <tr>
       <td valign="top">
         <b>🧠 Computer Vision & AI</b><br/>
@@ -73,7 +71,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-    <!-- Signal -->
     <tr>
       <td valign="top">
         <b>📡 Signal Processing</b><br/>
@@ -98,7 +95,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-    <!-- DevOps / HW -->
     <tr>
       <td valign="top">
         <b>⚙️ DevOps & Hardware</b><br/>
