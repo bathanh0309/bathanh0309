@@ -52,7 +52,7 @@
       </a>
     </td>
     <td align="center">
-      <b>dl-vision</b><br/>
+      <b>dl-CNN</b><br/>
       <a href="https://github.com/bathanh0309/dl-vision-playground">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -80,7 +80,7 @@
       </a>
     </td>
     <td align="center">
-      <b>Machine Learning</b><br/>
+      <b>ml-AI</b><br/>
       <a href="https://github.com/bathanh0309/MachineLearning">
         <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -105,7 +105,7 @@
       </a>
     </td>
     <td align="center">
-      <b>CIFAR-100</b><br/>
+      <b>image-processing</b><br/>
       <a href="https://github.com/bathanh0309/DeepLearning">
         <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
