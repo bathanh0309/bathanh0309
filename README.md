@@ -15,16 +15,17 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <div align="center">
 
-<table width="400%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="100%">🏅 Skills</th>
-      <th width="100%">📜 Project 1</th>
-      <th width="100%">📜 Project 2</th>
-      <th width="100%">📜 Project 3</th>
+      <th width="250%">🏅 Skills</th>
+      <th width="25%">📜 Project 1</th>
+      <th width="25%">📜 Project 2</th>
+      <th width="25%">📜 Project 3</th>
     </tr>
   </thead>
-  
+
+
   <tbody>
     <tr>
       <td valign="top">
