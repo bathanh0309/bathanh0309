@@ -13,9 +13,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-
-
 <table width="100%">
+  <!-- ép 2 cột 50/50 cho toàn bộ hàng -->
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
+
   <thead>
     <tr>
       <th width="50%">🏅 Skills</th>
@@ -26,7 +30,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <tbody>
     <!-- IoT / Embedded -->
     <tr>
-      <td valign="top" >
+      <td valign="top" width="50%" align="left">
         <b>🛰️ Embedded Systems & IoT</b><br/>
         • <b>Platforms:</b> ESP32, Jetson Nano, PlatformIO<br/>
         • <b>Protocols:</b> MQTT, I2C, SPI, UART<br/>
@@ -34,7 +38,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
           <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white&logoWidth=22"/>
         </a><br/>
@@ -48,7 +52,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <!-- CV / AI -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%" align="left">
         <b>🧠 Computer Vision & AI</b><br/>
         • <b>Frameworks:</b> TensorFlow, OpenCV<br/>
         • <b>Skills:</b> Deep Learning, Object Detection<br/>
@@ -56,7 +60,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
-      <td valign="top" >
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=22"/>
         </a><br/>
@@ -70,14 +74,14 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <!-- Signal -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%" align="left">
         <b>📡 Signal Processing</b><br/>
         • <b>Tools:</b> MATLAB, OptiSystem, Wireshark<br/>
         • <b>Focus:</b> ADC, mmWave/THz, Optical Communication<br/><br/>
         <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
         <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/SimuADC">
           <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white&logoWidth=22"/>
         </a><br/>
@@ -91,7 +95,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <!-- DevOps / HW -->
     <tr>
-      <td valign="top" >
+      <td valign="top" width="50%" align="left">
         <b>⚙️ DevOps & Hardware</b><br/>
         • <b>Languages:</b> C++, Python, SQL<br/>
         • <b>Tools:</b> Git, Docker, WSL2<br/>
@@ -99,7 +103,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/Amplifier-OTL">
           <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white&logoWidth=22"/>
         </a>
