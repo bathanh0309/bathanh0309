@@ -13,15 +13,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills & Projects</title>
-</head>
-<body>
-
 <table width="100%">
   <colgroup>
     <col width="25%">
