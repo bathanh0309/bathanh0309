@@ -166,24 +166,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
           <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
       </td>
-      <td valign="top">
-       <b>AI for Autonomous Vehicles</b><br/>
-        <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-          <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <!-- trống để cân hàng cuối -->
-        &nbsp;
-      </td>
-      <td valign="top">
-        <b>Smart Waste Classification</b><br/>
-        <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
-          <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
     </tr>
 
   </tbody>
