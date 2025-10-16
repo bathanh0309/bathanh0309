@@ -13,7 +13,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="130%">
+<table width="150%">
   <colgroup>
     <col width="40%">
     <col width="25%">
