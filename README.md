@@ -16,9 +16,9 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table width="100%" style="table-layout: fixed;">
   <thead>
     <tr>
-      <th width="45%">🏅 Skills</th>
+      <th width="46%">🏅 Skills</th>
       <th width="19%">📜 Project 1</th>
-      <th width="16%">📜 Project 2</th>
+      <th width="15%">📜 Project 2</th>
       <th width="20%">📜 Project 3</th>
     </tr>
   </thead>
