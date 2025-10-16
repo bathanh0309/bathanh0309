@@ -31,7 +31,7 @@
     </td>
     <td align="center">
       <b>Signal</b><br/>
-        <img src="https://cdn.simpleicons.org/mathworks/FF8C00" width="26" alt="Matlab"/>
+        <img src="https://cdn.simpleicons.org/mathworks/FF8C00" width="26" alt="Matworks"/>
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
     </td>
     <td align="center">
