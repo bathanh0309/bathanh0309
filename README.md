@@ -132,10 +132,11 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <tbody>
     <tr>
       <td valign="top">
-        <b>🥇 First Prize</b> — Faculty Research Competition<br/>
-        <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-          <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
+        <b>🛰️ Embedded Systems & IoT</b><br/>
+        <td valign="top" width="50%" align="center">
+        <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white&logoWidth=22"/>
+        </a><br/>
       </td>
       <td valign="top">
         <b>Fundamentals of Deep Learning</b><br/>
@@ -146,7 +147,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>🥈 Second Prize</b> — BKTechShow Technology Exhibition<br/>
+        <b>🧠 Computer Vision & AI</b><br/>
         <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
           <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
