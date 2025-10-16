@@ -24,7 +24,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   </thead>
 
   <tbody>
-    <!-- IoT / Embedded -->
     <tr>
       <td valign="top" width="50%">
         <b>🛰️ Embedded Systems & IoT</b><br/>
@@ -36,17 +35,16 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
-          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=flat-square&logo=hackaday&logoColor=white"/>
+          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=flat-square&logo=hackaday&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
           <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=flat-square&logo=homeassistant&logoColor=white"/>
         </a>
       </td>
     </tr>
-    <!-- CV / AI -->
     <tr>
       <td valign="top" width="50%">
         <b>🧠 Computer Vision & AI</b><br/>
@@ -68,7 +66,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-    <!-- Signal -->
     <tr>
       <td valign="top" width="50%">
         <b>📡 Signal Processing</b><br/>
@@ -89,7 +86,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-    <!-- DevOps / HW -->
     <tr>
       <td valign="top" width="50%">
         <b>⚙️ DevOps & Hardware</b><br/>
