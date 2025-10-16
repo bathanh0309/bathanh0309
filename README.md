@@ -61,62 +61,73 @@
 
 ## 🏆 Achievements & Certifications
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
+<table width="100%">
+  <colgroup>
+    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
+  </colgroup>
 
-🎓 **Presidential Honor**  
-[![Certificate](https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
+  <!-- Row 1 -->
+  <tr>
+    <td align="center">
+      🎓 <b>Presidential Honor</b><br/>
+      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      🥇 <b>First Prize</b><br/>
+      <i>Project Competition</i><br/>
+      <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
+        <img src="https://img.shields.io/badge/View-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      🥈 <b>Second Prize</b><br/>
+      <i>BKTechShow</i><br/>
+      <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
+        <img src="https://img.shields.io/badge/View-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>NVIDIA</b><br/>
+      <i>Deep Learning</i><br/>
+      <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-</td>
-<td width="33%" align="center">
-
-🥇 **First Prize**  
-*Project Competition*  
-[![Certificate](https://img.shields.io/badge/View-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
-
-</td>
-<td width="33%" align="center">
-
-🥈 **Second Prize**  
-*BKTechShow*  
-[![Certificate](https://img.shields.io/badge/View-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-**NVIDIA**  
-*Deep Learning*  
-[![View](https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
-
-</td>
-<td width="33%" align="center">
-
-**FPGA-based**  
-*ECG Enhancement*  
-[![View](https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
-
-</td>
-<td width="33%" align="center">
-
-**AI Course**  
-*Autonomous Vehicles*  
-[![View](https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view)
-
-<td width="33%" align="center">
-
-**Smart Waste**  
-*Classification System*  
-[![View](https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view)
-
-<td width="33%" align="center">
-  
-</td>
-</tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
+      <b>FPGA-based</b><br/>
+      <i>ECG Enhancement</i><br/>
+      <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+        <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>AI Course</b><br/>
+      <i>Autonomous Vehicles</i><br/>
+      <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+        <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Smart Waste</b><br/>
+      <i>Classification System</i><br/>
+      <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
+        <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      &nbsp; <!-- chỗ trống: thêm mục mới sau này -->
+    </td>
+  </tr>
 </table>
+</div>
+
 
 ---
 
