@@ -90,7 +90,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 ---
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="70%">
 🏆 Achievements
 <table>
   <tr>
@@ -130,7 +130,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   </tr>
 </table>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="70%">
 📜 Certifications
 <table>
   <tr>
