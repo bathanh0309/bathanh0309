@@ -18,7 +18,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <thead>
     <tr>
       <th width="70%">Skills</th>
-      <th width="50%">Projects</th>
+      <th width="70%">Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -166,7 +166,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         &nbsp;
       </td>
       <td valign="top">
-        <img src="https://img.shields.io/badge/Startup-4CAF50?style=flat-square&logo=rocket&logoColor=white"/> <b>Smart Waste Classification</b>
+        <b>Smart Waste Classification</b><br/>
         <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
           <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
