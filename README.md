@@ -12,7 +12,10 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
-<table>
+
+<div align="center">
+
+<table width="100%">
   <thead>
     <tr>
       <th width="31%">🏅 Skills</th>
@@ -113,15 +116,16 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         &nbsp;
       </td>
     </tr>
-
   </tbody>
 </table>
 
+</div>
+
 ---
 
+<div align="center">
 
-<table>
-  
+<table width="100%">
   <thead>
     <tr>
       <th width="50%">🏅Achievements</th>
@@ -174,7 +178,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <!-- trống để cân hàng cuối -->
         &nbsp;
       </td>
       <td valign="top">
@@ -184,19 +187,21 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
     </tr>
-
   </tbody>
 </table>
 
+</div>
 
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
 </p>
 
-
+---
 
 ## 📫 Let's Connect
 
