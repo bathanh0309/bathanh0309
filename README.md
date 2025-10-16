@@ -84,6 +84,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td width="33%" align="center">
 
@@ -105,9 +106,6 @@
 *Autonomous Vehicles*  
 [![View](https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view)
 
-</td>
-</tr>
-<tr>
 <td width="33%" align="center">
 
 **Smart Waste**  
@@ -116,8 +114,7 @@
 
 </td>
 <td width="33%" align="center">
-</td>
-<td width="33%" align="center">
+  
 </td>
 </tr>
 </table>
