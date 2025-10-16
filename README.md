@@ -78,7 +78,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>📡 Signal </b><br/>
-        <img src="https://img.shields.io/badge/Matlab%20Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/><img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
       <td valign="top">
         <b>SimuADC</b><br/>
