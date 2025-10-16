@@ -114,6 +114,85 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 </table>
 
 
+
+---
+
+
+
+
+<table>
+  
+  <thead>
+    <tr>
+      <th width="50%">🏅Skills</th>
+      <th width="50%">📜Projects</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td valign="top">
+        <b>🥇 First Prize</b> — Faculty Research Competition<br/>
+        <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
+          <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+      <td valign="top">
+        <b>Fundamentals of Deep Learning</b><br/>
+        <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+          <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b>🥈 Second Prize</b> — BKTechShow Technology Exhibition<br/>
+        <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
+          <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+      <td valign="top">
+        <b>FPGA-based ECG Enhancement</b><br/>
+        <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+          <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <b>🎓 Presidential Honor</b> — Da Nang University Research Student Award <br/>
+        <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+          <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+      <td valign="top">
+       <b>AI for Autonomous Vehicles</b><br/>
+        <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+          <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <!-- trống để cân hàng cuối -->
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>Smart Waste Classification</b><br/>
+        <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
+          <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+
+
 ---
 
 
