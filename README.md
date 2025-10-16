@@ -12,6 +12,8 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
+<div align="center" style="max-width:1200px; margin:0 auto;">
+
 
 <div align="center">
 <table width="96%">
@@ -119,6 +121,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   </tbody>
 </table>
 </div>
+
 ---
 
 <div align="center">
@@ -196,6 +199,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
 </p>
+
+</div>
 
 ---
 
