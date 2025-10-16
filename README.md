@@ -20,16 +20,18 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
 
-**Featured Projects:**
-- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS 
+**Projects:**
+- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS implementation
 - 🔹 [**ParkSense**](https://github.com/bathanh0309/PBL3_Smart_Parking) - Smart parking system
 - 🔹 [**HomeHub**](https://github.com/bathanh0309/IoT-HomeHub) - IoT home automation
+
+---
 
 ### 📡 Signal Processing
 ![Simulink](https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
 ![OptiSystem](https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square)
 
-**Featured Projects:**
+**Projects:**
 - 🔹 [**SimuADC**](https://github.com/bathanh0309/SimuADC) - ADC simulation
 - 🔹 [**mmWave-THz**](https://github.com/bathanh0309/mmWave-THz) - Wireless communication
 - 🔹 [**OptiSystem**](https://github.com/bathanh0309/Optisystem) - Optical systems
@@ -41,16 +43,18 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Featured Projects:**
+**Projects:**
 - 🔹 [**Deep Learning**](https://github.com/bathanh0309/DeepLearning) - Neural networks & DL
 - 🔹 [**Machine Learning**](https://github.com/bathanh0309/MachineLearning) - ML algorithms
 - 🔹 [**CIFAR-100**](https://github.com/bathanh0309/DeepLearning) - Image classification
+
+---
 
 ### ⚙️ Software & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Featured Projects:**
+**Projects:**
 - 🔹 [**Amplifier-OTL**](https://github.com/bathanh0309/Amplifier-OTL) - Circuit design
 
 </td>
@@ -63,36 +67,61 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏅 Achievements
+<td width="33%" align="center">
 
 🎓 **Presidential Honor**  
-[![Certificate](https://img.shields.io/badge/View_Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
-
-🥇 **First Prize - Project Competition**  
-[![Certificate](https://img.shields.io/badge/View_Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
-
-🥈 **Second Prize - BKTechShow**  
-[![Certificate](https://img.shields.io/badge/View_Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
+[![Certificate](https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### 📜 Certifications
+🥇 **First Prize**  
+*Project Competition*  
+[![Certificate](https://img.shields.io/badge/View-FFD700?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
-**NVIDIA - Fundamentals of Deep Learning**  
-[![View](https://img.shields.io/badge/View_Certificate-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
+</td>
+<td width="33%" align="center">
 
-**FPGA-based ECG Enhancement**  
-[![View](https://img.shields.io/badge/View_Certificate-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
+🥈 **Second Prize**  
+*BKTechShow*  
+[![Certificate](https://img.shields.io/badge/View-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
 
-**AI for Autonomous Vehicles**  
-[![View](https://img.shields.io/badge/View_Certificate-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view)
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
 
-**Smart Waste Classification**  
-[![View](https://img.shields.io/badge/View_Certificate-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view)
+**NVIDIA**  
+*Deep Learning*  
+[![View](https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
 
+</td>
+<td width="33%" align="center">
+
+**FPGA-based**  
+*ECG Enhancement*  
+[![View](https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
+
+</td>
+<td width="33%" align="center">
+
+**AI Course**  
+*Autonomous Vehicles*  
+[![View](https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**Smart Waste**  
+*Classification System*  
+[![View](https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view)
+
+</td>
+<td width="33%" align="center">
+</td>
+<td width="33%" align="center">
 </td>
 </tr>
 </table>
