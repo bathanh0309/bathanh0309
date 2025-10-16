@@ -17,8 +17,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table>
   <thead>
     <tr>
-      <th width="40%">Skill Area</th>
-      <th width="60%">Related Projects</th>
+      <th width="50%">Skills</th>
+      <th width="50%">Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -56,10 +56,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/MachineLearning">
-          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/CIFAR100_3x3_vs_9x9-1f6feb?style=for-the-badge&logo=googlecharts&logoColor=white"/>
