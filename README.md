@@ -129,7 +129,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 
 <div align="center">
-<table width="96%">
+<table width="100%">
   <colgroup>
     <col width="50%">
     <col width="50%">
