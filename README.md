@@ -19,7 +19,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <th width="50%">🏅 Skills</th>
       <th width="20%">📜 Project 1</th>
       <th width="20%">📜 Project 2</th>
-      <th width="20%">📜 Project 3</th>
+      <th width="25%">📜 Project 3</th>
     </tr>
   </thead>
 
