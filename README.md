@@ -27,9 +27,9 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
       <td valign="top">
-        <b>FreeAquaRTOS</b>
+        <b>FreeAquaRTOS</b><br/>
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><br/>
-          <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/><br/>
         </a>
       </td>
       <td valign="top">
