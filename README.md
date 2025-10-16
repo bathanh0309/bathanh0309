@@ -138,12 +138,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
           <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white&logoWidth=22"/>
         </a><br/>
       </td>
-      <td valign="top">
-        <b>Fundamentals of Deep Learning</b><br/>
-        <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-          <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td valign="top">
