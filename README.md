@@ -132,7 +132,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <tbody>
     <tr>
       <td valign="top">
-        <b>🥇 First Prize</b> — Faculty Research Competition<br/>
+        <b>🥇 First Prize</b> — Scientific research<br/>
         <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
           <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
