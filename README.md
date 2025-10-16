@@ -56,13 +56,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
       <td valign="top">
-        <b>DeepLearning</b><br/>
+        <b>Deep_Learning</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
-        <b>MachineLearning</b><br/>
+        <b>Machine_Learning</b><br/>
         <a href="https://github.com/bathanh0309/MachineLearning">
           <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
