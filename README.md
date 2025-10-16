@@ -28,8 +28,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <b>FreeAquaRTOS</b><br/>
-        <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><br/>
-          <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/><br/>
+        <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><<img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/><br/>
         </a>
       </td>
       <td valign="top">
