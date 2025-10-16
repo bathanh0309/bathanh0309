@@ -18,8 +18,8 @@
     <td align="center">
       <b>IoT & Hardware</b><br/>
       <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
-      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
+      <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
+      <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
     </td>
     <td align="center">
       <b>AI</b><br/>
