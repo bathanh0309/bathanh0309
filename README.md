@@ -33,13 +33,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/></a>
         
       </td>
-      
-      <td valign="top">
+      <td valign="top">
         <b>Smart Parking</b><br/>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
         
       </td>
+      
       <td valign="top">
         <b>HomeHub</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
