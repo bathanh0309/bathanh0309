@@ -32,7 +32,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
       <td valign="top">
-        <b>FreeAqua-RTOS</b><br/>
+        <b>FreeAqua</b><br/>
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
           <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
