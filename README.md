@@ -93,28 +93,86 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <tr>
     <td valign="top" width="50%">
 🏆 Achievements
-🥇 First PrizeFaculty Research Competition<br>Mechanical Engineering (Dec 2023)<br>📜 Certificate
-🥈 Second PrizeBKTechShow Technology Exhibition<br>(Dec 2023)<br>📜 Certificate
-🎓 Presidential HonorDa Nang University Research Student Award<br>(Dec 2024)<br>📜 Certificate
+<table>
+  <tr>
+    <td align="center">
+      <h3>🥇 First Prize</h3>
+      <b>Faculty Research Competition</b><br>
+      Mechanical Engineering (Dec 2023)<br><br>
+      <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
+        <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🥈 Second Prize</h3>
+      <b>BKTechShow Technology Exhibition</b><br>
+      (Dec 2023)<br><br>
+      <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
+        <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎓 Presidential Honor</h3>
+      <b>Da Nang University Research Student Award</b><br>
+      (Dec 2024)<br><br>
+      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+        <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </td>
 <td valign="top" width="50%">
 📜 Certifications
-Show ImageFundamentals of Deep Learning<br>Sep 2025<br>🪪 View
-Show ImageAI for Autonomous Vehicles<br>Dec 2023<br>🪪 View
-Show ImageFPGA-based ECG Enhancement<br>Mar 2025<br>🪪 View
-Show ImageSmart Waste Classification<br>Aug 2024<br>🪪 View
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br>
+      <b>Fundamentals of Deep Learning</b><br>
+      Sep 2025<br><br>
+      <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Research-0A84FF?style=for-the-badge&logo=academia&logoColor=white"/><br>
+      <b>AI for Autonomous Vehicles</b><br>
+      Dec 2023<br><br>
+      <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+        <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/DSAC-FF6B6B?style=for-the-badge&logo=circuit&logoColor=white"/><br>
+      <b>FPGA-based ECG Enhancement</b><br>
+      Mar 2025<br><br>
+      <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+        <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Startup-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/><br>
+      <b>Smart Waste Classification</b><br>
+      Aug 2024<br><br>
+      <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
+        <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </td>
   </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
