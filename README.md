@@ -35,7 +35,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-- 🔹 [**Deep Learning**](https://github.com/bathanh0309/DeepLearning) - Neural networks & DL
+- 🔹 [**Deep Learning**](https://github.com/bathanh0309/DeepLearning) - Neural networks
 - 🔹 [**Machine Learning**](https://github.com/bathanh0309/MachineLearning) - ML algorithms
 - 🔹 [**CIFAR-100**](https://github.com/bathanh0309/DeepLearning) - Image classification
 
