@@ -165,7 +165,7 @@
       </a>
     </td>
     <td align="center">
-      <b>FPGA-based</b><br/>
+      <b>DSAC</b><br/>
       <i>ECG Enhancement</i><br/>
       <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
         <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
