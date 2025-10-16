@@ -13,7 +13,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <div align="left" style="max-width: 1200px; margin: 0 auto;">
 
-<div align="center">
+<div align="left">
 <table width="100%">
   <!-- Khóa tỉ lệ cột để không bị lệch -->
   <colgroup>
