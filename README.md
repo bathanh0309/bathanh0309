@@ -12,8 +12,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-      
+    <td valign="top" width="50%">
 ### 🛰️ Embedded Systems & IoT
 - **Platforms:** ESP32, Jetson Nano, PlatformIO
 - **Protocols:** MQTT, I2C, SPI, UART
@@ -23,10 +22,9 @@
 - **Frameworks:** TensorFlow, OpenCV
 - **Skills:** Deep Learning, Object Detection
 - **Hardware:** NVIDIA Jetson Nano
-
 </td>
-<td valign="top" width="60%">
 
+<td valign="top" width="60%">
 ### 📡 Signal Processing
 - **Tools:** MATLAB, OptiSystem, Wireshark
 - **Focus:** ADC, mmWave/THz, Optical Comms
@@ -35,7 +33,6 @@
 - **Languages:** C++, Python, SQL
 - **Tools:** Git, Docker, WSL2
 - **Hardware:** Proteus, Altium, Oscilloscope
-
 </td>
   </tr>
 </table>
