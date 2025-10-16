@@ -52,7 +52,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>🧠 Computer Science</b><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
       <td valign="top">
         <b>Deep_Learning</b><br/>
