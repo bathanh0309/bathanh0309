@@ -88,7 +88,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 </table>
 
 ---
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -114,7 +113,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </a>
     </td>
   </tr>
-  
   <tr>
     <td align="center">
       <h3>🎓 Presidential Honor</h3>
@@ -124,17 +122,11 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
     </td>
-
-   <tr>
-    <td align="center">
-      <h3>🎓 Presidential Honor</h3>
-      <b>Da Nang University Research Student Award</b><br>
-      (Dec 2024)<br><br>
-      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-        <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
+  </tr>
+  <tr>
+    <td align="center" height="100">
+      <!-- Spacer for alignment -->
     </td>
-    
   </tr>
 </table>
 </td>
@@ -185,6 +177,16 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 </td>
   </tr>
 </table>
+
+
+
+📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ## 📫 Let's Connect
 
