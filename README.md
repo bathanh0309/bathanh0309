@@ -26,7 +26,7 @@
 ![OptiSystem](https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square)
 
 - 🔹 [**SimuADC**](https://github.com/bathanh0309/SimuADC) - ADC simulation
-- 🔹 [**mmWave-THz**](https://github.com/bathanh0309/mmWave-THz) - Wireless communication
+- 🔹 [**mmWave-THz**](https://github.com/bathanh0309/mmWave-THz) - Wireless
 - 🔹 [**OptiSystem**](https://github.com/bathanh0309/Optisystem) - Optical systems
 
 </td>
