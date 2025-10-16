@@ -23,7 +23,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <th width="20%">📜 Project 1</th>
       <th width="20%">📜 Project 2</th>
       <th width="20%">📜 Project 3</th>
-      <th width="20%">📜 Project 4</th>
     </tr>
   </thead>
 
@@ -48,12 +47,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <b>HomeHub</b><br/>
-        <a href="https://github.com/bathanh0309/IoT-HomeHub">
-          <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-      <td valign="top">
-        <b>IOT</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
