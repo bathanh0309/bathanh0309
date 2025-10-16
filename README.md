@@ -92,7 +92,10 @@
       </a>
     </td>
     <td align="center">
-      &nbsp;
+      <b>json_Vision_Gate</b><br/>
+      <a href="https://github.com/bathanh0309/json_Vision_Gate">
+        <img src="https://img.shields.io/badge/Loading-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 
@@ -117,10 +120,7 @@
       </a>
     </td>
     <td align="center">
-      <b>json_Vision_Gate</b><br/>
-      <a href="https://github.com/bathanh0309/json_Vision_Gate">
-        <img src="https://img.shields.io/badge/Loading-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+      &nbsp;
     </td>
   </tr>
 
