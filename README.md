@@ -46,7 +46,7 @@
   <!-- Row 2: PROJECT #1 -->
   <tr>
     <td align="center">
-      <b>iot-freeaqua-rtos</b><br/>
+      <b>iot_freeaqua_rtos</b><br/>
       <a href="https://github.com/bathanh0309/iot-freeaqua-rtos">
         <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -58,13 +58,13 @@
       </a>
     </td>
     <td align="center">
-      <b>sp-simuADC</b><br/>
+      <b>sp_simuADC</b><br/>
       <a href="https://github.com/bathanh0309/sp-simu-adc">
         <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <b>js-RRT</b><br/>
+      <b>json_RRT</b><br/>
       <a href="https://github.com/bathanh0309/js-rrt-jetson-nano">
         <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -74,7 +74,7 @@
   <!-- Row 3: PROJECT #2 -->
   <tr>
     <td align="center">
-      <b>iot-parksense</b><br/>
+      <b>iot_parksense</b><br/>
       <a href="https://github.com/bathanh0309/iot-smart-parking-parksense">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center">
-      <b>sp-mmWave-THz</b><br/>
+      <b>sp_mmWave_THz</b><br/>
       <a href="https://github.com/bathanh0309/sp-mmwave-thz-notes">
         <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -99,7 +99,7 @@
   <!-- Row 4: PROJECT #3 -->
   <tr>
     <td align="center">
-      <b>iot-homehub</b><br/>
+      <b>iot_homehub</b><br/>
       <a href="https://github.com/bathanh0309/iot-homehub-smart-home">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -111,7 +111,7 @@
       </a>
     </td>
     <td align="center">
-      <b>sp-Amplifier-OTL</b><br/>
+      <b>sp_Amplifier_OTL</b><br/>
       <a href="https://github.com/bathanh0309/sp-audio-amplifier-otl">
         <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
