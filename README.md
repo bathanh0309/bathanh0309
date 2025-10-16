@@ -13,9 +13,9 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="100%">
+<table width="120%">
   <colgroup>
-    <col width="25%">
+    <col width="30%">
     <col width="25%">
     <col width="25%">
     <col width="25%">
