@@ -54,7 +54,7 @@
     <td align="center">
       <b>deep_learning_CNN</b><br/>
       <a href="https://github.com/bathanh0309/deep_learning_CNN">
-        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Loading-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
@@ -82,7 +82,7 @@
     <td align="center">
       <b>machine_learning_AI</b><br/>
       <a href="https://github.com/bathanh0309/machine_learning_AI">
-        <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Loading-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
@@ -107,7 +107,7 @@
     <td align="center">
       <b>image_processing</b><br/>
       <a href="https://github.com/bathanh0309/image_processing">
-        <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Loading-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
@@ -119,7 +119,7 @@
     <td align="center">
       <b>json_Vision_Gate</b><br/>
       <a href="https://github.com/bathanh0309/json_Vision_Gate">
-        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Loading-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
