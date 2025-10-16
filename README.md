@@ -17,7 +17,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <p align="center">
 
-
+<table>
 
   <thead>
     <tr>
@@ -121,6 +121,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
     </tr>
   </tbody>
+</table>
 </p>
 
 
