@@ -224,13 +224,10 @@
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-<p align="center">
   <a href="mailto:bathanh124ads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 </p>
