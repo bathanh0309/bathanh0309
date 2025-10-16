@@ -5,8 +5,8 @@
 
 <h3 align="center">
   🎓 Da Nang University of Science and Technology  
-  <br/>
-<a href="https://drive.google.com/file/d/1AbCdEfGhIJ12345678/view?usp=sharing" target="_blank" style="text-decoration:none; display:flex; align-items:center; justify-content:center; gap:8px;">
+
+<a href="https://drive.google.com/file/d/1thA17jQjWi8-qG_LHpertuhBT8Zj4Vx6/view?usp=sharing" target="_blank" style="text-decoration:none; display:flex; align-items:center; justify-content:center; gap:8px;">
   <img src="https://img.icons8.com/color/48/000000/google-drive--v1.png" width="32" alt="Google Drive"/>
   <span style="font-size:18px; color:#4285F4;"><b>View My CV</b></span>
 </a>
