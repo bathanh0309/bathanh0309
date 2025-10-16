@@ -4,52 +4,120 @@
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
+
 ## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  
-### 🛰️ Embedded & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
+<div align="left">
+<table width="100%">
+  <colgroup>
+    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
+  </colgroup>
 
-- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS
-- 🔹 [**ParkSense**](https://github.com/bathanh0309/PBL3_Smart_Parking) - Smart parking system
-- 🔹 [**HomeHub**](https://github.com/bathanh0309/IoT-HomeHub) - IoT home automation
+  <!-- Row 1: SKILLS -->
+  <tr>
+    <td align="center">
+      <b>🛰️ Embedded & IoT</b><br/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
+    </td>
+    <td align="center">
+      <b>🧠 AI & Computer Vision</b><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    </td>
+    <td align="center">
+      <b>📡 Signal Processing</b><br/>
+      <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+    </td>
+    <td align="center">
+      <b>⚙️ Software & Tools</b><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+  </tr>
 
----
+  <!-- Row 2: PROJECT #1 -->
+  <tr>
+    <td align="center">
+      <b>FreeAqua-RTOS</b><br/>
+      <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+        <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>DL</b><br/>
+      <a href="https://github.com/bathanh0309/DeepLearning">
+        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>SimuADC</b><br/>
+      <a href="https://github.com/bathanh0309/SimuADC">
+        <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Amplifier-OTL</b><br/>
+      <a href="https://github.com/bathanh0309/Amplifier-OTL">
+        <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 
-### 📡 Signal Processing
-![Simulink](https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
-![OptiSystem](https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square)
+  <!-- Row 3: PROJECT #2 -->
+  <tr>
+    <td align="center">
+      <b>ParkSense</b><br/>
+      <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
+        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>ML</b><br/>
+      <a href="https://github.com/bathanh0309/MachineLearning">
+        <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>mmWave-THz</b><br/>
+      <a href="https://github.com/bathanh0309/mmWave-THz">
+        <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      &nbsp;
+    </td>
+  </tr>
 
-- 🔹 [**SimuADC**](https://github.com/bathanh0309/SimuADC) - ADC simulation
-- 🔹 [**mmWave-THz**](https://github.com/bathanh0309/mmWave-THz) - Wireless
-- 🔹 [**OptiSystem**](https://github.com/bathanh0309/Optisystem) - Optical systems
+  <!-- Row 4: PROJECT #3 -->
+  <tr>
+    <td align="center">
+      <b>HomeHub</b><br/>
+      <a href="https://github.com/bathanh0309/IoT-HomeHub">
+        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>CIFAR-100</b><br/>
+      <a href="https://github.com/bathanh0309/DeepLearning">
+        <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>OptiSystem</b><br/>
+      <a href="https://github.com/bathanh0309/Optisystem">
+        <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      &nbsp;
+    </td>
+  </tr>
 
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI & Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-- 🔹 [**Deep Learning**](https://github.com/bathanh0309/DeepLearning) - Neural networks
-- 🔹 [**Machine Learning**](https://github.com/bathanh0309/MachineLearning) - ML algorithms
-- 🔹 [**CIFAR-100**](https://github.com/bathanh0309/DeepLearning) - Image classification
-
----
-
-### ⚙️ Software & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-- 🔹 [**Amplifier-OTL**](https://github.com/bathanh0309/Amplifier-OTL) - Circuit design
-
-</td>
-</tr>
 </table>
+</div>
+
 
 ## 🏆 Achievements & Certifications
 <div align="left">
