@@ -13,11 +13,29 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills & Projects</title>
+</head>
+<body>
+
 <table width="100%">
+  <colgroup>
+    <col width="25%">
+    <col width="25%">
+    <col width="25%">
+    <col width="25%">
+  </colgroup>
+
   <thead>
     <tr>
-      <th width="50%">🏅 Skills</th>
-      <th width="50%">📜 Projects</th>
+      <th width="25%">🏅 Skills</th>
+      <th width="25%">📜 Project 1</th>
+      <th width="25%">📜 Project 2</th>
+      <th width="25%">📜 Project 3</th>
     </tr>
   </thead>
   
@@ -33,11 +51,15 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <b>FreeAqua-RTOS</b><br/>
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
           <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
-      <b>Smart Parking</b><br/>
+        </a>
+      </td>
+      <td valign="top">
+        <b>Smart Parking</b><br/>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
           <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
+        </a>
+      </td>
+      <td valign="top">
         <b>IoT HomeHub</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
@@ -55,11 +77,15 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <b>DeepLearning</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
+        </a>
+      </td>
+      <td valign="top">
         <b>MachineLearning</b><br/>
         <a href="https://github.com/bathanh0309/MachineLearning">
           <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
+        </a>
+      </td>
+      <td valign="top">
         <b>CIFAR100 3×3 vs 9×9</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
@@ -77,11 +103,15 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <b>SimuADC</b><br/>
         <a href="https://github.com/bathanh0309/SimuADC">
           <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
+        </a>
+      </td>
+      <td valign="top">
         <b>mmWave-THz</b><br/>
         <a href="https://github.com/bathanh0309/mmWave-THz">
           <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
-        </a><br/>
+        </a>
+      </td>
+      <td valign="top">
         <b>OptiSystem</b><br/>
         <a href="https://github.com/bathanh0309/Optisystem">
           <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
@@ -101,11 +131,19 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
           <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        &nbsp;
+      </td>
     </tr>
 
   </tbody>
 </table>
 
+</body>
+</html>
 
 ---
 
