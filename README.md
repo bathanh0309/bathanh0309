@@ -59,13 +59,13 @@
     </td>
     <td align="center">
       <b>sp_simuADC</b><br/>
-      <a href="https://github.com/bathanh0309/sp_simuADC">
+      <a href="https://github.com/bathanh0309/sp_simu_ADC">
         <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
       <b>json_RRT</b><br/>
-      <a href="https://github.com/bathanh0309/js-rrt-jetson-nano">
+      <a href="https://github.com/bathanh0309/json_RRT">
         <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -75,7 +75,7 @@
   <tr>
     <td align="center">
       <b>iot_parksense</b><br/>
-      <a href="https://github.com/bathanh0309/iot-smart-parking-parksense">
+      <a href="https://github.com/bathanh0309/iot_parksense">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -87,7 +87,7 @@
     </td>
     <td align="center">
       <b>sp_mmWave_THz</b><br/>
-      <a href="https://github.com/bathanh0309/sp-mmwave-thz-notes">
+      <a href="https://github.com/bathanh0309/sp_mmWave_THz">
         <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -100,19 +100,19 @@
   <tr>
     <td align="center">
       <b>iot_homehub</b><br/>
-      <a href="https://github.com/bathanh0309/iot-homehub-smart-home">
+      <a href="https://github.com/bathanh0309/iot_homehub">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
       <b>image_processing</b><br/>
-      <a href="https://github.com/bathanh0309/DeepLearning">
+      <a href="https://github.com/bathanh0309/image_processing">
         <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
       <b>sp_Amplifier_OTL</b><br/>
-      <a href="https://github.com/bathanh0309/sp-audio-amplifier-otl">
+      <a href="https://github.com/bathanh0309/sp_Amplifier_OTL">
         <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
