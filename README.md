@@ -71,6 +71,7 @@
   <tr>
     <td align="center">
       🎓 <b>Presidential Honor</b><br/>
+      <i>Research Student Award</i><br/>
       <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
@@ -90,16 +91,19 @@
       </a>
     </td>
     <td align="center">
+      &nbsp; <!-- trống | chèn thêm mục khác nếu có -->
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
       <b>NVIDIA</b><br/>
       <i>Deep Learning</i><br/>
       <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
         <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
       </a>
     </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
     <td align="center">
       <b>FPGA-based</b><br/>
       <i>ECG Enhancement</i><br/>
@@ -121,13 +125,9 @@
         <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
     </td>
-    <td align="center">
-      &nbsp; <!-- chỗ trống: thêm mục mới sau này -->
-    </td>
   </tr>
 </table>
 </div>
-
 
 ---
 
