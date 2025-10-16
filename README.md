@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
     </td>
     <td align="center">
-      <b>Software & Algorithm</b><br/>
+      <b>SW & Algorithm</b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
