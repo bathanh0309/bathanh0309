@@ -114,6 +114,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </a>
     </td>
   </tr>
+  
   <tr>
     <td align="center">
       <h3>🎓 Presidential Honor</h3>
@@ -123,6 +124,17 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
     </td>
+
+   <tr>
+    <td align="center">
+      <h3>🎓 Presidential Honor</h3>
+      <b>Da Nang University Research Student Award</b><br>
+      (Dec 2024)<br><br>
+      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+        <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
+    </td>
+    
   </tr>
 </table>
 </td>
