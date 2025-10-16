@@ -42,13 +42,13 @@
                 <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
               </td>
               <td valign="top">
-                <b>FreeAquaRTOS</b><br/>
+                <b>FreeRTOS</b><br/>
                 <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
                   <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
               </td>
               <td valign="top">
-                <b>Smart Parking</b><br/>
+                <b>ParkSense</b><br/>
                 <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
                   <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
                 </a>
@@ -146,7 +146,10 @@
           <tbody>
             <tr>
               <td valign="top">
-                <b>🥇 First Prize</b> — Scientific research<br/>
+                <b>🎓 Presidential Honor</b><br/>
+                <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+                  <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+                <b>🥇 First Prize</b><br/>
                 <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
                   <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
                 </a><br/><br/>
@@ -154,10 +157,6 @@
                 <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
                   <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
                 </a><br/><br/>
-                <b>🎓 Presidential Honor</b><br/>
-                <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-                  <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-                </a>
               </td>
               <td valign="top">
                 <b>NVIDIA — Fundamentals of DL</b><br/>
