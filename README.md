@@ -17,6 +17,7 @@
   <tr>
     <td align="center">
       <b>🛰️ IoT </b><br/>
+      <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
       <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
     </td>
@@ -33,7 +34,6 @@
     <td align="center">
       <b>⚙️ SW & HW </b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
     </td>
   </tr>
 
@@ -58,8 +58,8 @@
       </a>
     </td>
     <td align="center">
-      <b>Amplifier-OTL</b><br/>
-      <a href="https://github.com/bathanh0309/Amplifier-OTL">
+      <b>RRT Algorithm</b><br/>
+      <a href="https://github.com/bathanh0309/rob-rrt-jetson-nano">
         <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
