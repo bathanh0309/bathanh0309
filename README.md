@@ -225,10 +225,10 @@
   <a href="https://www.linkedin.com/in/bathanh0309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/bathanh0309"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-  <a href="https://zalo.me/0YOUR_PHONE_HERE" target="_blank"
+  <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/zalo.png" width="22" alt="Zalo" style="border-radius:4px;"/>
-  <span>0935 636 090</span>
+  <span>0935636090</span>
 </a>
 
 </p>
