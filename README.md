@@ -77,10 +77,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <a href="https://github.com/bathanh0309/SimuADC">
-          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/mmWave-THz">
-          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=probot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=probot&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/Optisystem">
           <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=for-the-badge&logo=photon&logoColor=white"/>
