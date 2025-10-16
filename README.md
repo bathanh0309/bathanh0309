@@ -12,6 +12,7 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
+
 <style>
   table.skills-projects td, table.achievements td {
     width: 50%;
@@ -34,8 +35,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     font-size: 1.1em;
   }
 </style>
-
-<!-- ====================== TECHNICAL SKILLS & PROJECTS ====================== -->
 <h2>💼 Technical Skills & Projects</h2>
 
 <table class="skills-projects">
@@ -45,7 +44,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   </tr>
   <tr>
     <td valign="top">
-
+      
 ### 🛰️ Embedded Systems & IoT
 - **Platforms:** ESP32, Jetson Nano, PlatformIO  
 - **Protocols:** MQTT, I2C, SPI, UART  
