@@ -28,8 +28,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>🛰️ Embedded & IoT</b><br/>
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
       <td valign="top">
         <b>FreeAquaRTOS</b><br/>
@@ -77,8 +76,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>📡 Signal </b><br/>
-        <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/><img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
       <td valign="top">
         <b>SimuADC</b><br/>
@@ -102,8 +100,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>⚙️ DevOps & Hardware</b><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
       <td valign="top">
         <b>Amplifier-OTL</b><br/>
