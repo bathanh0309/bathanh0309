@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
     </td>
     <td align="center">
-      <b>⚙️ SW & Algorithm </b><br/>
+      <b>⚙️ Software & Algorithm </b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
@@ -58,7 +58,7 @@
       </a>
     </td>
     <td align="center">
-      <b>RRT Algorithm</b><br/>
+      <b>RRT vs JetsonNano</b><br/>
       <a href="https://github.com/bathanh0309/rob-rrt-jetson-nano">
         <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
