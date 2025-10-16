@@ -12,15 +12,24 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
+<div align="center" style="max-width: 1200px; margin: 0 auto;">
 
+<div align="center">
+<table width="96%">
+  <!-- Khóa tỉ lệ cột để không bị lệch -->
+  <colgroup>
+    <col width="47%">
+    <col width="19%">
+    <col width="14%">
+    <col width="20%">
+  </colgroup>
 
-<table width="100%">
   <thead>
     <tr>
-      <th width="47%">Skills</th>
-      <th width="19%">Project 1</th>
-      <th width="14%">Project 2</th>
-      <th width="20%">Project 3</th>
+      <th>Skills</th>
+      <th>Project 1</th>
+      <th>Project 2</th>
+      <th>Project 3</th>
     </tr>
   </thead>
 
@@ -115,9 +124,9 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         &nbsp;
       </td>
     </tr>
-  </tbody>
+ </tbody>
 </table>
-
+</div>
 ---
 
 <table width="100%" style="table-layout: fixed;">
@@ -186,13 +195,15 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 </table>
 
 ---
-<div align="center" style="max-width: 1200px; margin: 0 auto;">
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" />
 </p>
+
+
 </div>
 ---
 
