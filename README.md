@@ -10,13 +10,13 @@
 <div align="left">
 <table width="100%">
   <colgroup>
-    <col width="23%"><col width="27%"><col width="25%"><col width="25%">
+    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
   </colgroup>
 
   <!-- Row 1: SKILLS -->
   <tr>
     <td align="center">
-      <b>🛰️ Embedded & IoT</b><br/>
+      <b>🛰️ Embedded </b><br/>
       <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
       <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
@@ -32,7 +32,7 @@
       <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
     </td>
     <td align="center">
-      <b>⚙️ Software</b><br/>
+      <b>⚙️ Software </b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
     </td>
