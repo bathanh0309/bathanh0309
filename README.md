@@ -46,8 +46,8 @@
   <!-- Row 2: PROJECT #1 -->
   <tr>
     <td align="center">
-      <b>FreeAqua-RTOS</b><br/>
-      <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+      <b>iot-freeaqua-rtos</b><br/>
+      <a href="https://github.com/bathanh0309/iot-freeaqua-rtos">
         <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
