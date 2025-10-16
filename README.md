@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
     </td>
     <td align="center">
-      <b>🧠 Computer Science</b><br/>
+      <b>🧠 AI </b><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </td>
