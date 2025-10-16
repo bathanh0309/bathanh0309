@@ -33,7 +33,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top" width="100%" align="center">
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
           <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=flat-square&logo=hackaday&logoColor=white"/><br/>
         </a>
@@ -56,10 +56,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/MachineLearning">
-          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=flat-square&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/CIFAR100_3×3_vs_9×9-1f6feb?style=flat-square&logo=googlecharts&logoColor=white"/>
@@ -76,10 +76,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/SimuADC">
-          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/mmWave-THz">
-          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=flat-square&logo=probot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=flat-square&logo=probot&logoColor=white"/><br/>
         </a>
         <a href="https://github.com/bathanh0309/Optisystem">
           <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square&logo=photon&logoColor=white"/>
