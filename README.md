@@ -5,7 +5,6 @@
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
 ## 🛠️ Technical Skills
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -51,10 +50,7 @@
 </tr>
 </table>
 
----
-
 ## 🏆 Achievements & Certifications
-
 <div align="left">
 <table width="100%">
   <colgroup>
