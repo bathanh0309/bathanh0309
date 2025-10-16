@@ -60,8 +60,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>🧠 Computer Vision & AI</b><br/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
       <td valign="top">
         <b>DeepLearning</b><br/>
@@ -86,8 +85,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>📡 Signal Processing</b><br/>
-        <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/><img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
       <td valign="top">
         <b>SimuADC</b><br/>
@@ -112,8 +110,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>⚙️ DevOps & Hardware</b><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
       <td valign="top">
         <b>Amplifier-OTL</b><br/>
