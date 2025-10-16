@@ -73,11 +73,12 @@
 <h1 id="overview">🧩 Overview</h1>
 
 | Category | Focus Areas | Projects |
-|-----------|--------------|------------------|
-| 🛰️ **IoT / Embedded** | ESP32, FreeRTOS, MQTT | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS), [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking), [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
-| 🧠 **Computer Vision / Deep Learning** | TensorFlow/Keras, CNN, CIFAR-100 | [DeepLearning](https://github.com/bathanh0309/DeepLearning), [MachineLearning](https://github.com/bathanh0309/MachineLearning), [CIFAR-100 (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
-| 🤖 **Robotics / Path Planning** | Jetson Nano, RRT* | [RRTNavNano](https://github.com/bathanh0309/RRTNavNano) |
-| 📡 **Signal & Photonics** | ADC, mmWave/THz, OptiSystem | [SimuADC](https://github.com/bathanh0309/SimuADC), [mmWave-THz](https://github.com/bathanh0309/mmWave-THz), [Optisystem](https://github.com/bathanh0309/Optisystem), [Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL) |
+|-----------|--------------|----------|
+| 🛰️ **IoT / Embedded** <br/><img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/> | FreeRTOS • MQTT • OTA • PCB Design | [FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS) • [Smart-Parking](https://github.com/bathanh0309/PBL3_Smart_Parking) • [HomeHub](https://github.com/bathanh0309/IoT-HomeHub) |
+| 🧠 **Computer Vision / Deep Learning** <br/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> | CNN • CIFAR-100 • Image Processing | [DeepLearning](https://github.com/bathanh0309/DeepLearning) • [MachineLearning](https://github.com/bathanh0309/MachineLearning) • [CIFAR-100 (3×3 vs 9×9)](https://github.com/bathanh0309/DeepLearning) |
+| 🤖 **Robotics / Path Planning** <br/><img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> | RRT / RRT* • CUDA Acceleration • Navigation | [RRTNavNano](https://github.com/bathanh0309/RRTNavNano) |
+| 📡 **Signal & Photonics** <br/><img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/> <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/> | ADC • mmWave / THz • Fiber Link Simulation | [SimuADC](https://github.com/bathanh0309/SimuADC) • [mmWave-THz](https://github.com/bathanh0309/mmWave-THz) • [Optisystem](https://github.com/bathanh0309/Optisystem) • [Amplifier-OTL](https://github.com/bathanh0309/Amplifier-OTL) |
+
 
 ---
 
