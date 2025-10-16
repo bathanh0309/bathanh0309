@@ -23,7 +23,7 @@
       <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
     </td>
     <td align="center">
-      <b>AI</b><br/>
+      <b>Computer Science</b><br/>
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="26" alt="tensorflow"/>
       <img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" alt="Jupyter"/>
       <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" alt="OpenCV"/>
@@ -31,8 +31,8 @@
     </td>
     <td align="center">
       <b>Signal</b><br/>
-      <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+      <img src="https://cdn.simpleicons.org/mathworks/FF8C00" width="26" alt="MATLAB"/> 
+      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
     </td>
     <td align="center">
       <b>SW & Algorithm</b><br/>
