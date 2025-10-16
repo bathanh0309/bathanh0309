@@ -35,7 +35,7 @@
       <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
     </td>
     <td align="center">
-      <b>Software<br/>Algorithm</b><br/>
+      <b>🛰️Software<br/>Algorithm</b><br/>
       <img src="https://cdn.simpleicons.org/docker/2496ED" width="26" alt="Docker"/>
       <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" alt="Linux"/>
       <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/>
