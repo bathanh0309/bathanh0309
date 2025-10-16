@@ -33,8 +33,10 @@
     </td>
     <td align="center">
       <b>SW & Algorithm</b><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="26" alt="Docker"/>
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" alt="Linux"/>
       <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/>
+      <img src="https://cdn.simpleicons.org/git/F05032" width="26" alt="Git"/>
     </td>
   </tr>
 
