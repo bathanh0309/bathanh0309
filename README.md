@@ -34,7 +34,7 @@
     <td align="center">
       <b>SW & Algorithm</b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/> <b>Jetson Nano</b>
+      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/>
     </td>
   </tr>
 
