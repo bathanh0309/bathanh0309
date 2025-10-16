@@ -52,14 +52,14 @@
       </a>
     </td>
     <td align="center">
-      <b>Deep Learning</b><br/>
-      <a href="https://github.com/bathanh0309/DeepLearning">
+      <b>dl-vision</b><br/>
+      <a href="https://github.com/bathanh0309/dl-vision-playground">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
-      <b>SimuADC</b><br/>
-      <a href="https://github.com/bathanh0309/SimuADC">
+      <b>sp-simuADC</b><br/>
+      <a href="https://github.com/bathanh0309/sp-simu-adc">
         <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
