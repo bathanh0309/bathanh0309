@@ -36,35 +36,41 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <td valign="top">
         <b>Smart Parking</b><br/>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
+        
           <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>HomeHub</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
+        
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
     <tr>
       <td valign="top">
+      
         <b>🧠 Computer Vision & AI</b><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
       <td valign="top">
         <b>DeepLearning</b><br/>
+        
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>MachineLearning</b><br/>
+        
         <a href="https://github.com/bathanh0309/MachineLearning">
           <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>CIFAR100</b><br/>
+        
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -78,18 +84,21 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <td valign="top">
         <b>SimuADC</b><br/>
         <a href="https://github.com/bathanh0309/SimuADC">
+        
           <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>mmWave-THz</b><br/>
         <a href="https://github.com/bathanh0309/mmWave-THz">
+        
           <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>OptiSystem</b><br/>
         <a href="https://github.com/bathanh0309/Optisystem">
+        
           <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
@@ -102,6 +111,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <td valign="top">
         <b>Amplifier-OTL</b><br/>
         <a href="https://github.com/bathanh0309/Amplifier-OTL">
+        
           <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
