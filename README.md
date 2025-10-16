@@ -3,17 +3,12 @@
 </p>
 
 <p align="center">
-  <b>🎓 Da Nang University of Science and Technology (DUT)</b>
+  <b>🎓 Da Nang University of Science and Technology (DUT) 🎯</b>
 </p>
 
 ---
 
-## 🎯 About Me
-
-I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
----
-
-## 💼 Technical Skills
+## 💼 About Me
 
 <table>
   <tr>
