@@ -111,8 +111,8 @@
       </a>
     </td>
     <td align="center">
-      <b>OptiSystem</b><br/>
-      <a href="https://github.com/bathanh0309/Optisystem">
+      <b>sp-Amplifier-OTL</b><br/>
+      <a href="https://github.com/bathanh0309/sp-audio-amplifier-otl">
         <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
