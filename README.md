@@ -16,10 +16,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table width="100%">
   <thead>
     <tr>
-      <th width="45%">🏅 Skills</th>
+      <th width="30%">🏅 Skills</th>
       <th width="20%">📜 Project 1</th>
       <th width="20%">📜 Project 2</th>
-      <th width="25%">📜 Project 3</th>
+      <th width="30%">📜 Project 3</th>
     </tr>
   </thead>
 
