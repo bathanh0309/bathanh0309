@@ -99,7 +99,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>⚙️ DevOps & Hardware</b><br/>
+        <b>⚙️ DevOps & Software</b><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
       <td valign="top">
