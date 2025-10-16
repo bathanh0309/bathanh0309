@@ -13,7 +13,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="10000">
+<table style="width: 100%; max-width: 1400px; margin: 0 auto;">
   <thead>
     <tr>
       <th width="40%">🏅 Skills</th>
