@@ -16,23 +16,23 @@
   <!-- Row 1: SKILLS -->
   <tr>
     <td align="center">
-      <b>🛰️ IoT & Hardware</b><br/>
+      <b>IoT & Hardware</b><br/>
       <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
       <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
     </td>
     <td align="center">
-      <b>🧠 AI </b><br/>
+      <b>AI</b><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
     </td>
     <td align="center">
-      <b>📡 Signal </b><br/>
+      <b>Signal</b><br/>
       <img src="https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
       <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
     </td>
     <td align="center">
-      <b>⚙️ Software & Algorithm </b><br/>
+      <b>Software & Algorithm</b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     </td>
   </tr>
