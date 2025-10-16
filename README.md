@@ -13,95 +13,101 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table>
-    <thead>
+<h2>💼 Technical Skills & Projects</h2>
+
+<table width="100%">
+  <thead>
     <tr>
-      <th width="50%">🏅Skills</th>
-      <th width="50%">📜Projects</th>
+      <th width="50%">🏅 Skills</th>
+      <th width="50%">📜 Projects</th>
     </tr>
   </thead>
 
   <tbody>
+    <!-- IoT / Embedded -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%">
         <b>🛰️ Embedded Systems & IoT</b><br/>
         • <b>Platforms:</b> ESP32, Jetson Nano, PlatformIO<br/>
         • <b>Protocols:</b> MQTT, I2C, SPI, UART<br/>
-        • <b>RTOS:</b> FreeRTOS
+        • <b>RTOS:</b> FreeRTOS<br/><br/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
-          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=flat-square&logo=hackaday&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
-          <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+          <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=flat-square&logo=homeassistant&logoColor=white"/>
         </a>
       </td>
     </tr>
+    <!-- CV / AI -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%">
         <b>🧠 Computer Vision & AI</b><br/>
         • <b>Frameworks:</b> TensorFlow, OpenCV<br/>
         • <b>Skills:</b> Deep Learning, Object Detection<br/>
-        • <b>Hardware:</b> NVIDIA Jetson Nano<br/>
+        • <b>Hardware:</b> NVIDIA Jetson Nano<br/><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/MachineLearning">
-          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=flat-square&logo=scikit-learn&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/CIFAR100_3x3_vs_9x9-1f6feb?style=for-the-badge&logo=googlecharts&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CIFAR100_3×3_vs_9×9-1f6feb?style=flat-square&logo=googlecharts&logoColor=white"/>
         </a>
       </td>
     </tr>
+    <!-- Signal -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%">
         <b>📡 Signal Processing</b><br/>
         • <b>Tools:</b> MATLAB, OptiSystem, Wireshark<br/>
-        • <b>Focus:</b> ADC, mmWave/THz, Optical Communication<br/>
+        • <b>Focus:</b> ADC, mmWave/THz, Optical Communication<br/><br/>
         <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
         <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/SimuADC">
-          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/mmWave-THz">
-          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=probot&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=flat-square&logo=probot&logoColor=white"/>
         </a>
         <a href="https://github.com/bathanh0309/Optisystem">
-          <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=for-the-badge&logo=photon&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square&logo=photon&logoColor=white"/>
         </a>
       </td>
     </tr>
     <!-- DevOps / HW -->
     <tr>
-      <td valign="top">
+      <td valign="top" width="50%">
         <b>⚙️ DevOps & Hardware</b><br/>
         • <b>Languages:</b> C++, Python, SQL<br/>
         • <b>Tools:</b> Git, Docker, WSL2<br/>
-        • <b>Hardware:</b> Proteus, Altium, Oscilloscope<br/>
+        • <b>Hardware:</b> Proteus, Altium, Oscilloscope<br/><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
-      <td valign="top">
+      <td valign="top" width="50%" align="center">
         <a href="https://github.com/bathanh0309/Amplifier-OTL">
-          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/><br/>
+          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=flat-square&logo=circuitverse&logoColor=white"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
