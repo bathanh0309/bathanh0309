@@ -89,27 +89,23 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-## 🏆 Achievements
-
-| 🥇 First Prize | 🥈 Second Prize |
-|:---:|:---:|
-| **Faculty Research Competition**<br>Mechanical Engineering (Dec 2023)<br>[📜 Certificate](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view) | **BKTechShow Technology Exhibition**<br>(Dec 2023)<br>[📜 Certificate](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view) |
-
-| 🎓 Presidential Honor |
-|:---:|
-| **Da Nang University Research Student Award**<br>(Dec 2024)<br>[📜 Certificate](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view) |
-
-### 📜 Certifications
-
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) | ![Research](https://img.shields.io/badge/Research-0A84FF?style=for-the-badge&logo=academia&logoColor=white) |
-|:---:|:---:|
-| **Fundamentals of Deep Learning**<br>Sep 2025<br>[🪪 View](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view) | **AI for Autonomous Vehicles**<br>Dec 2023<br>[🪪 View](https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view) |
-
-| ![DSAC](https://img.shields.io/badge/DSAC-FF6B6B?style=for-the-badge&logo=circuit&logoColor=white) | ![Startup](https://img.shields.io/badge/Startup-4CAF50?style=for-the-badge&logo=rocket&logoColor=white) |
-|:---:|:---:|
-| **FPGA-based ECG Enhancement**<br>Mar 2025<br>[🪪 View](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view) | **Smart Waste Classification**<br>Aug 2024<br>[🪪 View](https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view) |
-
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+🏆 Achievements
+🥇 First PrizeFaculty Research Competition<br>Mechanical Engineering (Dec 2023)<br>📜 Certificate
+🥈 Second PrizeBKTechShow Technology Exhibition<br>(Dec 2023)<br>📜 Certificate
+🎓 Presidential HonorDa Nang University Research Student Award<br>(Dec 2024)<br>📜 Certificate
+</td>
+<td valign="top" width="50%">
+📜 Certifications
+Show ImageFundamentals of Deep Learning<br>Sep 2025<br>🪪 View
+Show ImageAI for Autonomous Vehicles<br>Dec 2023<br>🪪 View
+Show ImageFPGA-based ECG Enhancement<br>Mar 2025<br>🪪 View
+Show ImageSmart Waste Classification<br>Aug 2024<br>🪪 View
+</td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
