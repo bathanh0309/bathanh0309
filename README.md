@@ -14,15 +14,15 @@
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
       <td valign="top">
-        <b>FreeAquaRTOS</b><br/>&nbsp;<br/>
+        <b>FreeAquaRTOS</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
       <td valign="top">
-        <b>Smart Parking</b><br/>&nbsp;<br/>
+        <b>Smart Parking</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking"><img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
       <td valign="top">
-        <b>HomeHub</b><br/>&nbsp;<br/>
+        <b>HomeHub</b><br/>&nbsp;
         <a href="https://github.com/bathanh0309/IoT-HomeHub"><img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/></a>
       </td>
     </tr>
