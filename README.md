@@ -12,170 +12,163 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
+<style>
+  table.skills-projects td, table.achievements td {
+    width: 50%;
+    vertical-align: top;
+    padding: 15px;
+  }
+  table.skills-projects, table.achievements {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #30363d;
+  }
+  table.skills-projects tr, table.achievements tr {
+    border-top: 1px solid #30363d;
+  }
+  table.skills-projects th, table.achievements th {
+    background-color: #161b22;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    font-size: 1.1em;
+  }
+</style>
 
 <!-- ====================== TECHNICAL SKILLS & PROJECTS ====================== -->
-<h1 id="skills-projects">💼 Technical Skills & Projects</h1>
+<h2>💼 Technical Skills & Projects</h2>
 
-<table width="100%">
+<table class="skills-projects">
   <tr>
-    <!-- ===== Left: Skills ===== -->
-    <td valign="top" width="50%">
-      <h3>🛰️ Embedded Systems & IoT</h3>
-      <ul>
-        <li><b>Platforms:</b> ESP32, Jetson Nano, PlatformIO</li>
-        <li><b>Protocols:</b> MQTT, I2C, SPI, UART</li>
-        <li><b>RTOS:</b> FreeRTOS</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
-          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/IoT-HomeHub">
-          <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white"/>
-        </a>
-      </p>
-      <h3>🧠 Computer Vision & AI</h3>
-      <ul>
-        <li><b>Frameworks:</b> TensorFlow, OpenCV</li>
-        <li><b>Skills:</b> Deep Learning, Object Detection</li>
-        <li><b>Hardware:</b> NVIDIA Jetson Nano</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/MachineLearning">
-          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/RRTNavNano">
-          <img src="https://img.shields.io/badge/RRTNavNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-        </a>
-      </p>
+    <th>Skills</th>
+    <th>Projects</th>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### 🛰️ Embedded Systems & IoT
+- **Platforms:** ESP32, Jetson Nano, PlatformIO  
+- **Protocols:** MQTT, I2C, SPI, UART  
+- **RTOS:** FreeRTOS  
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
+
+### 🧠 Computer Vision & AI
+- **Frameworks:** TensorFlow, OpenCV  
+- **Skills:** Deep Learning, Object Detection  
+- **Hardware:** NVIDIA Jetson Nano  
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+### 📡 Signal Processing
+- **Tools:** MATLAB, OptiSystem, Wireshark  
+- **Focus:** ADC, mmWave/THz, Optical Communication  
+
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+
+### ⚙️ DevOps & Hardware
+- **Languages:** C++, Python, SQL  
+- **Tools:** Git, Docker, WSL2  
+- **Hardware:** Proteus, Altium, Oscilloscope  
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
     </td>
-    <!-- ===== Right: Signal + DevTools ===== -->
-    <td valign="top" width="50%">
-      <h3>📡 Signal Processing</h3>
-      <ul>
-        <li><b>Tools:</b> MATLAB, OptiSystem, Wireshark</li>
-        <li><b>Focus:</b> ADC, mmWave/THz, Optical Communication</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/bathanh0309/SimuADC">
-          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/mmWave-THz">
-          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=signal&logoColor=white"/>
-        </a>
-        <a href="https://github.com/bathanh0309/Optisystem">
-          <img src="https://img.shields.io/badge/Optisystem-005BAC?style=for-the-badge&logo=photon&logoColor=white"/>
-        </a>
-      </p>
-      <h3>⚙️ Development Tools</h3>
-      <ul>
-        <li><b>Languages:</b> C++, Python, SQL</li>
-        <li><b>Tools:</b> Git, Docker, WSL2</li>
-        <li><b>Hardware:</b> Proteus, Altium, Oscilloscope</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/bathanh0309/Amplifier-OTL">
-          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/>
-        </a>
-      </p>
+    <td valign="top" align="center">
+
+<p align="center">
+  <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+    <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
+    <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/IoT-HomeHub">
+    <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+  </a><br><br>
+
+  <a href="https://github.com/bathanh0309/DeepLearning">
+    <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/MachineLearning">
+    <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/RRTNavNano">
+    <img src="https://img.shields.io/badge/RRTNavNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  </a><br><br>
+
+  <a href="https://github.com/bathanh0309/SimuADC">
+    <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/mmWave-THz">
+    <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/Optisystem">
+    <img src="https://img.shields.io/badge/Optisystem-005BAC?style=for-the-badge&logo=photon&logoColor=white"/>
+  </a><br><br>
+
+  <a href="https://github.com/bathanh0309/Amplifier-OTL">
+    <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/>
+  </a>
+</p>
+
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ====================== ACHIEVEMENTS & CERTIFICATES ====================== -->
-<h1 id="achievements">🏆 Achievements & 📜 Certifications</h1>
+<!-- ====================== ACHIEVEMENTS & CERTIFICATIONS ====================== -->
+<h2>🏅 Achievements & Certifications</h2>
 
-<table width="100%">
+<table class="achievements">
   <tr>
-    <!-- ===== Left: Achievements ===== -->
-    <td valign="top" width="50%">
-      <h3 align="center">🏅 Achievements</h3>
-      <table align="center" width="95%">
-        <tr>
-          <td align="center">
-            <h4>🥇 First Prize</h4>
-            <b>Faculty Research Competition</b><br/>
-            Mechanical Engineering — Dec 2023<br/><br/>
-            <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-              <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h4>🥈 Second Prize</h4>
-            <b>BKTechShow Technology Exhibition</b><br/>
-            Dec 2023<br/><br/>
-            <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-              <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h4>🎓 Presidential Honor</h4>
-            <b>Da Nang University Research Student Award</b><br/>
-            Dec 2024<br/><br/>
-            <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-              <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+    <th>Achievements</th>
+    <th>Certifications</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <h3>🥇 First Prize</h3>
+      Faculty Research Competition — Dec 2023<br/>
+      <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
+        <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a><br><br>
+      <h3>🥈 Second Prize</h3>
+      BKTechShow Exhibition — Dec 2023<br/>
+      <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
+        <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a><br><br>
+      <h3>🎓 Presidential Honor</h3>
+      Da Nang University Research Award — Dec 2024<br/>
+      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+        <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
     </td>
-    <!-- ===== Right: Certificates ===== -->
-    <td valign="top" width="50%">
-      <h3 align="center">📜 Certifications</h3>
-      <table align="center" width="95%">
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br/>
-            <b>Fundamentals of Deep Learning</b><br/>
-            Sep 2025<br/><br/>
-            <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-              <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/DSAC-FF6B6B?style=for-the-badge&logo=circuit&logoColor=white"/><br/>
-            <b>FPGA-based ECG Enhancement</b><br/>
-            Mar 2025<br/><br/>
-            <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-              <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Research-0A84FF?style=for-the-badge&logo=academia&logoColor=white"/><br/>
-            <b>AI for Autonomous Vehicles</b><br/>
-            Dec 2023<br/><br/>
-            <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-              <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/Startup-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/><br/>
-            <b>Smart Waste Classification</b><br/>
-            Aug 2024<br/><br/>
-            <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
-              <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br/>
+      <b>Fundamentals of Deep Learning</b><br/>Sep 2025<br/>
+      <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a><br><br>
+      <img src="https://img.shields.io/badge/DSAC-FF6B6B?style=for-the-badge&logo=circuit&logoColor=white"/><br/>
+      <b>FPGA-based ECG Enhancement</b><br/>Mar 2025<br/>
+      <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+        <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a><br><br>
+      <img src="https://img.shields.io/badge/Research-0A84FF?style=for-the-badge&logo=academia&logoColor=white"/><br/>
+      <b>AI for Autonomous Vehicles</b><br/>Dec 2023<br/>
+      <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+        <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a><br><br>
+      <img src="https://img.shields.io/badge/Startup-4CAF50?style=for-the-badge&logo=rocket&logoColor=white"/><br/>
+      <b>Smart Waste Classification</b><br/>Aug 2024<br/>
+      <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
+        <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
