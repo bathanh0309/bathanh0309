@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
 </p>
 
+
 <h3 align="center">
-  🎓 Da Nang University of Science and Technology
+  🎓 Da Nang University of Science and Technology  
   <br/>
   <a href="https://drive.google.com/file/d/1thA17jQjWi8-qG_LHpertuhBT8Zj4Vx6/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20CV-4285F4?style=for-the-badge&logo=document&logoColor=white"/>
+    📄 <b>View My CV</b>
   </a>
 </h3>
+
 
 ## 🛠️ Technical Skills
 
