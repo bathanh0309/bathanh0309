@@ -65,7 +65,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <b>CIFAR100 3×3 vs 9×9</b><br/>
+        <b>CIFAR100</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
@@ -146,7 +146,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>🥈 Second Prize</b> — BKTechShow Technology Exhibition<br/>
+        <b>🥈 Second Prize</b> — BKTechShow Technology<br/>
         <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
           <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -160,7 +160,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>🎓 Presidential Honor</b> — Da Nang University Research Student Award <br/>
+        <b>🎓 Presidential Honor</b> — Research Student Award <br/>
         <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
           <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
