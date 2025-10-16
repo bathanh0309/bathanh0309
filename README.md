@@ -76,10 +76,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
     </td>
     <td valign="top" align="center">
-
 <p align="center">
   <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
     <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white"/>
