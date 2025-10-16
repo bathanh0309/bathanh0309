@@ -16,10 +16,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table width="100%">
   <thead>
     <tr>
-      <th width="39%">🏅 Skills</th>
-      <th width="20%">📜 Project 1</th>
-      <th width="20%">📜 Project 2</th>
-      <th width="21%">📜 Project 3</th>
+      <th width="40%">🏅 Skills</th>
+      <th width="19%">📜 Project 1</th>
+      <th width="19%">📜 Project 2</th>
+      <th width="22%">📜 Project 3</th>
     </tr>
   </thead>
 
@@ -146,7 +146,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>🥈 Second Prize</b> — BKTechShow Technology<br/>
+        <b>🥈 Second Prize</b> — BKTechShow <br/>
         <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
           <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
@@ -160,7 +160,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     </tr>
     <tr>
       <td valign="top">
-        <b>🎓 Presidential Honor</b> — Research Student Award <br/>
+        <b>🎓 Presidential Honor</b> — Research Award <br/>
         <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
           <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
         </a>
