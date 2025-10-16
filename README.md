@@ -27,7 +27,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <tbody>
     <tr>
       <td valign="top">
-        <b>🛰️ Embedded Systems & IoT</b><br/>
+        <b>🛰️ Embedded & IoT</b><br/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/><img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
       <td valign="top">
