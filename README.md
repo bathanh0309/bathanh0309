@@ -20,8 +20,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
 
-**Projects:**
-- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS implementation
+- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS
 - 🔹 [**ParkSense**](https://github.com/bathanh0309/PBL3_Smart_Parking) - Smart parking system
 - 🔹 [**HomeHub**](https://github.com/bathanh0309/IoT-HomeHub) - IoT home automation
 
@@ -31,7 +30,6 @@
 ![Simulink](https://img.shields.io/badge/Simulink-FF8C00?style=flat-square&logo=mathworks&logoColor=white)
 ![OptiSystem](https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square)
 
-**Projects:**
 - 🔹 [**SimuADC**](https://github.com/bathanh0309/SimuADC) - ADC simulation
 - 🔹 [**mmWave-THz**](https://github.com/bathanh0309/mmWave-THz) - Wireless communication
 - 🔹 [**OptiSystem**](https://github.com/bathanh0309/Optisystem) - Optical systems
@@ -43,7 +41,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Projects:**
 - 🔹 [**Deep Learning**](https://github.com/bathanh0309/DeepLearning) - Neural networks & DL
 - 🔹 [**Machine Learning**](https://github.com/bathanh0309/MachineLearning) - ML algorithms
 - 🔹 [**CIFAR-100**](https://github.com/bathanh0309/DeepLearning) - Image classification
@@ -54,7 +51,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Projects:**
 - 🔹 [**Amplifier-OTL**](https://github.com/bathanh0309/Amplifier-OTL) - Circuit design
 
 </td>
