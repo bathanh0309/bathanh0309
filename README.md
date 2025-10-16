@@ -70,7 +70,6 @@
 
 ---
 <!-- ====================== OVERVIEW ====================== -->
-<!-- ====================== OVERVIEW ====================== -->
 <h1 id="overview">🧩 Overview</h1>
 
 <table>
@@ -85,9 +84,9 @@
     <tr>
       <td align="center"><b>🛰️ IoT / Embedded</b></td>
       <td align="center">
-        FreeRTOS • MQTT • OTA • PCB Design <br/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
       </td>
       <td align="center">
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">FreeAqua-RTOS</a> • 
@@ -101,30 +100,20 @@
         CNN • CIFAR-100 • Image Processing <br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
       </td>
       <td align="center">
         <a href="https://github.com/bathanh0309/DeepLearning">DeepLearning</a> • 
         <a href="https://github.com/bathanh0309/MachineLearning">MachineLearning</a> • 
         <a href="https://github.com/bathanh0309/DeepLearning">CIFAR-100 (3×3 vs 9×9)</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><b>🤖 Robotics / Path Planning</b></td>
-      <td align="center">
-        RRT / RRT* • CUDA Acceleration • Navigation <br/>
-        <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-      </td>
-      <td align="center">
         <a href="https://github.com/bathanh0309/RRTNavNano">RRTNavNano</a>
       </td>
-    </tr>
     <tr>
       <td align="center"><b>📡 Signal & Photonics</b></td>
       <td align="center">
-        ADC • mmWave / THz • Fiber Link Simulation <br/>
-        <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
         <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
       </td>
       <td align="center">
         <a href="https://github.com/bathanh0309/SimuADC">SimuADC</a> • 
