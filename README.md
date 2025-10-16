@@ -12,18 +12,10 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
-
-<table width="400%">
-  <colgroup>
-    <col width="40%">
-    <col width="40%">
-    <col width="40%">
-    <col width="40%">
-  </colgroup>
-
+<table>
   <thead>
     <tr>
-      <th width="30%">🏅 Skills</th>
+      <th width="25%">🏅 Skills</th>
       <th width="25%">📜 Project 1</th>
       <th width="25%">📜 Project 2</th>
       <th width="25%">📜 Project 3</th>
@@ -128,9 +120,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
   </tbody>
 </table>
-
-</body>
-</html>
 
 ---
 
