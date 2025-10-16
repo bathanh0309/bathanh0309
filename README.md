@@ -24,8 +24,10 @@
     </td>
     <td align="center">
       <b>AI</b><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="26" alt="tensorflow"/>
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" alt="Jupyter"/>
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" alt="OpenCV"/>
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="26" alt="Google Colab"/>
     </td>
     <td align="center">
       <b>Signal</b><br/>
