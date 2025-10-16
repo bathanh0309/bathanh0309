@@ -151,7 +151,11 @@
       </a>
     </td>
     <td align="center">
-      &nbsp; <!-- trống | chèn thêm mục khác nếu có -->
+      🥉<b>Encouragement Prize</b><br/>
+      <i>Innovation Challenge</i><br/>
+      <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
+        <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 
