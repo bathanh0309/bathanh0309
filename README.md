@@ -13,9 +13,9 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="120%">
+<table width="130%">
   <colgroup>
-    <col width="30%">
+    <col width="40%">
     <col width="25%">
     <col width="25%">
     <col width="25%">
@@ -23,7 +23,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
   <thead>
     <tr>
-      <th width="30%">🏅 Skills</th>
+      <th width="40%">🏅 Skills</th>
       <th width="25%">📜 Project 1</th>
       <th width="25%">📜 Project 2</th>
       <th width="25%">📜 Project 3</th>
