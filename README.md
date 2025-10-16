@@ -13,7 +13,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="200%">
+<table width="500%">
   <thead>
     <tr>
       <th width="40%">🏅 Skills</th>
