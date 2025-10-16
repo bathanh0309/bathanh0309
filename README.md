@@ -99,7 +99,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <a href="https://github.com/bathanh0309/Amplifier-OTL">
-          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/><br/>
         </a>
       </td>
     </tr>
