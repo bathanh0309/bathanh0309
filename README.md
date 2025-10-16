@@ -15,7 +15,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <h2>💼 Technical Skills & Projects</h2>
 
-<table width="100%">
+<table width="150%">
   <thead>
     <tr>
       <th width="50%">🏅 Skills</th>
