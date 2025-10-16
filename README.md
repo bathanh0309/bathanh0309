@@ -13,11 +13,11 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="500%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="250%">🏅 Skills</th>
-      <th width="250%">📜 Projects</th>
+      <th width="50%">🏅 Skills</th>
+      <th width="50%">📜 Projects</th>
     </tr>
   </thead>
   
