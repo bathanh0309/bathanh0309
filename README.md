@@ -14,7 +14,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table width="100%">
   <thead>
     <tr>
-      <th width="45%">🏅 Skills</th>
+      <th width="40%">🏅 Skills</th>
       <th width="20%">📜 Project 1</th>
       <th width="20%">📜 Project 2</th>
       <th width="20%">📜 Project 3</th>
@@ -28,12 +28,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         <b>FreeAquaRTOS</b><br/>
-        <a href="https://github.com/bathanh0309/FreeAqua-RTOS"><<img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/><br/>
+        <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+          <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
       <td valign="top">
         <b>Smart Parking</b><br/>
-        <a href="https://github.com/bathanh0309/PBL3_Smart_Parking"><br/>
+        <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
           <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
@@ -108,72 +109,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
       <td valign="top">
         &nbsp;
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">🏅Achievements</th>
-      <th width="50%">📜Certifications</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <b>🥇 First Prize</b> — Scientific research<br/>
-        <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-          <img src="https://img.shields.io/badge/Certificate-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-      <td valign="top">
-        <b>Fundamentals of Deep Learning</b><br/>
-        <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-          <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b>🥈 Second Prize</b> — BKTechShow <br/>
-        <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-          <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-      <td valign="top">
-        <b>FPGA-based ECG Enhancement</b><br/>
-        <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-          <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b>🎓 Presidential Honor</b> — Research Award <br/>
-        <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-          <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-      <td valign="top">
-       <b>AI for Autonomous Vehicles</b><br/>
-        <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-          <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        &nbsp;
-      </td>
-      <td valign="top">
-        <b>Smart Waste Classification</b><br/>
-        <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
-          <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
       </td>
     </tr>
   </tbody>
