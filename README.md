@@ -97,8 +97,6 @@
     </tr>
     <tr>
       <td align="center"><b>🧠 Computer Vision / Deep Learning</b></td>
-      <td align="center">
-        CNN • CIFAR-100 • Image Processing <br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
