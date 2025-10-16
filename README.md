@@ -30,7 +30,7 @@
       <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="26" alt="Google Colab"/>
     </td>
     <td align="center">
-      <b>Signal Processing</b><br/>
+      <b>Signal & Networking</b><br/>
       <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
     </td>
     <td align="center">
