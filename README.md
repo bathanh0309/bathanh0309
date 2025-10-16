@@ -112,7 +112,6 @@
 *Classification System*  
 [![View](https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view)
 
-</td>
 <td width="33%" align="center">
   
 </td>
