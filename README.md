@@ -10,7 +10,7 @@
 <div align="left">
 <table width="100%">
   <colgroup>
-    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
+    <col width="25%"><col width="22%"><col width="25%"><col width="28%">
   </colgroup>
 
   <!-- Row 1: SKILLS -->
