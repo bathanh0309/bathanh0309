@@ -86,8 +86,8 @@
       </a>
     </td>
     <td align="center">
-      <b>mmWave-THz</b><br/>
-      <a href="https://github.com/bathanh0309/mmWave-THz">
+      <b>sp-mmWave-THz</b><br/>
+      <a href="https://github.com/bathanh0309/sp-mmwave-thz-notes">
         <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
