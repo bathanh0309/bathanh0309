@@ -13,12 +13,12 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="100%">
+<table width="400%">
   <colgroup>
-    <col width="35%">
-    <col width="25%">
-    <col width="25%">
-    <col width="25%">
+    <col width="40%">
+    <col width="40%">
+    <col width="40%">
+    <col width="40%">
   </colgroup>
 
   <thead>
