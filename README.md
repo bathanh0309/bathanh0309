@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+%20+Telecom+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+and+Telecommunication +Engineering" />
 </p>
 
 <p align="center">
@@ -11,11 +11,6 @@
 ## 🎯 About Me
 
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
-
-**Currently focused on:**
-- Embedded systems development with ESP32 and FreeRTOS
-- Computer vision applications using TensorFlow and OpenCV
-- Digital signal processing and communications systems
 
 ---
 
