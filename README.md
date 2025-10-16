@@ -47,19 +47,19 @@
   <tr>
     <td align="center">
       <b>iot_freeaqua_rtos</b><br/>
-      <a href="https://github.com/bathanh0309/iot-freeaqua-rtos">
+      <a href="https://github.com/bathanh0309/iot_freeaqua_rtos">
         <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
       <b>deep_learning_CNN</b><br/>
-      <a href="https://github.com/bathanh0309/dl-vision-playground">
+      <a href="https://github.com/bathanh0309/deep_learning_CNN">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td align="center">
       <b>sp_simuADC</b><br/>
-      <a href="https://github.com/bathanh0309/sp_simu_ADC">
+      <a href="https://github.com/bathanh0309/sp_simuADC">
         <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
