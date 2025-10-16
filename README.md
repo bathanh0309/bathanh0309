@@ -209,8 +209,3 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
----
-
-<p align="center">
-  <b>Keywords:</b> <code>Embedded Systems</code> <code>IoT</code> <code>ESP32</code> <code>FreeRTOS</code> <code>MQTT</code> <code>Computer Vision</code> <code>TensorFlow</code> <code>Deep Learning</code> <code>Jetson Nano</code> <code>Signal Processing</code>
-</p>
