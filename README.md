@@ -18,6 +18,7 @@
     <td align="center">
       <b>IoT & Hardware</b><br/>
       <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
+      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="24" alt="ESP32"/>
       <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
       <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
     </td>
