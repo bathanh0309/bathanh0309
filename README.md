@@ -26,9 +26,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>🛰️ Embedded Systems & IoT</b><br/>
-        • <b>Platforms:</b> ESP32, Jetson Nano, PlatformIO<br/>
-        • <b>Protocols:</b> MQTT, I2C, SPI, UART<br/>
-        • <b>RTOS:</b> FreeRTOS<br/><br/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
@@ -51,9 +48,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>🧠 Computer Vision & AI</b><br/>
-        • <b>Frameworks:</b> TensorFlow, OpenCV<br/>
-        • <b>Skills:</b> Deep Learning, Object Detection<br/>
-        • <b>Hardware:</b> NVIDIA Jetson Nano<br/><br/>
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
@@ -76,8 +70,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>📡 Signal Processing</b><br/>
-        • <b>Tools:</b> MATLAB, OptiSystem, Wireshark<br/>
-        • <b>Focus:</b> ADC, mmWave/THz, Optical Communication<br/><br/>
         <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
         <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
@@ -100,9 +92,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
     <tr>
       <td valign="top">
         <b>⚙️ DevOps & Hardware</b><br/>
-        • <b>Languages:</b> C++, Python, SQL<br/>
-        • <b>Tools:</b> Git, Docker, WSL2<br/>
-        • <b>Hardware:</b> Proteus, Altium, Oscilloscope<br/><br/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
