@@ -108,13 +108,12 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<h2>🏅 Achievements & 📜 Certifications</h2>
 
 <table>
   <thead>
     <tr>
-      <th width="50%">Achievements</th>
-      <th width="50%">Certifications</th>
+      <th width="50%">🏅Achievements</th>
+      <th width="50%">📜Certifications</th>
     </tr>
   </thead>
   <tbody>
