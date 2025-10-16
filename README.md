@@ -46,7 +46,7 @@
       </a>
     </td>
     <td align="center">
-      <b>DL</b><br/>
+      <b>Deep Learning</b><br/>
       <a href="https://github.com/bathanh0309/DeepLearning">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -74,7 +74,7 @@
       </a>
     </td>
     <td align="center">
-      <b>ML</b><br/>
+      <b>Machine Learning</b><br/>
       <a href="https://github.com/bathanh0309/MachineLearning">
         <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
