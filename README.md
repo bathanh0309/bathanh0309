@@ -15,13 +15,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 <div align="center">
 
-<table width="100%">
+<table width="150%">
   <thead>
     <tr>
-      <th width="31%">🏅 Skills</th>
-      <th width="23%">📜 Project 1</th>
-      <th width="23%">📜 Project 2</th>
-      <th width="23%">📜 Project 3</th>
+      <th width="39%">🏅 Skills</th>
+      <th width="37%">📜 Project 1</th>
+      <th width="37%">📜 Project 2</th>
+      <th width="37%">📜 Project 3</th>
     </tr>
   </thead>
   
