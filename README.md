@@ -170,7 +170,7 @@
     </td>
     <td align="center">
       🥉<b>Thirst Prize</b><br/>
-      <i>High school science and technology</i><br/>
+      <i>High school</i><br/>
       <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
         <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
