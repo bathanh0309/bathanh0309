@@ -17,7 +17,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 <table>
   <thead>
     <tr>
-      <th width="60%">Skills</th>
+      <th width="65%">Skills</th>
       <th width="70%">Projects</th>
     </tr>
   </thead>
