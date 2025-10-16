@@ -74,8 +74,8 @@
   <!-- Row 3: PROJECT #2 -->
   <tr>
     <td align="center">
-      <b>ParkSense</b><br/>
-      <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
+      <b>iot-parksense</b><br/>
+      <a href="https://github.com/bathanh0309/iot-smart-parking-parksense">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
