@@ -13,6 +13,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
+      
 ### 🛰️ Embedded Systems & IoT
 - **Platforms:** ESP32, Jetson Nano, PlatformIO
 - **Protocols:** MQTT, I2C, SPI, UART
@@ -25,6 +26,7 @@
 </td>
 
 <td valign="top" width="60%">
+  
 ### 📡 Signal Processing
 - **Tools:** MATLAB, OptiSystem, Wireshark
 - **Focus:** ADC, mmWave/THz, Optical Comms
