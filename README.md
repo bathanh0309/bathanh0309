@@ -52,6 +52,12 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
           <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
+      <td valign="top">
+        <b>IOT</b><br/>
+        <a href="https://github.com/bathanh0309/IoT-HomeHub">
+          <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
     </tr>
     <tr>
       <td valign="top">
