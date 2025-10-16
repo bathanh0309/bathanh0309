@@ -68,7 +68,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         </a>
       </td>
       <td valign="top">
-        <b>CIFAR100</b><br/>
+        <b>Cifar-100</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
           <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
