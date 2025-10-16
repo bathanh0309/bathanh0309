@@ -12,7 +12,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="60%">
       
 ### 🛰️ Embedded Systems & IoT
 - **Platforms:** ESP32, Jetson Nano, PlatformIO
@@ -25,7 +25,7 @@
 - **Hardware:** NVIDIA Jetson Nano
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 ### 📡 Signal Processing
 - **Tools:** MATLAB, OptiSystem, Wireshark
