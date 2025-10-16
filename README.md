@@ -21,7 +21,7 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white)
 
 **Featured Projects:**
-- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS implementation
+- 🔹 [**FreeAqua-RTOS**](https://github.com/bathanh0309/FreeAqua-RTOS) - FreeRTOS 
 - 🔹 [**ParkSense**](https://github.com/bathanh0309/PBL3_Smart_Parking) - Smart parking system
 - 🔹 [**HomeHub**](https://github.com/bathanh0309/IoT-HomeHub) - IoT home automation
 
