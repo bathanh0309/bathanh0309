@@ -12,25 +12,27 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills & Projects</title>
+</head>
+<body>
 
 <table width="100%">
-  <!-- ép 2 cột 50/50 cho toàn bộ hàng -->
-  <colgroup>
-    <col width="50%">
-    <col width="50%">
-  </colgroup>
-
   <thead>
     <tr>
       <th width="50%">🏅 Skills</th>
       <th width="50%">📜 Projects</th>
     </tr>
   </thead>
-
+  
   <tbody>
     <!-- IoT / Embedded -->
     <tr>
-      <td valign="top" width="50%" align="left">
+      <td valign="top">
         <b>🛰️ Embedded Systems & IoT</b><br/>
         • <b>Platforms:</b> ESP32, Jetson Nano, PlatformIO<br/>
         • <b>Protocols:</b> MQTT, I2C, SPI, UART<br/>
@@ -38,21 +40,38 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=flat-square&logo=platformio&logoColor=white"/>
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top">
+        <b>FreeAqua-RTOS</b><br/>
         <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
-          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>Smart Parking</b><br/>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>IoT HomeHub</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
-          <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white&logoWidth=22"/>
+          <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
     <!-- CV / AI -->
     <tr>
-      <td valign="top" width="50%" align="left">
+      <td valign="top">
         <b>🧠 Computer Vision & AI</b><br/>
         • <b>Frameworks:</b> TensorFlow, OpenCV<br/>
         • <b>Skills:</b> Deep Learning, Object Detection<br/>
@@ -60,42 +79,76 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top">
+        <b>DeepLearning</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>MachineLearning</b><br/>
         <a href="https://github.com/bathanh0309/MachineLearning">
-          <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikitlearn&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>CIFAR100 3×3 vs 9×9</b><br/>
         <a href="https://github.com/bathanh0309/DeepLearning">
-          <img src="https://img.shields.io/badge/CIFAR100_3×3_vs_9×9-1f6feb?style=for-the-badge&logo=googlecharts&logoColor=white&logoWidth=22"/>
+          <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
     <!-- Signal -->
     <tr>
-      <td valign="top" width="50%" align="left">
+      <td valign="top">
         <b>📡 Signal Processing</b><br/>
         • <b>Tools:</b> MATLAB, OptiSystem, Wireshark<br/>
         • <b>Focus:</b> ADC, mmWave/THz, Optical Communication<br/><br/>
         <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white"/>
         <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=flat-square"/>
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top">
+        <b>SimuADC</b><br/>
         <a href="https://github.com/bathanh0309/SimuADC">
-          <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>mmWave-THz</b><br/>
         <a href="https://github.com/bathanh0309/mmWave-THz">
-          <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=probot&logoColor=white&logoWidth=22"/>
-        </a><br/>
+          <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        &nbsp;
+      </td>
+      <td valign="top">
+        <b>OptiSystem</b><br/>
         <a href="https://github.com/bathanh0309/Optisystem">
-          <img src="https://img.shields.io/badge/OptiSystem-005BAC?style=for-the-badge&logo=photon&logoColor=white&logoWidth=22"/>
+          <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
     <!-- DevOps / HW -->
     <tr>
-      <td valign="top" width="50%" align="left">
+      <td valign="top">
         <b>⚙️ DevOps & Hardware</b><br/>
         • <b>Languages:</b> C++, Python, SQL<br/>
         • <b>Tools:</b> Git, Docker, WSL2<br/>
@@ -103,9 +156,10 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       </td>
-      <td valign="top" width="50%" align="center">
+      <td valign="top">
+        <b>Amplifier-OTL</b><br/>
         <a href="https://github.com/bathanh0309/Amplifier-OTL">
-          <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white&logoWidth=22"/>
+          <img src="https://img.shields.io/badge/View-1E5083?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </td>
     </tr>
@@ -113,68 +167,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
   </tbody>
 </table>
 
-
-
----
-
-
-
-
-<table>
-  
-  <thead>
-    <tr>
-      <th width="50%">🏅Skills</th>
-      <th width="50%">📜Projects</th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td valign="top">
-        <b>🛰️ Embedded Systems & IoT</b><br/>
-        <td valign="top" width="50%" align="center">
-        <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
-          <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white&logoWidth=22"/>
-        </a><br/>
-        <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
-          <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white&logoWidth=22"/>
-        </a><br/>
-        <a href="https://github.com/bathanh0309/IoT-HomeHub">
-          <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white&logoWidth=22"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b>🧠 Computer Vision & AI</b><br/>
-        <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-          <img src="https://img.shields.io/badge/Certificate-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-      <td valign="top">
-        <b>FPGA-based ECG Enhancement</b><br/>
-        <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-          <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <b>📡 Signal Processing</b><br/>
-        <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-          <img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-
-
-
-
+</body>
+</html>
 
 ---
 
