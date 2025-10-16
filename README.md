@@ -3,12 +3,23 @@
 </p>
 
 <p align="center">
-  <b>🎓 Da Nang University of Science and Technology (DUT) 🎯</b>
+  <b>🎓 Da Nang University of Science and Technology (DUT)</b>
 </p>
 
 ---
 
-## 💼 About Me
+## 🎯 About Me
+
+I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
+
+**Currently focused on:**
+- Embedded systems development with ESP32 and FreeRTOS
+- Computer vision applications using TensorFlow and OpenCV
+- Digital signal processing and communications systems
+
+---
+
+## 💼 Technical Skills & Projects
 
 <table>
   <tr>
@@ -19,44 +30,68 @@
 - **Protocols:** MQTT, I2C, SPI, UART
 - **RTOS:** FreeRTOS
 
+<p align="center">
+  <a href="https://github.com/bathanh0309/FreeAqua-RTOS">
+    <img src="https://img.shields.io/badge/FreeAqua--RTOS-00C7B7?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
+    <img src="https://img.shields.io/badge/Smart_Parking-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/IoT-HomeHub">
+    <img src="https://img.shields.io/badge/HomeHub-FF6F00?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+  </a>
+</p>
+
 ### 🧠 Computer Vision & AI
 - **Frameworks:** TensorFlow, OpenCV
 - **Skills:** Deep Learning, Object Detection
 - **Hardware:** NVIDIA Jetson Nano
-</td>
 
-<td valign="top" width="60%">
-  
+<p align="center">
+  <a href="https://github.com/bathanh0309/DeepLearning">
+    <img src="https://img.shields.io/badge/DeepLearning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/RRTNavNano">
+    <img src="https://img.shields.io/badge/RRTNavNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/MachineLearning">
+    <img src="https://img.shields.io/badge/MachineLearning-0078D7?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  </a>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
 ### 📡 Signal Processing
 - **Tools:** MATLAB, OptiSystem, Wireshark
 - **Focus:** ADC, mmWave/THz, Optical Comms
+
+<p align="center">
+  <a href="https://github.com/bathanh0309/SimuADC">
+    <img src="https://img.shields.io/badge/SimuADC-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/mmWave-THz">
+    <img src="https://img.shields.io/badge/mmWave--THz-6A1B9A?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bathanh0309/Optisystem">
+    <img src="https://img.shields.io/badge/Optisystem-005BAC?style=for-the-badge&logo=photon&logoColor=white"/>
+  </a>
+</p>
 
 ### ⚙️ Development Tools
 - **Languages:** C++, Python, SQL
 - **Tools:** Git, Docker, WSL2
 - **Hardware:** Proteus, Altium, Oscilloscope
+
+<p align="center">
+  <a href="https://github.com/bathanh0309/Amplifier-OTL">
+    <img src="https://img.shields.io/badge/Amplifier--OTL-1E5083?style=for-the-badge&logo=circuitverse&logoColor=white"/>
+  </a>
+</p>
+
 </td>
   </tr>
 </table>
-
----
-
-## 🚀 Featured Projects
-
-### 🛰️ IoT & Embedded Systems
-- **[FreeAqua-RTOS](https://github.com/bathanh0309/FreeAqua-RTOS)** - Smart aquarium monitoring system using FreeRTOS
-- **[Smart Parking](https://github.com/bathanh0309/PBL3_Smart_Parking)** - IoT-based parking management solution
-- **[HomeHub](https://github.com/bathanh0309/IoT-HomeHub)** - Smart home automation system
-
-### 🧠 Computer Vision & AI
-- **[DeepLearning](https://github.com/bathanh0309/DeepLearning)** - Deep learning experiments and implementations
-- **[RRTNavNano](https://github.com/bathanh0309/RRTNavNano)** - Path planning for autonomous vehicles on Jetson Nano
-- **[MachineLearning](https://github.com/bathanh0309/MachineLearning)** - Classical ML algorithms and applications
-
-### 📡 Signal Processing
-- **[SimuADC](https://github.com/bathanh0309/SimuADC)** - ADC simulation and analysis in MATLAB
-- **[mmWave-THz](https://github.com/bathanh0309/mmWave-THz)** - Millimeter wave and terahertz communications
-- **[Optisystem](https://github.com/bathanh0309/Optisystem)** - Optical communication system designs
 
 ---
 
