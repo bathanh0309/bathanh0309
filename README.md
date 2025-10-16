@@ -52,7 +52,7 @@
       </a>
     </td>
     <td align="center">
-      <b>dl-CNN</b><br/>
+      <b>deep_learning_CNN</b><br/>
       <a href="https://github.com/bathanh0309/dl-vision-playground">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
