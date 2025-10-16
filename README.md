@@ -12,13 +12,12 @@
 I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
 
 ---
-<h2>💼 Technical Skills & Projects</h2>
 
 <table>
     <thead>
     <tr>
-      <th width="50%">🏅Achievements</th>
-      <th width="50%">📜Certifications</th>
+      <th width="50%">🏅Skills</th>
+      <th width="50%">📜Projects</th>
     </tr>
   </thead>
 
