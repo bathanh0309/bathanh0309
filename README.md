@@ -6,11 +6,6 @@
 </p>
 
 ---
-
-## 🎯 About Me
-
-I'm an Electronics and Telecommunications Engineering student specializing in **IoT/Embedded Systems**, **Computer Vision**, and **Signal Processing**. I'm passionate about building practical solutions that bridge hardware and software.
-
 <table width="100%">
   <thead>
     <tr>
