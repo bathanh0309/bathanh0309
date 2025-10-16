@@ -23,6 +23,7 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       <th width="19%">📜 Project 1</th>
       <th width="19%">📜 Project 2</th>
       <th width="22%">📜 Project 3</th>
+      <th width="22%">📜 Project 4</th>
     </tr>
   </thead>
 
