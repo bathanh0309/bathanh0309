@@ -13,8 +13,6 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
 
 <table>
