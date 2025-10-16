@@ -224,7 +224,17 @@
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-<img src="https://cdn.simpleicons.org/gmail/D14836" width="26" alt="Gmail"/> <b>Email</b>
-<img src="https://cdn.simpleicons.org/linkedin/0077B5" width="26" alt="LinkedIn"/> <b>LinkedIn</b>
-
+  
+<div align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
+  <a href="mailto:bathanh124ads@gmail.com"
+     style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border-radius:8px; background:#D14836; color:white; text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="20" alt="Gmail">
+    <span><b>Email</b></span>
+  </a>
+  
+<a href="https://www.linkedin.com/in/bathanh0309" target="_blank" rel="noopener noreferrer"
+     style="display:inline-flex; align-items:center; gap:8px; padding:8px 12px; border-radius:8px; background:#0077B5; color:white; text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="20" alt="LinkedIn">
+    <span><b>LinkedIn</b></span>
+  </a>
 </p>
