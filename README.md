@@ -33,7 +33,7 @@
     <td align="center">
       <b>⚙️ SW & HW </b><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
+      <img src=" https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
     </td>
   </tr>
 
