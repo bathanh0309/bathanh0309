@@ -13,7 +13,12 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
 
 ---
 
-<table width="100%">
+## 📊 GitHub Stats
+
+<p align="center">
+
+
+
   <thead>
     <tr>
       <th width="45%">🏅 Skills</th>
@@ -116,7 +121,8 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
       </td>
     </tr>
   </tbody>
-</table>
+</p>
+
 
 
 ---
