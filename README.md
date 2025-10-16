@@ -99,8 +99,8 @@
   <!-- Row 4: PROJECT #3 -->
   <tr>
     <td align="center">
-      <b>HomeHub</b><br/>
-      <a href="https://github.com/bathanh0309/IoT-HomeHub">
+      <b>iot-homehub</b><br/>
+      <a href="https://github.com/bathanh0309/iot-homehub-smart-home">
         <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
