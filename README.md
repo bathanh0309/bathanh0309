@@ -64,8 +64,8 @@
       </a>
     </td>
     <td align="center">
-      <b>RRT vs JetsonNano</b><br/>
-      <a href="https://github.com/bathanh0309/rob-rrt-jetson-nano">
+      <b>js-RRT</b><br/>
+      <a href="https://github.com/bathanh0309/js-rrt-jetson-nano">
         <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
