@@ -37,14 +37,13 @@ I'm an Electronics and Telecommunications Engineering student specializing in **
         <b>Smart Parking</b><br/>
         <a href="https://github.com/bathanh0309/PBL3_Smart_Parking">
         <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/></a>
+        
       </td>
-      
       <td valign="top">
         <b>HomeHub</b><br/>
         <a href="https://github.com/bathanh0309/IoT-HomeHub">
+        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/></a>
         
-          <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
       </td>
     </tr>
     <tr>
