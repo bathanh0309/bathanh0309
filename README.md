@@ -201,7 +201,7 @@
       </a>
     </td>
     <td align="center">
-      <b>Smart Waste</b><br/>
+      <b>Startup Runaway</b><br/>
       <i>Classification System</i><br/>
       <a href="https://drive.google.com/file/d/16xMIXrvLCCrfZcEmQYMUcUV3Awe2gYDk/view">
         <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
