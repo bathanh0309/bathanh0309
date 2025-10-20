@@ -202,7 +202,7 @@
     </td>
     <td align="center">
       <b>HackerRank</b><br/>
-      <i>Classification System</i><br/>
+      <i>Python basic </i><br/>
       <a href="https://www.hackerrank.com/certificates/92134261cc77">
         <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
       </a>
