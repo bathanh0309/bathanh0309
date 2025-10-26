@@ -62,8 +62,8 @@
       </a>
     </td>
     <td align="center">
-      <b>deep_learning_CNN</b><br/>
-      <a href="https://github.com/bathanh0309/deep_learning_CNN">
+      <b>deep_learning</b><br/>
+      <a href="https://github.com/bathanh0309/deep_learning">
         <img src="https://img.shields.io/badge/Loading-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
