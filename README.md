@@ -90,8 +90,8 @@
       </a>
     </td>
     <td align="center">
-      <b>machine_learning_AI</b><br/>
-      <a href="https://github.com/bathanh0309/machine_learning_AI">
+      <b>machine_learning</b><br/>
+      <a href="https://github.com/bathanh0309/machine_learning">
         <img src="https://img.shields.io/badge/Loading-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
