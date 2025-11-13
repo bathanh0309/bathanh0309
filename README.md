@@ -72,7 +72,7 @@
   </td>
   <td align="center">
     <b>DSAC</b><br/>
-    <i>ECG Enhancement</i><br/>
+    <i>ECG</i><br/>
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
       <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
