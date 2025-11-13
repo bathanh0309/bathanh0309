@@ -35,15 +35,15 @@
   </td>
   <td width="50%" valign="top">
 
-## 🏆 Achievements & 📜Certifications
+## Achievements & Certifications
 
 <table>
 <tr>
   <td width="50%" align="center">
-    <b>Achievements</b>
+    <b>🏆Achievements</b>
   </td>
   <td width="50%" align="center">
-    <b>Certifications</b>
+    <b>📜Certifications</b>
   </td>
 </tr>
 <tr>
