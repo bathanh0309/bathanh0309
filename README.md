@@ -40,10 +40,10 @@
 
 <table>
 <tr>
-  <td width="34%" align="center">
+  <td width="35%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="33%" align="center">
+  <td width="32%" align="center">
     <b>Certifications</b>
   </td>
   <td width="33%" align="center">
