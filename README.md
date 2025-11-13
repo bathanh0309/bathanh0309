@@ -57,6 +57,10 @@
 
 ---
 
+<table>
+<tr>
+  <td width="50%" valign="top">
+
 ## 🚀 Projects
 
 | Category | Project | Status |
@@ -73,64 +77,86 @@
 | 🤖 Algorithm | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
 | 🤖 Algorithm | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
 
----
+  </td>
+  <td width="50%" valign="top">
 
 ## 🏆 Achievements & Certifications
 
 <table>
 <tr>
   <td width="50%" align="center">
-    <b>🎖️ Achievements</b><br/><br/>
+    <b>🎖️ Achievements</b>
+  </td>
+  <td width="50%" align="center">
+    <b>📜 Certifications</b>
+  </td>
+</tr>
+<tr>
+  <td align="center">
     <b>🥇 Presidential Honor</b><br/>
     <i>Research Student Award</i><br/>
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
       <img src="https://img.shields.io/badge/VIEW-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
-    <br/><br/>
+  </td>
+  <td align="center">
+    <b>NVIDIA</b><br/>
+    <i>Deep Learning</i><br/>
+    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
     <b>🥇 First Prize</b><br/>
     <i>Project Competition</i><br/>
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
       <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
-    <br/><br/>
+  </td>
+  <td align="center">
+    <b>DSAC</b><br/>
+    <i>ECG Enhancement</i><br/>
+    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+      <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
     <b>🥈 Second Prize</b><br/>
     <i>BKTechShow</i><br/>
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
       <img src="https://img.shields.io/badge/VIEW-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
-    <br/><br/>
+  </td>
+  <td align="center">
+    <b>AI Course</b><br/>
+    <i>Autonomous Vehicles</i><br/>
+    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+      <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
     <b>🥉 Third Prize</b><br/>
     <i>High school</i><br/>
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
       <img src="https://img.shields.io/badge/VIEW-CD7F32?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
-  
-  <td width="50%" align="center">
-    <b>📜 Certifications</b><br/><br/>
-    <b>NVIDIA</b><br/>
-    <i>Deep Learning</i><br/>
-    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-    </a>
-    <br/><br/>
-    <b>DSAC</b><br/>
-    <i>ECG Enhancement</i><br/>
-    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-      <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-    <br/><br/>
-    <b>AI Course</b><br/>
-    <i>Autonomous Vehicles</i><br/>
-    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-      <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-    <br/><br/>
+  <td align="center">
     <b>HackerRank</b><br/>
     <i>Python basic</i><br/>
     <a href="https://www.hackerrank.com/certificates/92134261cc77">
       <img src="https://img.shields.io/badge/VIEW-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white"/>
     </a>
+  </td>
+</tr>
+</table>
+
   </td>
 </tr>
 </table>
