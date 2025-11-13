@@ -39,10 +39,10 @@
 
 <table>
 <tr>
-  <td width="50%" align="center">
+  <td width="60%" align="center">
     <b>🏆Achievements</b>
   </td>
-  <td width="50%" align="center">
+  <td width="40%" align="center">
     <b>📜Certifications</b>
   </td>
 </tr>
