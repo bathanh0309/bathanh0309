@@ -127,3 +127,18 @@
 
 ---
 
+## 🚀 Projects
+
+| Category | Project | Status |
+|:--------|---------|:------:|
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" width="16"/> Hardware / Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" width="16"/> Hardware / Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
+| <img src="https://cdn.simpleicons.org/espressif/E7352C" width="16"/> Hardware / Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ✅ |
+| <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="16"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
+| <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="16"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
+| <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="16"/> Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
+| <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="16"/> Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
+| <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="16"/> Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
+| <img src="https://cdn.simpleicons.org/mathworks/0076A8" width="16"/> Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
+| <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="16"/> Algorithms | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
+| <img src="https://cdn.simpleicons.org/nvidia/76B900" width="16"/> CV / Embedded AI | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
