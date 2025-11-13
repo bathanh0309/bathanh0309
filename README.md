@@ -5,17 +5,17 @@
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
 ## 📫 Let's Connect
+
 <p align="center">
-  <a href="https://zalo.me/0935636090">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
-  </a>
-  <a href="mailto:bathanh124ads@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bathanh0309">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+    <a href="https://zalo.me/0935636090" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
 ---
 
