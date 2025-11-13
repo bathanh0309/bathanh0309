@@ -18,9 +18,9 @@
   <td width="25%" align="center">
     <b>🔧 Hardware<br/>Embedded</b><br/><br/>
     <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="28"/>
-    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="28"/>
+    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="20"/>
     <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="28"/>
-    <img src="https://cdn.simpleicons.org/platformio/FF6600" width="28"/>
+    <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/>
     <br/><br/>
     <img src="https://progress-bar.dev/90/?title=Expert&width=160&color=00C7B7"/>
   </td>
@@ -74,7 +74,7 @@
 | 📡 Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
 | 📡 Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
 | <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/> Algorithm/Image Processing | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
 
   </td>
   <td width="50%" valign="top">
