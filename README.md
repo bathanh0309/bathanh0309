@@ -11,201 +11,155 @@
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Technical Skills
 
-<div align="left">
-<table width="100%">
-  <colgroup>
-    <col width="25%"><col width="22%"><col width="25%"><col width="28%">
-  </colgroup>
-
-  <!-- Row 1: SKILLS -->
-  <tr>
-    <td align="center">
-      <b> ⚙️Hardware<br/>Embedded</b><br/>
-      <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
-      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="24" alt="ESP32"/>
-      <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="26" alt="Proteus"/>
-      <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
-    </td>
-    <td align="center">
-      <b> 🧠Computer Science<br/>Computer Vision</b><br/>
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="26" alt="tensorflow"/>
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" alt="Jupyter"/>
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" alt="OpenCV"/>
-      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="26" alt="Google Colab"/>
-    </td>
-    <td align="center">
-      <b> 📡Signal Processing<br/>Networking</b><br/>
-      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
-      <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
-    </td>
-    <td align="center">
-      <b> 🛰️Software<br/>Algorithm</b><br/>
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="26" alt="Docker"/>
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" alt="Linux"/>
-      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/>
-      <img src="https://cdn.simpleicons.org/git/F05032" width="26" alt="Git"/>
-    </td>
-  </tr>
-
-  <!-- Row 2: PROJECT #1 -->
-  <tr>
-    <td align="center">
-      <b>iot_freeaqua_rtos</b><br/>
-      <a href="https://github.com/bathanh0309/iot_freeaqua_rtos">
-        <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>deep_learning</b><br/>
-      <a href="https://github.com/bathanh0309/deep_learning">
-        <img src="https://img.shields.io/badge/Loading-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_simuADC</b><br/>
-<a href="https://github.com/bathanh0309/sp_simu_ADC">
-        <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>json_RRT</b><br/>
-      <a href="https://github.com/bathanh0309/json_RRT">
-        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 3: PROJECT #2 -->
-  <tr>
-    <td align="center">
-      <b>iot_parksense</b><br/>
-      <a href="https://github.com/bathanh0309/iot_parksense">
-        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>machine_learning</b><br/>
-      <a href="https://github.com/bathanh0309/machine_learning">
-        <img src="https://img.shields.io/badge/Loading-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_mmWave_THz</b><br/>
-      <a href="https://github.com/bathanh0309/sp_mmWave_THz">
-        <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>json_Vision_Gate</b><br/>
-      <a href="https://github.com/bathanh0309/json_Vision_Gate">
-        <img src="https://img.shields.io/badge/Loading-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 4: PROJECT #3 -->
-  <tr>
-    <td align="center">
-      <b>iot_homehub</b><br/>
-      <a href="https://github.com/bathanh0309/iot_homehub">
-        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>image_processing</b><br/>
-      <a href="https://github.com/bathanh0309/image_processing">
-        <img src="https://img.shields.io/badge/Loading-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_Amplifier_OTL</b><br/>
-      <a href="https://github.com/bathanh0309/sp_Amplifier_OTL">
-        <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      &nbsp;
-    </td>
-  </tr>
-
+<table>
+<tr>
+  <td width="25%" align="center">
+    <b>🔧 Hardware<br/>Embedded</b><br/><br/>
+    <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="28"/>
+    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="28"/>
+    <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="28"/>
+    <img src="https://cdn.simpleicons.org/platformio/FF6600" width="28"/>
+    <br/><br/>
+    <img src="https://progress-bar.dev/90/?title=Expert&width=160&color=00C7B7"/>
+    <br/><br/>
+    <a href="https://github.com/bathanh0309/iot_freeaqua_rtos">
+      <img src="https://img.shields.io/badge/iot__freeaqua__rtos-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/iot_parksense">
+      <img src="https://img.shields.io/badge/iot__parksense-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/iot_homehub">
+      <img src="https://img.shields.io/badge/iot__homehub-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </td>
+  
+  <td width="25%" align="center">
+    <b>🧠 Computer Science<br/>Computer Vision</b><br/><br/>
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="28"/>
+    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="28"/>
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="28"/>
+    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="28"/>
+    <br/><br/>
+    <img src="https://progress-bar.dev/45/?title=Basic&width=160&color=FFA500"/>
+    <br/><br/>
+    <a href="https://github.com/bathanh0309/deep_learning">
+      <img src="https://img.shields.io/badge/deep__learning-FF6F00?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/machine_learning">
+      <img src="https://img.shields.io/badge/machine__learning-0078D7?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/image_processing">
+      <img src="https://img.shields.io/badge/image__processing-1f6feb?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
+    </a>
+  </td>
+  
+  <td width="25%" align="center">
+    <b>📡 Signal Processing<br/>Networking</b><br/><br/>
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28"/>
+    <img src="https://cdn.simpleicons.org/mqtt/660066" width="28"/>
+    <br/><br/><br/>
+    <img src="https://progress-bar.dev/70/?title=Applied&width=160&color=FF8C00"/>
+    <br/><br/>
+    <a href="https://github.com/bathanh0309/sp_simu_ADC">
+      <img src="https://img.shields.io/badge/sp__simuADC-FF8C00?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/sp_mmWave_THz">
+      <img src="https://img.shields.io/badge/sp__mmWave__THz-6A1B9A?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/sp_Amplifier_OTL">
+      <img src="https://img.shields.io/badge/sp__Amplifier__OTL-005BAC?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
+    </a>
+  </td>
+  
+  <td width="25%" align="center">
+    <b>🛰️ Software<br/>Algorithm</b><br/><br/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="28"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/>
+    <img src="https://cdn.simpleicons.org/nvidia/76B900" width="28"/>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="28"/>
+    <br/><br/>
+    <img src="https://progress-bar.dev/50/?title=Familiar&width=160&color=FFA500"/>
+    <br/><br/>
+    <a href="https://github.com/bathanh0309/json_RRT">
+      <img src="https://img.shields.io/badge/json__RRT-76B900?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
+    </a>
+    <br/>
+    <a href="https://github.com/bathanh0309/json_Vision_Gate">
+      <img src="https://img.shields.io/badge/json__Vision__Gate-4285F4?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
+    </a>
+  </td>
+</tr>
 </table>
-</div>
 
+---
 
 ## 🏆 Achievements & Certifications
-<div align="left">
-<table width="100%">
-  <colgroup>
-    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
-  </colgroup>
 
-  <!-- Row 1 -->
-  <tr>
-    <td align="center">
-      🎓 <b>Presidential Honor</b><br/>
-      <i>Research Student Award</i><br/>
-      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      🥇 <b>First Prize</b><br/>
-      <i>Project Competition</i><br/>
-<a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-        <img src="https://img.shields.io/badge/View-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      🥈 <b>Second Prize</b><br/>
-      <i>BKTechShow</i><br/>
-      <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-        <img src="https://img.shields.io/badge/View-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      🥉<b>Third Prize</b><br/>
-      <i>High school</i><br/>
-      <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 2 -->
-  <tr>
-    <td align="center">
-      <b>NVIDIA</b><br/>
-      <i>Deep Learning</i><br/>
-      <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>DSAC</b><br/>
-      <i>ECG Enhancement</i><br/>
-      <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-        <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>AI Course</b><br/>
-      <i>Autonomous Vehicles</i><br/>
-      <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-        <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>HackerRank</b><br/>
-      <i>Python basic </i><br/>
-      <a href="https://www.hackerrank.com/certificates/92134261cc77">
-        <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<table>
+<tr>
+  <td width="50%" align="center">
+    <b>🎖️ Achievements</b><br/><br/>
+    <b>🥇 Presidential Honor</b><br/>
+    <i>Research Student Award</i><br/>
+    <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
+      <img src="https://img.shields.io/badge/VIEW-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>🥇 First Prize</b><br/>
+    <i>Project Competition</i><br/>
+    <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
+      <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>🥈 Second Prize</b><br/>
+    <i>BKTechShow</i><br/>
+    <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
+      <img src="https://img.shields.io/badge/VIEW-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>🥉 Third Prize</b><br/>
+    <i>High school</i><br/>
+    <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/VIEW-CD7F32?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+  </td>
+  
+  <td width="50%" align="center">
+    <b>📜 Certifications</b><br/><br/>
+    <b>NVIDIA</b><br/>
+    <i>Deep Learning</i><br/>
+    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>DSAC</b><br/>
+    <i>ECG Enhancement</i><br/>
+    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+      <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>AI Course</b><br/>
+    <i>Autonomous Vehicles</i><br/>
+    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+      <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </a>
+    <br/><br/>
+    <b>HackerRank</b><br/>
+    <i>Python basic</i><br/>
+    <a href="https://www.hackerrank.com/certificates/92134261cc77">
+      <img src="https://img.shields.io/badge/VIEW-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    </a>
+  </td>
+</tr>
 </table>
-</div>
 
 ---
 
@@ -217,12 +171,13 @@
 </p>
 
 <p align="center">
-    <a href="https://zalo.me/0935636090" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
+  <a href="https://zalo.me/0935636090">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+  </a>
+  <a href="mailto:bathanh124ads@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bathanh0309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
