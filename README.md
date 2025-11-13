@@ -92,7 +92,7 @@
 </tr>
 <tr>
   <td align="center">
-    <b>🥈 Second Prize</b><br/>
+    <b>🥈Second Prize</b><br/>
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
       <img src="https://img.shields.io/badge/VIEW-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
