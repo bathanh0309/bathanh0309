@@ -1,233 +1,184 @@
+<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%;" alt="avatar"/>
 </p>
 
+<h1 align="center">Nguyễn Bá Thành</h1>
+<h3 align="center">Electronics / Embedded Engineer</h3>
 
-<h3 align="center">
-  🎓 Da Nang University of Science and Technology  
-<br/>
-<br/>
-<a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link" target="_blank" style="text-decoration:none; display:flex; align-items:center; justify-content:center; gap:8px;">
-  <span style="font-size:32px; color:#4285F4;"><b>📄View My CV📄</b></span>
-</a>
+<p align="center">
+  Da Nang University of Science and Technology • Viet Nam<br/>
+  <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link"><b>📄 View my CV</b></a> ·
+  <a href="mailto:bathanh124ads@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/bathanh0309">💼 LinkedIn</a>
+</p>
 
+---
 
+## 👋 About
 
+- 🎓 Final-year student in **Electronics & Telecommunications** (DUT – Da Nang).  
+- ⚙️ Interested in **Embedded systems, IoT, Computer Vision, Signal Processing**.  
+- 🧩 Enjoy building end–to–end systems: from PCB & firmware to backend and dashboards.  
 
+---
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack (Summary)
 
-<div align="left">
-<table width="100%">
-  <colgroup>
-    <col width="25%"><col width="22%"><col width="25%"><col width="28%">
-  </colgroup>
+**Embedded / Hardware**
 
-  <!-- Row 1: SKILLS -->
+- ESP32 (FreeRTOS), STM32 (basic), UART • SPI • I²C  
+- PCB design with **Altium Designer**, simulation with Proteus / MATLAB
+
+**Software & Tools**
+
+- C/C++, Python, MATLAB/Simulink  
+- MQTT/HTTP, REST API (FastAPI – basic), Git, Linux, Docker (learning)
+
+**AI / Computer Vision**
+
+- PyTorch/TensorFlow (basic), OpenCV, image processing pipelines
+
+---
+
+## 📊 Project Overview (Color = Understanding Level)
+
+**Legend**
+
+- 🟥 Exploring – used once / still learning  
+- 🟨 Working – used in projects, understand core ideas  
+- 🟩 Deep – confident, have used multiple times & debugged in detail  
+
+<table>
   <tr>
-    <td align="center">
-      <b> ⚙️Hardware<br/>Embedded</b><br/>
-      <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="26" alt="Altium Designer"/>
-      <img src="https://cdn.simpleicons.org/espressif/E7352C" width="24" alt="ESP32"/>
-      <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="26" alt="Proteus"/>
-      <img src="https://cdn.simpleicons.org/platformio/FF6600" width="26" alt="PlatformIO"/> 
-    </td>
-    <td align="center">
-      <b> 🧠Computer Science<br/>Computer Vision</b><br/>
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="26" alt="tensorflow"/>
-      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" alt="Jupyter"/>
-      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" alt="OpenCV"/>
-      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="26" alt="Google Colab"/>
-    </td>
-    <td align="center">
-      <b> 📡Signal Processing<br/>Networking</b><br/>
-      <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="26" alt="Wireshark"/>
-      <img src="https://cdn.simpleicons.org/mqtt/660066" width="26" alt="MQTT"/>
-    </td>
-    <td align="center">
-      <b> 🛰️Software<br/>Algorithm</b><br/>
-      <img src="https://cdn.simpleicons.org/docker/2496ED" width="26" alt="Docker"/>
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="26" alt="Linux"/>
-      <img src="https://cdn.simpleicons.org/nvidia/76B900" width="26" alt="Jetson Nano"/>
-      <img src="https://cdn.simpleicons.org/git/F05032" width="26" alt="Git"/>
-    </td>
+    <th align="left">Project</th>
+    <th align="left">Domain</th>
+    <th align="center">Level</th>
   </tr>
-
-  <!-- Row 2: PROJECT #1 -->
-  <tr>
-    <td align="center">
-      <b>iot_freeaqua_rtos</b><br/>
-      <a href="https://github.com/bathanh0309/iot_freeaqua_rtos">
-        <img src="https://img.shields.io/badge/View-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>deep_learning</b><br/>
-      <a href="https://github.com/bathanh0309/deep_learning">
-        <img src="https://img.shields.io/badge/Loading-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_simuADC</b><br/>
-      <a href="https://github.com/bathanh0309/sp_simu_ADC">
-        <img src="https://img.shields.io/badge/View-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>json_RRT</b><br/>
-      <a href="https://github.com/bathanh0309/json_RRT">
-        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 3: PROJECT #2 -->
-  <tr>
-    <td align="center">
-      <b>iot_parksense</b><br/>
-      <a href="https://github.com/bathanh0309/iot_parksense">
-        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>machine_learning</b><br/>
-      <a href="https://github.com/bathanh0309/machine_learning">
-        <img src="https://img.shields.io/badge/Loading-0078D7?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_mmWave_THz</b><br/>
-      <a href="https://github.com/bathanh0309/sp_mmWave_THz">
-        <img src="https://img.shields.io/badge/View-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>json_Vision_Gate</b><br/>
-      <a href="https://github.com/bathanh0309/json_Vision_Gate">
-        <img src="https://img.shields.io/badge/Loading-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-
-  <!-- Row 4: PROJECT #3 -->
-  <tr>
-    <td align="center">
-      <b>iot_homehub</b><br/>
-      <a href="https://github.com/bathanh0309/iot_homehub">
-        <img src="https://img.shields.io/badge/View-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>image_processing</b><br/>
-      <a href="https://github.com/bathanh0309/image_processing">
-        <img src="https://img.shields.io/badge/Loading-1f6feb?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>sp_Amplifier_OTL</b><br/>
-      <a href="https://github.com/bathanh0309/sp_Amplifier_OTL">
-        <img src="https://img.shields.io/badge/View-005BAC?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      &nbsp;
-    </td>
-  </tr>
-
-</table>
-</div>
-
-
-## 🏆 Achievements & Certifications
-<div align="left">
-<table width="100%">
-  <colgroup>
-    <col width="25%"><col width="25%"><col width="25%"><col width="25%">
-  </colgroup>
 
   <!-- Row 1 -->
   <tr>
-    <td align="center">
-      🎓 <b>Presidential Honor</b><br/>
-      <i>Research Student Award</i><br/>
-      <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-        <img src="https://img.shields.io/badge/View-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
+    <td>
+      <a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>iot_freeaqua_rtos</b></a><br/>
+      Real-time aquarium management (ESP32 + FreeRTOS)
     </td>
+    <td>Embedded • RTOS • IoT</td>
     <td align="center">
-      🥇 <b>First Prize</b><br/>
-      <i>Project Competition</i><br/>
-      <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-        <img src="https://img.shields.io/badge/View-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      🥈 <b>Second Prize</b><br/>
-      <i>BKTechShow</i><br/>
-      <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-        <img src="https://img.shields.io/badge/View-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      🥉<b>Third Prize</b><br/>
-      <i>High school</i><br/>
-      <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
-        <img src="https://img.shields.io/badge/View-1f6feb?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
+      <!-- Deep -->
+      <span title="Deep" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#2ecc71;"></span>
     </td>
   </tr>
 
   <!-- Row 2 -->
   <tr>
-    <td align="center">
-      <b>NVIDIA</b><br/>
-      <i>Deep Learning</i><br/>
-      <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-        <img src="https://img.shields.io/badge/View-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-      </a>
+    <td>
+      <a href="https://github.com/bathanh0309/iot_parksense"><b>iot_parksense</b></a><br/>
+      Parking control system with ESP32 + MQTT + Web
     </td>
+    <td>Embedded • IoT • Web dashboard</td>
     <td align="center">
-      <b>DSAC</b><br/>
-      <i>ECG Enhancement</i><br/>
-      <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-        <img src="https://img.shields.io/badge/View-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>AI Course</b><br/>
-      <i>Autonomous Vehicles</i><br/>
-      <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-        <img src="https://img.shields.io/badge/View-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>HackerRank</b><br/>
-      <i>Python basic </i><br/>
-      <a href="https://www.hackerrank.com/certificates/92134261cc77">
-        <img src="https://img.shields.io/badge/View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
-      </a>
+      <!-- Working -->
+      <span title="Working" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#f1c40f;"></span>
     </td>
   </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/iot_homehub"><b>iot_homehub</b></a><br/>
+      Small home-automation hub prototype
+    </td>
+    <td>Embedded • IoT</td>
+    <td align="center">
+      <!-- Exploring -->
+      <span title="Exploring" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#e74c3c;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 4 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/sp_simu_ADC"><b>sp_simuADC</b></a><br/>
+      ADC & modulation simulation in MATLAB/Simulink
+    </td>
+    <td>Signal Processing • Communications</td>
+    <td align="center">
+      <span title="Working" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#f1c40f;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 5 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>sp_mmWave_THz</b></a><br/>
+      mmWave / THz channel & waveform experiments
+    </td>
+    <td>Signal Processing • Wireless</td>
+    <td align="center">
+      <span title="Exploring" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#e74c3c;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 6 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>sp_Amplifier_OTL</b></a><br/>
+      Power amplifier design & simulation
+    </td>
+    <td>Analog Electronics</td>
+    <td align="center">
+      <span title="Working" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#f1c40f;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 7 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/deep_learning"><b>deep_learning</b></a><br/>
+      Practice notebooks for DL & CV
+    </td>
+    <td>Deep Learning • Computer Vision</td>
+    <td align="center">
+      <span title="Exploring" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#e74c3c;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 8 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/machine_learning"><b>machine_learning</b></a><br/>
+      Classic ML algorithms & experiments
+    </td>
+    <td>Machine Learning</td>
+    <td align="center">
+      <span title="Exploring" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#e74c3c;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 9 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/json_Vision_Gate"><b>json_Vision_Gate</b></a><br/>
+      Vehicle detection & gate management (YOLO + Jetson)
+    </td>
+    <td>Computer Vision • Embedded AI</td>
+    <td align="center">
+      <span title="Working" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#f1c40f;"></span>
+    </td>
+  </tr>
+
+  <!-- Row 10 -->
+  <tr>
+    <td>
+      <a href="https://github.com/bathanh0309/json_RRT"><b>json_RRT</b></a><br/>
+      RRT path planning experiments
+    </td>
+    <td>Algorithms • Robotics</td>
+    <td align="center">
+      <span title="Exploring" style="display:inline-block;width:14px;height:14px;border-radius:4px;background:#e74c3c;"></span>
+    </td>
+  </tr>
+
 </table>
-</div>
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  Feel free to explore my repositories and reach out for collaborations on<br/>
-  <b>Embedded Systems • IoT • Computer Vision • Signal Processing</b>
-</p>
-
-<p align="center">
-    <a href="https://zalo.me/0935636090" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
-
+> 💡 Feel free to open any repo above — each one includes a short README explaining the idea and what I learned.
