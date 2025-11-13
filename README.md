@@ -80,8 +80,7 @@
   </td>
   <td width="50%" valign="top">
 
-## 🏆 Achievements & Certifications
-
+🏆 Achievements & Certifications
 <table>
 <tr>
   <td width="50%" align="center">
@@ -93,15 +92,13 @@
 </tr>
 <tr>
   <td align="center">
-    <b>🥇 UDN</b><br/>
-    <i>Honored</i><br/>
+    <b>🥇 Presidential Honor</b><br/>
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-      <img src="https://img.shields.io/badge/VIEW-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>NVIDIA</b><br/>
-    <i>Deep Learning</i><br/>
+    <b>NVIDIA Deep Learning</b><br/>
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
       <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     </a>
@@ -110,57 +107,49 @@
 <tr>
   <td align="center">
     <b>🥇 First Prize</b><br/>
-    <i>Research </i><br/>
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
       <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>DSAC</b><br/>
-    <i>ECG Enhancement</i><br/>
+    <b>DSAC ECG Enhancement</b><br/>
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-      <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
     <b>🥈 Second Prize</b><br/>
-    <i>BKTechShow</i><br/>
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-      <img src="https://img.shields.io/badge/VIEW-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>AI Course</b><br/>
-    <i>Autonomous</i><br/>
+    <b>AI Autonomous Vehicles</b><br/>
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-      <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
     <b>🥉 Third Prize</b><br/>
-    <i>High school</i><br/>
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/VIEW-CD7F32?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>HackerRank</b><br/>
-    <i>Python basic</i><br/>
+    <b>HackerRank Python</b><br/>
     <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/VIEW-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
     </a>
   </td>
 </tr>
 </table>
-
   </td>
 </tr>
 </table>
-
 ---
 
 ## 📫 Let's Connect
