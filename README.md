@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
+
 <p align="center">
   <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
@@ -35,27 +36,31 @@
   </td>
   <td width="50%" valign="top">
 
-## Achievements & Certifications
+## <p align="center">
+  <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/📄_View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  </a>
+</p>
 
 <table>
 <tr>
-  <td width="60%" align="center">
-    <b>🏆Achievements</b>
+  <td width="50%" align="center">
+    <b>Achievements</b>
   </td>
-  <td width="40%" align="center">
-    <b>📜Certifications</b>
+  <td width="50%" align="center">
+    <b>Certifications</b>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🥇 Presidential</b><br/>
+    <b>🏆Presidential</b><br/>
     <i>Honor</i><br/>
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
       <img src="https://img.shields.io/badge/VIEW-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>NVIDIA</b><br/>
+    <b>📜NVIDIA</b><br/>
     <i>Deep Learning</i><br/>
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
       <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
