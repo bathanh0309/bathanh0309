@@ -110,7 +110,7 @@
 <tr>
   <td align="center">
     <b>🥇 First Prize</b><br/>
-    <i>Project Competition</i><br/>
+    <i>Research </i><br/>
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
       <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
@@ -133,7 +133,7 @@
   </td>
   <td align="center">
     <b>AI Course</b><br/>
-    <i>Autonomous Vehicles</i><br/>
+    <i>Autonomous</i><br/>
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
       <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
