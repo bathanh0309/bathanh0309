@@ -38,7 +38,7 @@
   <td width="25%" align="center">
     <b>📡 Signal Processing<br/>Networking</b><br/><br/>
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28"/>
-    <img src="https://cdn.simpleicons.org/mqtt/660066" width="28"/>
+    <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/>
     <br/><br/><br/>
     <img src="https://progress-bar.dev/70/?title=Applied&width=160&color=FF8C00"/>
   </td>
@@ -64,8 +64,8 @@
 
 | Category | Project | Status |
 |:--------:|---------|:------:|
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/>Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ✅ |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
@@ -74,7 +74,7 @@
 | 📡 Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
 | 📡 Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
 | <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/> Algorithm/Image Processing | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
-| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
 
   </td>
   <td width="50%" valign="top">
