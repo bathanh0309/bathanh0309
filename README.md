@@ -138,15 +138,15 @@
     </a>
   </td>
   <td align="center">
-    <b>Cert Name</b><br/>
+    <b></b><br/>
     <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/VIEW-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>🌐Platform</b><br/>
+    <b></b><br/>
     <a href="https://github.com/bathanh0309">
-      <img src="https://img.shields.io/badge/CONNECT-9E9E9E?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logoColor=white"/>
     </a>
   </td>
 </tr>
@@ -158,15 +158,15 @@
     </a>
   </td>
   <td align="center">
-    <b>Cert Name</b><br/>
+    <b></b><br/>
     <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/VIEW-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
     </a>
   </td>
   <td align="center">
-    <b>🌐Platform</b><br/>
+    <b></b><br/>
     <a href="https://github.com/bathanh0309">
-      <img src="https://img.shields.io/badge/CONNECT-9E9E9E?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logoColor=white"/>
     </a>
   </td>
 </tr>
