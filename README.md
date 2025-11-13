@@ -45,9 +45,8 @@
   
   <td width="25%" align="center">
     <b>🛰️ Software<br/>Algorithm</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="28"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/>
-    <img src="https://cdn.simpleicons.org/nvidia/76B900" width="28"/>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/>
     <img src="https://cdn.simpleicons.org/git/F05032" width="28"/>
     <br/><br/>
     <img src="https://progress-bar.dev/50/?title=Familiar&width=160&color=FFA500"/>
@@ -74,8 +73,8 @@
 | 📡 Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
 | 📡 Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
 | 📡 Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
-| 🤖 Algorithm | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
-| 🤖 Algorithm | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
+| <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/> Algorithm | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Algorithm | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
 
   </td>
   <td width="50%" valign="top">
