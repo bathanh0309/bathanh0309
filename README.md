@@ -21,9 +21,7 @@
 <tr>
   <td width="50%" valign="top">
 
-## 🚀 Projects
-
-| Category | Project | Status |
+| Skills | Project | Status |
 |:--------:|---------|:------:|
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
