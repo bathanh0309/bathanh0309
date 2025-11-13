@@ -99,7 +99,6 @@
   </td>
   <td align="center">
     <b>AI Course</b><br/>
-    <br/>
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
       <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
     </a>
