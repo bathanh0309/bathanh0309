@@ -69,8 +69,8 @@
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ✅ |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
-| 📊 Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
-| 🖼️ Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
 | 📡 Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
 | 📡 Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
 | 📡 Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
