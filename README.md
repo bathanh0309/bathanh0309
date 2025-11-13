@@ -11,14 +11,6 @@
 
 ---
 
-" target="_blank" style="text-decoration:none; display:flex; align-items:center; justify-content:center; gap:8px;">
-  <span style="font-size:32px; color:#4285F4;"><b>📄View My CV📄</b></span>
-</a>
-
-
-
-
-
 ## 🛠️ Technical Skills
 
 <div align="left">
