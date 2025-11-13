@@ -10,95 +10,54 @@
 </p>
 
 ---
-
-## ⚡ Technical Skills
-
+🚀 Featured Projects
 <table>
 <tr>
-  <td width="25%" align="center">
-    <b>🔧 Hardware<br/>Embedded</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="28"/>
-    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="28"/>
-    <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="28"/>
-    <img src="https://cdn.simpleicons.org/platformio/FF6600" width="28"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/90/?title=Expert&width=160&color=00C7B7"/>
-    <br/><br/>
-    <a href="https://github.com/bathanh0309/iot_freeaqua_rtos">
-      <img src="https://img.shields.io/badge/iot__freeaqua__rtos-00C7B7?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/iot_parksense">
-      <img src="https://img.shields.io/badge/iot__parksense-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/iot_homehub">
-      <img src="https://img.shields.io/badge/iot__homehub-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/IoT-00C7B7?style=flat-square&logo=internetofthings&logoColor=white"/><br/>
+    <b>FreeAqua RTOS</b><br/>
+    <sub>Real-time aquarium system</sub><br/>
+    <a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><img src="https://img.shields.io/badge/View-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
-  
-  <td width="25%" align="center">
-    <b>🧠 Computer Science<br/>Computer Vision</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="28"/>
-    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="28"/>
-    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="28"/>
-    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="28"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/45/?title=Basic&width=160&color=FFA500"/>
-    <br/><br/>
-    <a href="https://github.com/bathanh0309/deep_learning">
-      <img src="https://img.shields.io/badge/deep__learning-FF6F00?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/machine_learning">
-      <img src="https://img.shields.io/badge/machine__learning-0078D7?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/image_processing">
-      <img src="https://img.shields.io/badge/image__processing-1f6feb?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
-    </a>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/IoT-4285F4?style=flat-square&logo=internetofthings&logoColor=white"/><br/>
+    <b>ParkSense</b><br/>
+    <sub>Smart parking control system</sub><br/>
+    <a href="https://github.com/bathanh0309/iot_parksense"><img src="https://img.shields.io/badge/View-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
-  
-  <td width="25%" align="center">
-    <b>📡 Signal Processing<br/>Networking</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28"/>
-    <img src="https://cdn.simpleicons.org/mqtt/660066" width="28"/>
-    <br/><br/><br/>
-    <img src="https://progress-bar.dev/70/?title=Applied&width=160&color=FF8C00"/>
-    <br/><br/>
-    <a href="https://github.com/bathanh0309/sp_simu_ADC">
-      <img src="https://img.shields.io/badge/sp__simuADC-FF8C00?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/sp_mmWave_THz">
-      <img src="https://img.shields.io/badge/sp__mmWave__THz-6A1B9A?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/sp_Amplifier_OTL">
-      <img src="https://img.shields.io/badge/sp__Amplifier__OTL-005BAC?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
-    </a>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/Hardware-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white"/><br/>
+    <b>Amplifier OTL</b><br/>
+    <sub>Power amplifier design</sub><br/>
+    <a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><img src="https://img.shields.io/badge/View-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
-  
-  <td width="25%" align="center">
-    <b>🛰️ Software<br/>Algorithm</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="28"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="28"/>
-    <img src="https://cdn.simpleicons.org/nvidia/76B900" width="28"/>
-    <img src="https://cdn.simpleicons.org/git/F05032" width="28"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/50/?title=Familiar&width=160&color=FFA500"/>
-    <br/><br/>
-    <a href="https://github.com/bathanh0309/json_RRT">
-      <img src="https://img.shields.io/badge/json__RRT-76B900?style=for-the-badge&logo=github&logoColor=white&label=✅"/>
-    </a>
-    <br/>
-    <a href="https://github.com/bathanh0309/json_Vision_Gate">
-      <img src="https://img.shields.io/badge/json__Vision__Gate-4285F4?style=for-the-badge&logo=github&logoColor=white&label=🔄"/>
-    </a>
+</tr>
+<tr>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=homeassistant&logoColor=white"/><br/>
+    <b>HomeHub</b><br/>
+    <sub>Smart home automation</sub><br/>
+    <a href="https://github.com/bathanh0309/iot_homehub"><img src="https://img.shields.io/badge/View-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/Signal-6A1B9A?style=flat-square&logo=waves&logoColor=white"/><br/>
+    <b>mmWave & THz</b><br/>
+    <sub>Wireless communication analysis</sub><br/>
+    <a href="https://github.com/bathanh0309/sp_mmWave_THz"><img src="https://img.shields.io/badge/View-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  </td>
+  <td width="33%" align="center">
+    <img src="https://img.shields.io/badge/Algorithm-76B900?style=flat-square&logo=nvidia&logoColor=white"/><br/>
+    <b>Vision Gate</b><br/>
+    <sub>AI-powered access control</sub><br/>
+    <a href="https://github.com/bathanh0309/json_Vision_Gate"><img src="https://img.shields.io/badge/Loading-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   </td>
 </tr>
 </table>
-
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br/>
+CategoryProjectStatus🔧 Signal ProcessingSimuADC✅🤖 AlgorithmRRT Path Planning✅🧠 Deep LearningDL Collection🔄📊 Machine LearningML Projects🔄🖼️ Image ProcessingCV Basics🔄
+</details>
 ---
 
 ## 🏆 Achievements & Certifications
