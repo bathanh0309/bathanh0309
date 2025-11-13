@@ -4,12 +4,18 @@
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
+## 📫 Let's Connect
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
+  <a href="https://zalo.me/0935636090">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+  </a>
+  <a href="mailto:bathanh124ads@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bathanh0309">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
@@ -123,21 +129,3 @@
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  Feel free to explore my repositories and reach out for collaborations on<br/>
-  <b>Embedded Systems • IoT • Computer Vision • Signal Processing</b>
-</p>
-
-<p align="center">
-  <a href="https://zalo.me/0935636090">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
-  </a>
-  <a href="mailto:bathanh124ads@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bathanh0309">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
