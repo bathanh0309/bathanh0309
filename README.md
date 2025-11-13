@@ -65,7 +65,7 @@
 
 | Category | Project | Status |
 |:--------:|---------|:------:|
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="28"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="28"/>Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="15"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="15"/>Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
 | 🔧 Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
 | 🔧 Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ✅ |
 | 🧠 Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
