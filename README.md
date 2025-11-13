@@ -36,7 +36,6 @@
   </td>
   <td width="50%" valign="top">
 
-## 
 <p align="center">
   <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_View_My_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/>
