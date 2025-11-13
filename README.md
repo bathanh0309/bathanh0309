@@ -9,50 +9,6 @@
   </a>
 </p>
 
----
-
-## ⚡ Technical Skills
-
-<table>
-<tr>
-  <td width="25%" align="center">
-    <b>🔧 Hardware<br/>Embedded</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="28"/>
-    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="20"/>
-    <img src="https://cdn.simpleicons.org/circuitverse/1E5083" width="28"/>
-    <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/90/?title=Expert&width=160&color=00C7B7"/>
-  </td>
-  
-  <td width="25%" align="center">
-    <b>🧠 Computer Science<br/>Computer Vision</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/>
-    <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/>
-    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/>
-    <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="20"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/45/?title=Basic&width=160&color=FFA500"/>
-  </td>
-  
-  <td width="25%" align="center">
-    <b>📡 Signal Processing<br/>Networking</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="28"/>
-    <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/>
-    <br/><br/><br/>
-    <img src="https://progress-bar.dev/70/?title=Applied&width=160&color=FF8C00"/>
-  </td>
-  
-  <td width="25%" align="center">
-    <b>🛰️ Software<br/>Algorithm</b><br/><br/>
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/>
-    <img src="https://cdn.simpleicons.org/git/F05032" width="28"/>
-    <br/><br/>
-    <img src="https://progress-bar.dev/50/?title=Familiar&width=160&color=FFA500"/>
-  </td>
-</tr>
-</table>
 
 ---
 
@@ -70,9 +26,9 @@
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
-| 📡 Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
-| 📡 Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
-| 📡 Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
+| 📡🛰️ Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
+| 📡🛰️ Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
+| 📡🛰️ Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
 | <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/> Algorithm/Image Processing | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
 | <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
 
