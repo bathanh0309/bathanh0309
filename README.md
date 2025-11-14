@@ -141,6 +141,7 @@ mindmap
   root((Skills))
     Embedded IoT
       MQTT
+        ESP32
       FreeRTOS
       PlatformIO
     Hardware
@@ -152,6 +153,7 @@ mindmap
     Software
       Linux
       Docker
+      Frontend
     Computer Vision
       Machine Learning
       Deep Learning
