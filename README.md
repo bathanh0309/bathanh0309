@@ -47,11 +47,11 @@
 
 <table>
 <tr>
-  <td width="60%" align="center">
+  <td width="70%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="40%" align="center">
-    <b>Certificates</b>
+  <td width="30%" align="center">
+    <b>Source</b>
   </td>
 </tr>
 <tr>
@@ -84,9 +84,10 @@
     </a>
   </td>
 </tr>
+  
 <tr>
   <td align="left">
-    <b>🥉 Third Prize</b>
+    <b>🥉Giải ba</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
@@ -94,9 +95,10 @@
     </a>
   </td>
 </tr>
+
 <tr>
   <td align="left">
-    <b>🏅 UDN</b>
+    <b>🏅Giải khuyến khích</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
@@ -106,7 +108,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🏅 Article</b>
+    <b>🏅Giải khuyến khích</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
@@ -116,7 +118,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜 NVIDIA</b>
+    <b>📜NVIDIA Deep Learning</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
@@ -126,7 +128,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜 DSAC</b>
+    <b>📜DSAC ECG Thiết kế vi mạch</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
@@ -136,7 +138,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜 Research</b>
+    <b>📜Nghiên cứu khoa học</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
