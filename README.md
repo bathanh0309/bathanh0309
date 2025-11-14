@@ -29,6 +29,17 @@
    style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
+### 📡 Signal Processing Projects
+
+| Tech Stack | Repository | Level | Status |
+|:-----------|:-----------|:-----:|:------:|
+| 📊 🔬 | [**sp_simuADC**](https://github.com/bathanh0309/sp_simu_ADC)<br/><sub>📈 Advanced ADC Signal Simulation</sub> | ⭐⭐⭐⭐ | ✅ |
+| 📡 🛰️ | [**sp_mmWave_THz**](https://github.com/bathanh0309/sp_mmWave_THz)<br/><sub>🌊 Millimeter Wave & THz Research</sub> | ⭐⭐ | ✅ |
+| ⚡ 🔊 | [**sp_Amplifier_OTL**](https://github.com/bathanh0309/sp_Amplifier_OTL)<br/><sub>🎵 OTL Power Amplifier Design</sub> | ⭐⭐⭐⭐ | ✅ |
+
+
+
+
 </td>
 <td width="40%" valign="top">
 
