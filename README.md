@@ -24,19 +24,19 @@
 </tr>
 
 <tr>
-<td>🔌 IoT</td>
+<td><td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> </td> IoT</td>
 <td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> MQTT, FreeRTOS</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
-<td>🔌 IoT</td>
+<td><td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> </td> IoT</td>
 <td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> MQTT, Sensors</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>🔌 IoT</td>
+<td><td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> </td> IoT</td>
 <td><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> Altium, PCB</td>
 <td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
