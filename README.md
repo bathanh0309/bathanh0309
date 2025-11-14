@@ -188,7 +188,6 @@ mindmap
       Image Processing
         Feature
         Filter
-        Restore
         Template Matching
 ```
 
