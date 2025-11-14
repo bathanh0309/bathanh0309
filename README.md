@@ -190,6 +190,6 @@ mindmap
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&text=Thank%20you%20for%20visiting&fontSize=60&fontColor=fff&animation=fadeIn&descAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Thank%20you%20for%20visiting&fontSize=60&fontColor=fff&animation=fadeIn&descAlignY=40" width="100%"/>
 </div>
 
