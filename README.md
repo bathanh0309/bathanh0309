@@ -29,11 +29,8 @@ I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Sig
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
 <p align="center">
-  <i>💡 "Engineering the future, one project at a time"</i>
+  <i>💡 "High standards, eager to learn, responsible and reputable"</i>
 </p>
-
-**Philosophy:**  
-*💡"Innovation through practical engineering — bridging hardware and software for intelligent solutions."*
 
 </td>
 <td width="40%">
