@@ -25,19 +25,19 @@
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> MQTT, FreeRTOS</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> MQTT, FreeRTOS</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> MQTT, Sensors</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> MQTT, Sensors</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB</td>
+<td><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> Altium, PCB</td>
 <td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
 
@@ -61,31 +61,31 @@
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/><img src="https://img.icons8.com/color/48/python.png" width="18"/></td>
+<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/><img src="https://img.icons8.com/color/48/python.png" width="20"/></td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO</td>
+<td><img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Docker, PlatformIO</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow</td>
+<td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> Jupyter, TensorFlow</td>
 <td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV</td>
+<td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> TensorFlow, OpenCV</td>
 <td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python</td>
+<td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> OpenCV, Python</td>
 <td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td><td>🔄</td>
 </tr>
 
