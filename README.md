@@ -141,23 +141,21 @@
 mindmap
   root((Skills))
     Embedded IoT
-      MQTT
+      MQTT, Broker
       ESP32
       FreeRTOS
       PlatformIO
     Hardware
-      Simulation Proteus
-      PCB Altium Design
+      Proteus, Altium Design
       Oscilloscope
     Signal
       mmWave, THz
-      ADC Filter Design
-      Optisystem
-      Wireshark
+      Filter Design
+      Simulink, Optisystem, Wireshark
     Software
-      Linux
-      Docker
-      Frontend
+      Matlab
+      Linux, Docker
+      Web, App
     Computer Vision
       Machine Learning
       Deep Learning
