@@ -19,9 +19,7 @@ I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Sig
 **B.Eng. Electronics & Telecommunications**  
 📍 Da Nang University of Science and Technology  
 🏛️ Faculty: ETE.DUT.UDN.VN
-### 🔥 Current Focus
-- 🔌 Designing IoT systems with **MQTT & FreeRTOS**
-- 📡 **Signal Processing** and RF circuit design
+### 🔥 Current Focus🔌📡
 - 🤖 **Computer Vision** and Machine Learning
 - 🛠️ **PCB Design** with Altium Designer
 - 🐳 **Docker & Linux** for embedded applications
@@ -31,38 +29,34 @@ I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Sig
 ```mermaid
 mindmap
   root((Tech Journey))
-    Embedded AI
-      Edge Computing
-      TinyML
+    Embedded IoT
+      MQTT
+      FreeRTOS
       Model Optimization
-    Advanced IoT
-      LoRaWAN
-      Zigbee
-      BLE Mesh
-    Signal Processing
+    Signal
+      mmWave
+      THz
+      ADC Filter Design
       DSP Algorithms
       FFT Analysis
-      Filter Design
-    DevOps
-      CI/CD
+    Software
+      Linux
       Docker Compose
-      Git Workflows
 ```
 
 
 ### 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://zalo.me/0935636090" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
-  </a>
-  <a href="mailto:bathanh124ads@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<p align="center">
+    <a href="https://zalo.me/0935636090" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
