@@ -3,21 +3,14 @@
 </p>
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
-<a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#4CAF50;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-cv-human-resources-and-job-search-flatart-icons-outline-flatarticons.png" width="32" alt="CV" style="border-radius:4px;"/>
-</a>
-
-<a href="https://zalo.me/0935636090" target="_blank"
+<p align="left">
+      <a href="https://drive.google.com/file/d/1QunYtVMWaOimxyrPYxE3dwwVKhu1n0Tn/view?usp=drive_link" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/>
-</a>
-
-
-<p align="center">
+  <img src="https://img.icons8.com/color/48/CV.png" width="32" alt="myCV" style="border-radius:4px;"/></a>
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+  
    <a href="mailto:bathanh124ads@gmail.com" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
 <img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
