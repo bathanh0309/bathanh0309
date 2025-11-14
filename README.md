@@ -12,7 +12,11 @@
 <tr>
 <td width="60%">
 I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
-
+  
+## 🤝 Let's Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 <p align="center">
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
@@ -24,8 +28,12 @@ I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Sig
    style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
+<p align="center">
+  <i>💡 "Engineering the future, one project at a time"</i>
+</p>
+
 **Philosophy:**  
-*"Innovation through practical engineering — bridging hardware and software for intelligent solutions."*
+*💡"Innovation through practical engineering — bridging hardware and software for intelligent solutions."*
 
 </td>
 <td width="40%">
@@ -195,12 +203,6 @@ const engineer = {
 ---
 
 ## 🤝 Let's Connect
-
-<p align="center">
-  Feel free to explore my repositories and reach out for collaborations on<br/>
-  <b>Embedded Systems • IoT • Computer Vision • Signal Processing</b>
-</p>
-
 
 
 ---
