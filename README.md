@@ -164,10 +164,8 @@ mindmap
         OptiSystem
         Wireshark
     💻 Software Dev
-      Web & Mobile
+      Web
         Frontend
-        Backend
-        Database
       Tools
         VSCode
         MATLAB
