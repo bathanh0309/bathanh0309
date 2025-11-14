@@ -113,7 +113,22 @@ const engineer = {
 
 [![1st Place](https://img.shields.io/badge/🥇_1st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
+[![2st Place](https://img.shields.io/badge/🥈_2st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
+
+[![3st Place](https://img.shields.io/badge/🥉_3st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
+
+[![NVIDIA](https://img.shields.io/badge/🏅_UDN-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
+
+
+[![NVIDIA](https://img.shields.io/badge/🏅_Paper-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
+
+
+
 [![NVIDIA](https://img.shields.io/badge/📜_NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
+
+
+[![NVIDIA](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
+
 
 </div>
 
