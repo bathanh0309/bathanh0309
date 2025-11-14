@@ -117,11 +117,10 @@ const engineer = {
 
 [![3st Place](https://img.shields.io/badge/🥉_3st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
 
-[![NVIDIA](https://img.shields.io/badge/🏅_UDN-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
+[![Ecourage Place](https://img.shields.io/badge/🏅_UDN_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
 
 
-[![NVIDIA](https://img.shields.io/badge/🏅_Paper-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
-
+[![Article Place](https://img.shields.io/badge/🏅_Article_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
 
 [![NVIDIA](https://img.shields.io/badge/📜_NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
