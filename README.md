@@ -61,7 +61,7 @@
 
 <tr>
 <td>🤖 AI/CV</td>
-<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++</td>
+<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/>, Python</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
 
