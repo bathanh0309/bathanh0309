@@ -19,11 +19,13 @@
   <img src="https://img.icons8.com/color/48/facebook.png" width="32" alt="Facebook" style="border-radius:4px;"/></a>
 </p>
 
-```
+```                         
 ⭐ Mức độ hiểu về dự án
 ✅ Dự án đã hoàn thiện
 🔄 Dự án đang thực hiện
 ```
+
+
 <table>
 <tr>
   <td width="50%" valign="top">
