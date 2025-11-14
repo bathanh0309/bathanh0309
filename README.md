@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
+<h3 align="center">🎓 Faculty of Electronics and Telecommunication Engineering</h3>
 
 <p align="center">
     <a href="https://zalo.me/0935636090" target="_blank"
@@ -28,7 +29,7 @@
 <tr>
   <td width="50%" valign="top">
 
-| Skills | Project | Rating | Status |
+| Kỹ năng | Dự án | Mức độ | Trạng thái |
 |:--------|---------|:------:|:------:|
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ⭐⭐⭐⭐⭐ | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ⭐⭐⭐⭐⭐ | ✅ |
@@ -48,10 +49,10 @@
 <table>
 <tr>
   <td width="75%" align="center">
-    <b>Achievements</b>
+    <b>Thành tựu</b>
   </td>
   <td width="25%" align="center">
-    <b>Source</b>
+    <b>Nguồn</b>
   </td>
 </tr>
 <tr>
