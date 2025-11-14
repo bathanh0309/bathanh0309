@@ -48,7 +48,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🏆Presidential</b>
   </td>
   <td align="center">
