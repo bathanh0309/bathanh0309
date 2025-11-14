@@ -98,7 +98,7 @@
 <div align="left">
 
 
-[![Honored](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
+[![Honored](https://img.shields.io/badge/🏆_Honored-Academic_Excellence?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
 
 [![1st Place](https://img.shields.io/badge/🥇_1st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
