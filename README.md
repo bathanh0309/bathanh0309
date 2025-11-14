@@ -136,58 +136,59 @@
 </table>
 
 ---
+
 ### 🌱 Roadmap
 ```mermaid
 mindmap
-  root((Skills))
-    Hardware IoT
-      Protocol
-        MQTT, Wifi
-      Controller
-        ESP32, Arduino
-      FreeRTOS
-        Task, queue, semaphore
+  root((Core Skills))
+    🔌 Hardware & IoT
+      Microcontrollers
+        ESP32
+        Arduino
+      RTOS
+        FreeRTOS
+      Protocols
+        MQTT
+        WiFi
       Tools
-        PlatformIO, Proteus, Altium Design
-    Signal
-      mmWave, THz, ADC
+        PlatformIO
+        Proteus
+        Altium
+    📡 Signal Processing
+      Technologies
+        mmWave
+        THz
+        ADC
       Tools
-        Simulink, Optisystem, Wireshark
-    Software
+        Simulink
+        OptiSystem
+        Wireshark
+    💻 Software Dev
+      Web & Mobile
+        Frontend
+        Backend
+        Database
       Tools
-        Matlab, VScode, venv
-      Web, App
-        FE, BE, DB
-    Computer Science
+        VSCode
+        MATLAB
+        Python venv
+    🤖 AI & ML
       Machine Learning
         Classification
         Regression
-        Clutering
-          K-mean, GMM
+        Clustering
       Deep Learning
-        ANN
-          SLP, MLP
-          Sigmoid, Relu
         CNN
           Segmentation
-            Unet
-          Object detect
-            Yolo
-          Transfer learning
-            ResNet, VGG, EfficientNet
+          Object Detection
+          Transfer Learning
         RNN
           LSTM
-      Image Processing
-        Histogram (HOG)
-        Hu'moment
-        Thresholding
+      Computer Vision
+        Feature Extraction
+        Image Filtering
+        Image Restoration
         Template Matching
-        Filter
-        Restore
-          Gaussion
-          Salt pepper
-          Demosaicing
-            Bilinear
 ```
 
 
