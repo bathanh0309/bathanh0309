@@ -9,33 +9,6 @@
 </p>
 
 ---
-
-### 🌱 Current Focus
-```mermaid
-mindmap
-  root((Skills))
-    Embedded IoT
-      MQTT
-      FreeRTOS
-      PlatformIO
-    Hardware
-      Simulation Proteus
-      PCB Altium Design
-    Signal
-      mmWave, THz
-      ADC Filter Design
-      DSP Algorithms
-      FFT Analysis
-    Software
-      Linux
-      Docker
-    Computer Vision
-      Machine Learning
-      Deep Learning
-      Image Processing
-```
-
----
 ### 📂 Featured Projects
 <table>
 <tr>
@@ -146,11 +119,39 @@ mindmap
 </div>
 
 </td>
-
 </tr>
 </table>
 
 ---
+### 🌱 Current Focus
+```mermaid
+mindmap
+  root((Skills))
+    Embedded IoT
+      MQTT
+      FreeRTOS
+      PlatformIO
+    Hardware
+      Simulation Proteus
+      PCB Altium Design
+    Signal
+      mmWave, THz
+      ADC Filter Design
+      DSP Algorithms
+      FFT Analysis
+    Software
+      Linux
+      Docker
+    Computer Vision
+      Machine Learning
+      Deep Learning
+      Image Processing
+```
+
+
+
+
+
 
 <table>
 <tr>
