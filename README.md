@@ -141,12 +141,13 @@
 ```mermaid
 mindmap
   root((Core Skills))
-    🔌 Hardware & IoT
+    🔌 Hardware IoT
       Microcontrollers
         ESP32
         Arduino
       RTOS
         FreeRTOS
+          Task, queue, semaphore
       Protocols
         MQTT
         WiFi
@@ -170,7 +171,7 @@ mindmap
         VSCode
         MATLAB
         Python venv
-    🤖 AI & ML
+    🤖 AI 
       Machine Learning
         Classification
         Regression
