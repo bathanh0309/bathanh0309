@@ -113,6 +113,18 @@
 
 [![DSAC](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-4285F4?style=flat-square)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
 
+
+<p align="center">
+    <a href="https://zalo.me/0935636090" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
+  
 </div>
 
 </td>
@@ -175,16 +187,7 @@ mindmap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 </p>
 
-<p align="center">
-    <a href="https://zalo.me/0935636090" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
+
 
 <div align="center">
 🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡👁️📊❤️
