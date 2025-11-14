@@ -107,10 +107,12 @@ const engineer = {
 
 ### 🏅 Quick Highlights
 
-<div align="center">
+<div align="left">
 
 [![President's Honor](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
+
 [![1st Place](https://img.shields.io/badge/🥇_1st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
+
 [![NVIDIA](https://img.shields.io/badge/📜_NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
 
 </div>
