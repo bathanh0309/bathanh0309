@@ -158,7 +158,6 @@ mindmap
       Technologies
         mmWave
         THz
-        ADC
       Tools
         Simulink
         OptiSystem
