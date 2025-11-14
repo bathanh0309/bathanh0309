@@ -185,8 +185,8 @@ mindmap
           LSTM
       Image Processing
         Feature
-        Image Filtering
-        Image Restore
+        Filter
+        Restore
         Template Matching
 ```
 
