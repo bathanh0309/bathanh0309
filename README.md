@@ -28,15 +28,28 @@
   <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
-
+  
+### 🚀 IoT & Embedded Projects
+| Tech Stack | Repository | Level | Status |
+|:-----------|:-----------|:-----:|:------:|
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat&logoColor=white" height="18"/> | [**iot_freeaqua_rtos**](https://github.com/bathanh0309/iot_freeaqua_rtos)<br/><sub>🐠 Smart Aquarium Monitoring with FreeRTOS</sub> | ⭐⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> | [**iot_parksense**](https://github.com/bathanh0309/iot_parksense)<br/><sub>🚗 IoT-based Smart Parking System</sub> | ⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> | [**iot_homehub**](https://github.com/bathanh0309/iot_homehub)<br/><sub>🏠 Central Smart Home Control Hub</sub> | ⭐⭐⭐ | ✅ |
 ### 📡 Signal Processing Projects
-
 | Tech Stack | Repository | Level | Status |
 |:-----------|:-----------|:-----:|:------:|
 | 📊 🔬 | [**sp_simuADC**](https://github.com/bathanh0309/sp_simu_ADC)<br/><sub>📈 Advanced ADC Signal Simulation</sub> | ⭐⭐⭐⭐ | ✅ |
 | 📡 🛰️ | [**sp_mmWave_THz**](https://github.com/bathanh0309/sp_mmWave_THz)<br/><sub>🌊 Millimeter Wave & THz Research</sub> | ⭐⭐ | ✅ |
 | ⚡ 🔊 | [**sp_Amplifier_OTL**](https://github.com/bathanh0309/sp_Amplifier_OTL)<br/><sub>🎵 OTL Power Amplifier Design</sub> | ⭐⭐⭐⭐ | ✅ |
 
+### 🤖 AI & Computer Vision
+| Tech Stack | Repository | Level | Status |
+|:-----------|:-----------|:-----:|:------:|
+| <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> | [**json_RRT**](https://github.com/bathanh0309/json_RRT)<br/><sub>🗺️ RRT Path Planning Algorithm</sub> | ⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> | [**json_Vision_Gate**](https://github.com/bathanh0309/json_Vision_Gate)<br/><sub>👁️ AI-Powered Gate Recognition</sub> | ⭐⭐ | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> | [**machine_learning**](https://github.com/bathanh0309/machine_learning)<br/><sub>🧠 ML Algorithms & Models</sub> | ⭐⭐ | 🔄 |
+| <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> | [**deep_learning**](https://github.com/bathanh0309/deep_learning)<br/><sub>🔮 Deep Neural Networks</sub> | ⭐⭐ | 🔄 |
+| <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> | [**image_processing**](https://github.com/bathanh0309/image_processing)<br/><sub>🖼️ Computer Vision Projects</sub> | ⭐⭐ | 🔄 |
 
 
 
