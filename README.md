@@ -137,16 +137,9 @@
     </a>
   </td>
 </tr>
-<tr>
-  <td align="center">
-    <b>📜 HackerRank</b>
-  </td>
-  <td align="center">
-    <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.icons8.com/color/48/hackerrank.png" width="32" alt="Certificate"/>
-    </a>
-  </td>
-</tr>
+  
+
+
 </table>
 
   </td>
