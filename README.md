@@ -42,7 +42,6 @@ mindmap
 
 
 ### 🤝 Let's Connect
-
 <p align="center">
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
