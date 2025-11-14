@@ -95,8 +95,6 @@
 
 <!-- RIGHT SIDE - HIGHLIGHTS -->
 <td width="40%" valign="top">
-
-### 🎯Achievements
 <div align="left">
 
 [![President's Honor](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
