@@ -6,21 +6,26 @@
 
 ---
 
-## 🎯 Professional Overview
+## Overview
 
 <table>
 <tr>
 <td width="60%">
 
-### About Me
+## About Me
 
 I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
 
-**Current Focus:**
-- 🔌 Designing IoT systems with MQTT integration
-- 📡 Signal processing and RF circuit design
-- 🤖 Computer vision and machine learning
-- 🛠️ Embedded systems with FreeRTOS
+<p align="center">
+    <a href="https://zalo.me/0935636090" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
 
 **Philosophy:**  
 *"Innovation through practical engineering — bridging hardware and software for intelligent solutions."*
@@ -65,13 +70,7 @@ const engineer = {
 
 ---
 
-## 💼 Project Portfolio
-
-```                         
-⭐ Project Understanding Level
-✅ Completed Projects
-🔄 Ongoing Development
-```
+## 💼Portfolio
 
 <table>
 <tr>
@@ -205,58 +204,6 @@ const engineer = {
 
 ---
 
-## 🛠️ Technical Skills
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔌 Hardware & PCB Design
-- **Altium Designer** - PCB Layout & Schematic
-- **Circuit Simulation** - LTspice, Proteus
-- **RF Design** - mmWave, THz Systems
-- **Power Electronics** - OTL Amplifiers
-- **Sensor Integration** - ADC, I2C, SPI
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 Embedded Systems
-- **RTOS** - FreeRTOS Development
-- **Microcontrollers** - ESP32, STM32, Arduino
-- **Communication** - MQTT, HTTP, WebSocket
-- **Platform** - PlatformIO, Arduino IDE
-- **Linux** - Embedded Linux, Shell Scripting
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI & Software
-- **Machine Learning** - TensorFlow, Keras
-- **Computer Vision** - OpenCV, Image Processing
-- **Data Science** - Jupyter, NumPy, Pandas
-- **DevOps** - Docker, Git, CI/CD
-- **Programming** - C/C++, Python, JavaScript
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -264,20 +211,7 @@ const engineer = {
   <b>Embedded Systems • IoT • Computer Vision • Signal Processing</b>
 </p>
 
-<p align="center">
-  <a href="https://zalo.me/0935636090" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
-  </a>
-  <a href="mailto:bathanh124ads@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/bathanh0309" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+
 
 ---
 
