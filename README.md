@@ -47,10 +47,10 @@
 
 <table>
 <tr>
-  <td width="70%" align="center">
+  <td width="75%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="30%" align="center">
+  <td width="25%" align="center">
     <b>Source</b>
   </td>
 </tr>
@@ -60,7 +60,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -70,7 +70,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -80,7 +80,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -91,7 +91,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -102,7 +102,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -112,7 +112,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -122,7 +122,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-      <img src="https://img.icons8.com/color/48/nvidia.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/nvidia.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -132,7 +132,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
@@ -142,7 +142,7 @@
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="30" alt="Certificate"/>
     </a>
   </td>
 </tr>
