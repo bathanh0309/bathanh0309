@@ -141,8 +141,9 @@
 mindmap
   root((Skills))
     Embedded IoT
-      MQTT, Wifi
-      ESP32
+      Protocol
+        MQTT, Wifi
+      ESP32, Arduino
       FreeRTOS
         Task, queue, semaphore
       PlatformIO
@@ -152,9 +153,11 @@ mindmap
     Signal
       mmWave, THz
       Filter Design
-      Simulink, Optisystem, Wireshark
+      Tools
+        Simulink, Optisystem, Wireshark
     Software
-      Matlab
+      Tools
+        Matlab, VScode
       Linux, Docker
       Web, App
     Computer Vision
@@ -164,7 +167,29 @@ mindmap
         Clutering
           K-mean, GMM
       Deep Learning
+        ANN
+          SLP, MLP
+          Sigmoid, Relu
+        CNN
+          Segmentation
+            Unet
+          Object detect
+            Yolo
+          Transfer learning
+            ResNet, VGG, EfficientNet
+        RNN
+          LSTM
       Image Processing
+        Histogram (HOG)
+        Hu'moment
+        Thresholding
+        Template Matching
+        Filter
+        Restore
+          Gaussion
+          Salt pepper
+          Demosaicing
+            Bilinear
 ```
 
 
