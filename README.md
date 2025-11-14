@@ -25,13 +25,13 @@
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> MQTT, FreeRTOS</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> MQTT, Sensors</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
