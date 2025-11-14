@@ -103,8 +103,6 @@ const engineer = {
 };
 ```
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 </p>
@@ -112,6 +110,11 @@ const engineer = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
+</p>
+
 
 ### 🏅 Quick Highlights
 
@@ -129,82 +132,16 @@ const engineer = {
 
 ---
 
-## 🛠️ Technical Arsenal
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ⚡ Hardware & PCB
-
-<div align="center">
-
-![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge&logo=blueprint&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-990000?style=for-the-badge&logo=analog&logoColor=white)
-
-</div>
-
-**Skills:**
-- PCB Layout & Schematic Design
-- RF Circuit Design (mmWave/THz)
-- Power Electronics (OTL Amplifiers)
-- Sensor Integration (ADC/I2C/SPI)
-- Signal Integrity Analysis
-
-</td>
-<td width="33%" valign="top">
-
-### 💻 Embedded Systems
-
-<div align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=rtems&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-</div>
-
-**Skills:**
-- FreeRTOS Development
-- ESP32, STM32, Arduino
-- MQTT, HTTP, WebSocket
-- PlatformIO, Arduino IDE
-- Embedded Linux & Shell
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI & Software
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-**Skills:**
-- TensorFlow, Keras, PyTorch
-- OpenCV, Image Processing
-- Jupyter, NumPy, Pandas
-- Docker, Git, CI/CD
-- C/C++, Python, JavaScript
-
-</td>
-</tr>
-</table>
-
----
-
 ## 💼 Project Portfolio
 
 <div align="center">
 
 ```yaml
 Legend:
-  ⭐⭐⭐⭐ Expert Level    |  ⭐⭐⭐ Advanced    |  ⭐⭐ Intermediate  |  ⭐ Learning
+  ⭐⭐⭐⭐ Expert Level
+  ⭐⭐⭐ Advanced
+  ⭐⭐ Intermediate
+  ⭐ Learning
   ✅ Production Ready     |  🔄 In Development
 ```
 
@@ -356,8 +293,6 @@ Legend:
 </table>
 
 ---
-
-## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
