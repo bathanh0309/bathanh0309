@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
 </p>
 
-<h3 align="center">🎓 Da Nang University of Science and Technology</h3>
+<h3 align="center">🎓 Da Nang University of Science and Technology🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
@@ -10,12 +10,6 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
-### 🎓 Education
-📍 Da Nang University of Science and Technology  
-🏛️ Faculty of Electronics and Telecommunication Engineering
-🔥🔌📡🤖 👨‍💻 💻🎯
-
 
 ### 🤝 Let's Connect
 <p align="center">
