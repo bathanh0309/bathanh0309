@@ -99,7 +99,7 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=495" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" width="100%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathanh0309&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%"/>
