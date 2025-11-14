@@ -10,10 +10,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌱 Current Focus
 ```mermaid
 mindmap
@@ -37,28 +33,13 @@ mindmap
       Image Processing
 ```
 
-</td>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
-</p>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### 📂 Featured Projects
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="75%" valign="top">
 
 ### 🚀 IoT & Embedded Projects
 | Tech Stack | Repository | 
@@ -84,11 +65,7 @@ mindmap
 | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> | [**image_processing**](https://github.com/bathanh0309/image_processing)<br/><sub>🖼️ Computer Vision Projects</sub> | 
 
 </td>
-<td width="40%" valign="top">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
-</p>
+<td width="25%" valign="top">
 
 ### 🏅 Quick Highlights
 
@@ -111,6 +88,31 @@ mindmap
 [![NVIDIA](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
 
 </div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" alt="Top Languages"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
+</p>
 
 </td>
 </tr>
