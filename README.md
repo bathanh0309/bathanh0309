@@ -149,8 +149,6 @@ mindmap
     Signal
       mmWave, THz
       ADC Filter Design
-      DSP Algorithms
-      FFT Analysis
     Software
       Linux
       Docker
