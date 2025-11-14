@@ -40,16 +40,16 @@
 
 <table>
 <tr>
-  <td width="50%" align="center">
+  <td width="60%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="50%" align="center">
+  <td width="40%" align="center">
     <b>Certificates</b>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🏆 Presidential</b>
+    <b>🏆Presidential</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
@@ -59,7 +59,7 @@
 </tr>
 <tr>
   <td align="center">
-    <b>🥇 First Prize</b>
+    <b>🥇First Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
@@ -69,7 +69,7 @@
 </tr>
 <tr>
   <td align="center">
-    <b>🥈 Second Prize</b>
+    <b>🥈Second Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
@@ -79,7 +79,7 @@
 </tr>
 <tr>
   <td align="center">
-    <b>🥉 Third Prize</b>
+    <b>🥉Third Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
