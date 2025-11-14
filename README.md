@@ -1,21 +1,85 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
 </p>
+
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
 
+---
 
-```                         
-⭐ Mức độ hiểu về dự án
-✅ Dự án đã hoàn thiện
-🔄 Dự án đang triển khai
+## 🎯 Professional Overview
+
+<table>
+<tr>
+<td width="60%">
+
+### About Me
+
+I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
+
+**Current Focus:**
+- 🔌 Designing IoT systems with MQTT integration
+- 📡 Signal processing and RF circuit design
+- 🤖 Computer vision and machine learning
+- 🛠️ Embedded systems with FreeRTOS
+
+**Philosophy:**  
+*"Innovation through practical engineering — bridging hardware and software for intelligent solutions."*
+
+</td>
+<td width="40%">
+
+```javascript
+const engineer = {
+  name: "Ba Thanh",
+  role: "Electronics Engineer",
+  location: "Vietnam 🇻🇳",
+  university: "Da Nang UST",
+  
+  expertise: [
+    "Embedded Systems",
+    "IoT & MQTT",
+    "PCB Design (Altium)",
+    "Signal Processing",
+    "Computer Vision"
+  ],
+  
+  currentlyLearning: [
+    "Deep Learning",
+    "Advanced RF Design",
+    "Edge AI Computing",
+    "Docker & DevOps"
+  ],
+  
+  interests: [
+    "Smart Home Systems",
+    "Wireless Communication",
+    "Image Processing",
+    "Research & Innovation"
+  ]
+};
 ```
 
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Project Portfolio
+
+```                         
+⭐ Project Understanding Level
+✅ Completed Projects
+🔄 Ongoing Development
+```
 
 <table>
 <tr>
   <td width="50%" valign="top">
 
-| Kỹ năng | Dự án | Mức độ | Trạng thái |
+### 🚀 Technical Projects
+
+| Skills | Project | Level | Status |
 |:--------|---------|:------:|:------:|
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ⭐⭐⭐⭐ | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ⭐⭐⭐ | ✅ |
@@ -32,18 +96,20 @@
   </td>
   <td width="50%" valign="top">
 
+### 🏆 Achievements & Certifications
+
 <table>
 <tr>
   <td width="75%" align="center">
-    <b>Thành tựu</b>
+    <b>Achievement</b>
   </td>
   <td width="25%" align="center">
-    <b>Nguồn</b>
+    <b>Source</b>
   </td>
 </tr>
 <tr>
   <td align="left">
-    <b>🏆Hiệu trưởng Vinh danh</b>
+    <b>🏆 President's Honor List</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
@@ -53,7 +119,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🥇Giải nhất khoa</b>
+    <b>🥇 1st Place - Faculty Award</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
@@ -63,7 +129,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🥈Giải nhì ý tưởng</b>
+    <b>🥈 2nd Place - Innovation Ideas</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
@@ -71,10 +137,9 @@
     </a>
   </td>
 </tr>
-  
 <tr>
   <td align="left">
-    <b>🥉Giải ba trung học</b>
+    <b>🥉 3rd Place - High School Competition</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
@@ -82,10 +147,9 @@
     </a>
   </td>
 </tr>
-
 <tr>
   <td align="left">
-    <b>🏅Giải khuyến khích UDN</b>
+    <b>🏅 Honorable Mention - UDN</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
@@ -95,7 +159,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🏅Giải khuyến khích bài báo</b>
+    <b>🏅 Honorable Mention - Research Paper</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
@@ -105,7 +169,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜NVIDIA Deep Learning</b>
+    <b>📜 NVIDIA Deep Learning</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
@@ -115,7 +179,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜DSAC Thiết kế vi mạch</b>
+    <b>📜 DSAC IC Design Certificate</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
@@ -125,7 +189,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜Nghiên cứu khoa học</b>
+    <b>📜 Scientific Research Certificate</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
@@ -141,3 +205,86 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔌 Hardware & PCB Design
+- **Altium Designer** - PCB Layout & Schematic
+- **Circuit Simulation** - LTspice, Proteus
+- **RF Design** - mmWave, THz Systems
+- **Power Electronics** - OTL Amplifiers
+- **Sensor Integration** - ADC, I2C, SPI
+
+</td>
+<td width="33%" valign="top">
+
+### 💻 Embedded Systems
+- **RTOS** - FreeRTOS Development
+- **Microcontrollers** - ESP32, STM32, Arduino
+- **Communication** - MQTT, HTTP, WebSocket
+- **Platform** - PlatformIO, Arduino IDE
+- **Linux** - Embedded Linux, Shell Scripting
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI & Software
+- **Machine Learning** - TensorFlow, Keras
+- **Computer Vision** - OpenCV, Image Processing
+- **Data Science** - Jupyter, NumPy, Pandas
+- **DevOps** - Docker, Git, CI/CD
+- **Programming** - C/C++, Python, JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bathanh0309&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  Feel free to explore my repositories and reach out for collaborations on<br/>
+  <b>Embedded Systems • IoT • Computer Vision • Signal Processing</b>
+</p>
+
+<p align="center">
+  <a href="https://zalo.me/0935636090" target="_blank">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
+  </a>
+  <a href="mailto:bathanh124ads@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/bathanh0309" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>💡 "Engineering the future, one project at a time"</i>
+</p>
