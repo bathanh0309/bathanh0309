@@ -32,7 +32,7 @@
 ### 🚀 IoT & Embedded Projects
 | Tech Stack | Repository | Level | Status |
 |:-----------|:-----------|:-----:|:------:|
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat&logoColor=white" height="18"/> | [**iot_freeaqua_rtos**](https://github.com/bathanh0309/iot_freeaqua_rtos)<br/><sub>🐠 Smart Aquarium Monitoring with FreeRTOS</sub> | ⭐⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> | [**iot_freeaqua_rtos**](https://github.com/bathanh0309/iot_freeaqua_rtos)<br/><sub>🐠 Smart Aquarium Monitoring with FreeRTOS</sub> | ⭐⭐⭐⭐ | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> | [**iot_parksense**](https://github.com/bathanh0309/iot_parksense)<br/><sub>🚗 IoT-based Smart Parking System</sub> | ⭐⭐⭐ | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> | [**iot_homehub**](https://github.com/bathanh0309/iot_homehub)<br/><sub>🏠 Central Smart Home Control Hub</sub> | ⭐⭐⭐ | ✅ |
 ### 📡 Signal Processing Projects
