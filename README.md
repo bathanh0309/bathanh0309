@@ -7,6 +7,30 @@
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
+### 🌱 Current Focus
+```mermaid
+mindmap
+  root((Skills))
+    Embedded IoT
+      MQTT
+      FreeRTOS
+      PCB Design
+    Signal
+      mmWave
+      THz
+      ADC Filter Design
+      DSP Algorithms
+      FFT Analysis
+    Software
+      Linux
+      Docker
+    Computer Vision
+      Machine Learning
+      Deep Learning
+      Image Processing
+```
+
+
 <table>
 <tr>
 <td width="60%" valign="top">
