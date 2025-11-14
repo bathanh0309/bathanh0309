@@ -11,8 +11,34 @@
 <table>
 <tr>
 <td width="60%">
-I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
-  
+## 🌱 Learning Journey
+
+<div align="center">
+
+**Currently Exploring:**
+
+```mermaid
+mindmap
+  root((Tech Stack 2025))
+    Cloud Native
+      Kubernetes
+      Service Mesh
+      Istio
+    Architecture
+      Microservices
+      Event Driven
+      CQRS
+    AI Integration
+      LangChain
+      Vector DB
+      RAG Systems
+    DevOps
+      GitOps
+      ArgoCD
+      Terraform
+```
+
+</div>
 ## 🤝 Let's Connect
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
