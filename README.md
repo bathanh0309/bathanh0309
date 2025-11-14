@@ -40,133 +40,110 @@
 
 <table>
 <tr>
-  <td width="37%" align="center">
+  <td width="50%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="32%" align="center">
-    <b>Certifications</b>
-  </td>
-  <td width="31%" align="center">
-    <b>Social</b>
+  <td width="50%" align="center">
+    <b>Certificates</b>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🏆Presidential</b><br/>
+    <b>🏆 Presidential</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
-      <img src="https://img.shields.io/badge/VIEW-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>📜NVIDIA</b><br/>
-    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
-      <img src="https://img.shields.io/badge/VIEW-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>📱Zalo</b><br/>
-    <a href="https://zalo.me/0935636090">
-      <img src="https://img.shields.io/badge/CONNECT-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🥇 First Prize</b><br/>
+    <b>🥇 First Prize</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
-      <img src="https://img.shields.io/badge/VIEW-FFD700?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>DSAC</b><br/>
-    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
-      <img src="https://img.shields.io/badge/VIEW-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>📧Email</b><br/>
-    <a href="mailto:bathanh124ads@gmail.com">
-      <img src="https://img.shields.io/badge/SEND-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🥈Second Prize</b><br/>
+    <b>🥈 Second Prize</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
-      <img src="https://img.shields.io/badge/VIEW-C0C0C0?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>AI Course</b><br/>
-    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
-      <img src="https://img.shields.io/badge/VIEW-0A84FF?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>💼LinkedIn</b><br/>
-    <a href="https://www.linkedin.com/in/bathanh0309">
-      <img src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🥉Third Prize</b><br/>
+    <b>🥉 Third Prize</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/VIEW-CD7F32?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>HackerRank</b><br/>
-    <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/VIEW-4CAF50?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b>💻GitHub</b><br/>
-    <a href="https://github.com/bathanh0309">
-      <img src="https://img.shields.io/badge/VISIT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🏅UDN</b><br/>
+    <b>🏅 UDN</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/VIEW-9E9E9E?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b></b><br/>
-    <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b></b><br/>
-    <a href="https://github.com/bathanh0309">
-      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <b>🏅Article</b><br/>
+    <b>🏅 Article</b>
+  </td>
+  <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
-      <img src="https://img.shields.io/badge/VIEW-9E9E9E?style=for-the-badge&logo=googledrive&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
     </a>
   </td>
+</tr>
+<tr>
   <td align="center">
-    <b></b><br/>
+    <b>📜 NVIDIA</b>
+  </td>
+  <td align="center">
+    <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
+      <img src="https://img.icons8.com/color/48/nvidia.png" width="32" alt="Certificate"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>📜 DSAC</b>
+  </td>
+  <td align="center">
+    <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>📜 AI Course</b>
+  </td>
+  <td align="center">
+    <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
+      <img src="https://img.icons8.com/color/48/google-drive.png" width="32" alt="Certificate"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <b>📜 HackerRank</b>
+  </td>
+  <td align="center">
     <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logo=certificate&logoColor=white"/>
-    </a>
-  </td>
-  <td align="center">
-    <b></b><br/>
-    <a href="https://github.com/bathanh0309">
-      <img src="https://img.shields.io/badge/-9E9E9E?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.icons8.com/color/48/hackerrank.png" width="32" alt="Certificate"/>
     </a>
   </td>
 </tr>
