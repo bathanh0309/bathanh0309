@@ -150,7 +150,7 @@ mindmap
       Tools
         PlatformIO, Proteus, Altium Design
     Signal
-      mmWave, THz, Filter Design
+      mmWave, THz, ADC
       Tools
         Simulink, Optisystem, Wireshark
     Software
