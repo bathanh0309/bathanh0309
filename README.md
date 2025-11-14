@@ -189,7 +189,7 @@ mindmap
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Thank%20You%20for%20visiting&fontSize=60&fontColor=fff&animation=fadeIn&desc=Crafting%20Tomorrow's%20Digital%20Solutions&descSize=20&descAlignY=70" width="100%"/>
+</div>
 
