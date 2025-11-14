@@ -58,7 +58,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🏆Vinh danh</b>
+    <b>🏆Hiệu trưởng Vinh danh</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
