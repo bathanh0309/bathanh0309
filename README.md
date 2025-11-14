@@ -176,6 +176,9 @@ mindmap
         Regression
         Clustering
       Deep Learning
+        ANN
+          SLP
+          MLP
         CNN
           Segmentation
           Object Detection
