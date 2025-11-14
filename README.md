@@ -11,9 +11,6 @@
 <table>
 <tr>
 <td width="60%">
-
-## About Me
-
 I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
 
 <p align="center">
