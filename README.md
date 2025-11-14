@@ -20,9 +20,9 @@
 </p>
 
 ```
- - ⭐ Mức độ hiểu về dự án
- - ✅ Dự án đã hoàn thiện
- - 🔄 Dự án đang thực hiện
+⭐ Mức độ hiểu về dự án
+✅ Dự án đã hoàn thiện
+🔄 Dự án đang thực hiện
 ```
 
 ---
