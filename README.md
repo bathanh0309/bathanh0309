@@ -136,27 +136,95 @@ mindmap
 🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡🔌📡👁️📊❤️
 </div>
 
+
+
 ### 📂 Featured Projects
 <table>
 <tr>
-<td width="75%" valign="top">
-| Skill Area | Tech Stack | Featured Project |
-|:-----------|:-----------|:-----------------|
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) |
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors | [Smart Parking](https://github.com/bathanh0309/iot_parksense) |
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB | [Home Hub](https://github.com/bathanh0309/iot_homehub) |
-| 📡 Signal | MATLAB, Simulink | [ADC Simulation](https://github.com/bathanh0309/sp_simu_ADC) |
-| 📡 Signal | mmWave, THz, DSP | [mmWave Research](https://github.com/bathanh0309/sp_mmWave_THz) |
-| 📡 Signal | Analog, Power Electronics | [OTL Amplifier](https://github.com/bathanh0309/sp_Amplifier_OTL) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++ | [RRT Path Planning](https://github.com/bathanh0309/json_RRT) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO | [Vision Gate](https://github.com/bathanh0309/json_Vision_Gate) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow | [Machine Learning](https://github.com/bathanh0309/machine_learning) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV | [Deep Learning](https://github.com/bathanh0309/deep_learning) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python | [Image Processing](https://github.com/bathanh0309/image_processing) |
+
+<!-- LEFT SIDE - FEATURED PROJECTS -->
+<td width="70%" valign="top">
+
+<table>
+<tr>
+<th>Skill Area</th>
+<th>Tech Stack</th>
+<th>Featured Project</th>
+</tr>
+
+<tr>
+<td>🔌 IoT</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS</td>
+<td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>Smart Aquarium</b></a></td>
+</tr>
+
+<tr>
+<td>🔌 IoT</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors</td>
+<td><a href="https://github.com/bathanh0309/iot_parksense"><b>Smart Parking</b></a></td>
+</tr>
+
+<tr>
+<td>🔌 IoT</td>
+<td><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB</td>
+<td><a href="https://github.com/bathanh0309/iot_homehub"><b>Home Hub</b></a></td>
+</tr>
+
+<tr>
+<td>📡 Signal</td>
+<td>MATLAB, Simulink</td>
+<td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>ADC Simulation</b></a></td>
+</tr>
+
+<tr>
+<td>📡 Signal</td>
+<td>mmWave, THz, DSP</td>
+<td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>mmWave Research</b></a></td>
+</tr>
+
+<tr>
+<td>📡 Signal</td>
+<td>Analog, Power Electronics</td>
+<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>OTL Amplifier</b></a></td>
+</tr>
+
+<tr>
+<td>🤖 AI/CV</td>
+<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++</td>
+<td><a href="https://github.com/bathanh0309/json_RRT"><b>RRT Path Planning</b></a></td>
+</tr>
+
+<tr>
+<td>🤖 AI/CV</td>
+<td><img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO</td>
+<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>Vision Gate</b></a></td>
+</tr>
+
+<tr>
+<td>🤖 AI/CV</td>
+<td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow</td>
+<td><a href="https://github.com/bathanh0309/machine_learning"><b>Machine Learning</b></a></td>
+</tr>
+
+<tr>
+<td>🤖 AI/CV</td>
+<td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV</td>
+<td><a href="https://github.com/bathanh0309/deep_learning"><b>Deep Learning</b></a></td>
+</tr>
+
+<tr>
+<td>🤖 AI/CV</td>
+<td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python</td>
+<td><a href="https://github.com/bathanh0309/image_processing"><b>Image Processing</b></a></td>
+</tr>
+
+</table>
+
 </td>
 
-<td width="25%" valign="top">
-  
+<!-- RIGHT SIDE - HIGHLIGHTS -->
+<td width="30%" valign="top">
+
 ### 🏅 Quick Highlights
 <div align="left">
 
@@ -164,20 +232,21 @@ mindmap
 
 [![1st Place](https://img.shields.io/badge/🥇_1st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
-[![2st Place](https://img.shields.io/badge/🥈_2st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
+[![2nd Place](https://img.shields.io/badge/🥈_2nd_Place-Idea_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
 
-[![3st Place](https://img.shields.io/badge/🥉_3st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
+[![3rd Place](https://img.shields.io/badge/🥉_3rd_Place-High_School-bronze?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
 
-[![Ecourage Place](https://img.shields.io/badge/🏅_UDN_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
+[![UDN Award](https://img.shields.io/badge/🏅_UDN_Award-Encouragement-blue?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
 
-[![Article Place](https://img.shields.io/badge/🏅_Article_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
+[![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
 [![NVIDIA](https://img.shields.io/badge/📜_NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
 
-[![NVIDIA](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
+[![DSAC](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-4285F4?style=flat-square)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
 
 </div>
 
 </td>
+
 </tr>
 </table>
