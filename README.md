@@ -32,10 +32,10 @@ I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Sig
 
 ```javascript
 const engineer = {
-  name: "Ba Thanh",
+  name: "Nguyen Ba Thanh",
   role: "Electronics Engineer",
   location: "Vietnam 🇻🇳",
-  university: "Da Nang UST",
+  university: "ETE.DUT.UDN.VN",
   
   expertise: [
     "Embedded Systems",
@@ -43,13 +43,6 @@ const engineer = {
     "PCB Design (Altium)",
     "Signal Processing",
     "Computer Vision"
-  ],
-  
-  currentlyLearning: [
-    "Deep Learning",
-    "Advanced RF Design",
-    "Edge AI Computing",
-    "Docker & DevOps"
   ],
   
   interests: [
