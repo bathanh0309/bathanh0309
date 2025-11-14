@@ -144,10 +144,9 @@ mindmap
     🔌 Hardware IoT
       Microcontrollers
         ESP32
-        Arduino
+        STM32
       RTOS
         FreeRTOS
-          Task, queue, semaphore
       Protocols
         MQTT
         WiFi
