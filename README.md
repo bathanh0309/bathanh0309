@@ -26,30 +26,30 @@
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ✅ |
 | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ✅ |
-| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
-| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
-| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
 | 📡🛰️ Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ✅ |
 | 📡🛰️ Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ✅ |
 | 📡🛰️ Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ✅ |
 | <img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/><img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/> Algorithm/Embedded | [json_RRT](https://github.com/bathanh0309/json_RRT) | ✅ |
 | <img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Algorithm/Embedded | [json_Vision_Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Machine Learning | [machine_learning](https://github.com/bathanh0309/machine_learning) | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Deep Learning | [deep_learning](https://github.com/bathanh0309/deep_learning) | 🔄 |
+| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> Image Processing | [image_processing](https://github.com/bathanh0309/image_processing) | 🔄 |
 
   </td>
   <td width="50%" valign="top">
 
 <table>
 <tr>
-  <td width="60%" align="center">
+  <td width="50%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="40%" align="center">
+  <td width="50%" align="center">
     <b>Certificates</b>
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🏆Presidential</b>
+  <td align="center">
+    <b>🏆 Presidential</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
@@ -58,8 +58,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🥇First Prize</b>
+  <td align="center">
+    <b>🥇 First Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
@@ -68,8 +68,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🥈Second Prize</b>
+  <td align="center">
+    <b>🥈 Second Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
@@ -78,8 +78,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🥉Third Prize</b>
+  <td align="center">
+    <b>🥉 Third Prize</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
@@ -88,8 +88,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🏅UDN</b>
+  <td align="center">
+    <b>🏅 UDN</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
@@ -98,8 +98,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>🏅Article</b>
+  <td align="center">
+    <b>🏅 Article</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
@@ -108,8 +108,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>📜NVIDIA</b>
+  <td align="center">
+    <b>📜 NVIDIA</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
@@ -118,8 +118,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>📜DSAC</b>
+  <td align="center">
+    <b>📜 DSAC</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
@@ -128,8 +128,8 @@
   </td>
 </tr>
 <tr>
-  <td align="left">
-    <b>📜Research</b>
+  <td align="center">
+    <b>📜 AI Course</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
@@ -137,9 +137,16 @@
     </a>
   </td>
 </tr>
-  
-
-
+<tr>
+  <td align="center">
+    <b>📜 HackerRank</b>
+  </td>
+  <td align="center">
+    <a href="https://www.hackerrank.com/certificates/92134261cc77">
+      <img src="https://img.icons8.com/color/48/hackerrank.png" width="32" alt="Certificate"/>
+    </a>
+  </td>
+</tr>
 </table>
 
   </td>
