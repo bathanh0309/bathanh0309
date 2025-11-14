@@ -167,9 +167,9 @@ mindmap
       Web
         Frontend
       Tools
-        VSCode
+        VSCode venv
         MATLAB
-        Python venv
+        C/C++
     🤖 AI 
       Machine Learning
         Classification
