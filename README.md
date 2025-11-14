@@ -3,7 +3,6 @@
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
-<h5 align="center">🎓 Faculty of Electronics and Telecommunication Engineering</h5>
 
 <p align="center">
     <a href="https://zalo.me/0935636090" target="_blank"
