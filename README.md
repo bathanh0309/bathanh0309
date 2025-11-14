@@ -128,7 +128,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜DSAC ECG Thiết kế vi mạch</b>
+    <b>📜DSAC Thiết kế vi mạch</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
