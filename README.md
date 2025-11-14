@@ -155,9 +155,9 @@ mindmap
         Simulink, Optisystem, Wireshark
     Software
       Tools
-        Matlab, VScode
-      Linux, Docker
+        Matlab, VScode, venv
       Web, App
+        FE, BE, DB
     Computer Science
       Machine Learning
         Classification
