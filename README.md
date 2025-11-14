@@ -45,11 +45,6 @@
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> | [deep_learning](https://github.com/bathanh0309/deep_learning) | ⭐⭐⭐ | 🔄 |
 | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> | [image_processing](https://github.com/bathanh0309/image_processing) | ⭐⭐⭐ | 🔄 |
 
-**Chú thích:**
-- ⭐ Mức độ hiểu về dự án
-- ✅ Dự án đã hoàn thiện
-- 🔄 Dự án đang thực hiện
-
   </td>
   <td width="50%" valign="top">
 
