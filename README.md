@@ -3,10 +3,9 @@
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
----
 
 ## 🎯 Overview
 
