@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
 </p>
-
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
-
 <p align="center">
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
@@ -14,7 +12,7 @@
   <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
-  <a href="https://www.facebook.com/bathanh0309/" target="_blank"
+  <a href="https://www.facebook.com/yourprofile" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#1877F2;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/facebook.png" width="32" alt="Facebook" style="border-radius:4px;"/></a>
 </p>
