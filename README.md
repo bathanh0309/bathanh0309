@@ -140,19 +140,17 @@
 ```mermaid
 mindmap
   root((Skills))
-    Embedded IoT
+    Hardware IoT
       Protocol
         MQTT, Wifi
-      ESP32, Arduino
+      Controller
+        ESP32, Arduino
       FreeRTOS
         Task, queue, semaphore
-      PlatformIO
-    Hardware
-      Proteus, Altium Design
-      Oscilloscope
+      Tools
+        PlatformIO, Proteus, Altium Design
     Signal
-      mmWave, THz
-      Filter Design
+      mmWave, THz, Filter Design
       Tools
         Simulink, Optisystem, Wireshark
     Software
