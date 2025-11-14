@@ -12,15 +12,10 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻
 ### 🎓 Education
 📍 Da Nang University of Science and Technology  
 🏛️ Faculty of Electronics and Telecommunication Engineering
-
-### 🔥 Current Focus🔌📡
-- 🤖 **Computer Vision** and Machine Learning
-- 🛠️ **PCB Design** with Altium Designer
-- 🐳 **Docker & Linux** for embedded applications
+🔥🔌📡🤖 👨‍💻 💻
 
 ### 🌱 Current Focus
 ```mermaid
@@ -29,7 +24,7 @@ mindmap
     Embedded IoT
       MQTT
       FreeRTOS
-      Model Optimization
+      PCB Design
     Signal
       mmWave
       THz
@@ -38,7 +33,11 @@ mindmap
       FFT Analysis
     Software
       Linux
-      Docker Compose
+      Docker
+    Computer Vision
+      Machine Learning
+      Deep Learning
+      Image Processing
 ```
 
 
