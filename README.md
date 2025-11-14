@@ -128,8 +128,8 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
-    <b>📜 AI Course</b>
+  <td align="left">
+    <b>📜 Research</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
