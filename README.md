@@ -24,9 +24,6 @@
 ✅ Dự án đã hoàn thiện
 🔄 Dự án đang thực hiện
 ```
-
----
-
 <table>
 <tr>
   <td width="50%" valign="top">
