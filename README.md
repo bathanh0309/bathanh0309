@@ -61,37 +61,6 @@ mindmap
 </td>
 <td width="40%" valign="top">
 
-```javascript
-const engineer = {
-  name: "Nguyen Ba Thanh",
-  role: "Electronics Engineer",
-  location: "Vietnam 🇻🇳",
-  university: "ETE.DUT.UDN.VN",
-  
-  expertise: [
-    "Embedded Systems",
-    "IoT & MQTT",
-    "PCB Design (Altium)",
-    "Signal Processing",
-    "Computer Vision"
-  ],
-  
-  currentLearning: [
-    "Edge AI & TinyML",
-    "Advanced RF Design",
-    "Docker & DevOps",
-    "DSP Algorithms"
-  ],
-  
-  interests: [
-    "Smart Home Systems",
-    "Wireless Communication",
-    "Image Processing",
-    "Research & Innovation"
-  ]
-};
-```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 </p>
