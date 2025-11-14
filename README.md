@@ -37,7 +37,7 @@
 
 <tr>
 <td>Hardware</td>
-<td>Altium, DC/AC</td>
+<td>Altium, DC/AC, sensors, Arduino</td>
 <td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
 
