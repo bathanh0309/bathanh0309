@@ -58,7 +58,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥇First Prize</b>
   </td>
   <td align="center">
@@ -68,7 +68,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥈Second Prize</b>
   </td>
   <td align="center">
@@ -78,7 +78,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥉Third Prize</b>
   </td>
   <td align="center">
@@ -88,8 +88,8 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
-    <b>🏅 UDN</b>
+  <td align="left">
+    <b>🏅UDN</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
@@ -98,8 +98,8 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
-    <b>🏅 Article</b>
+  <td align="left">
+    <b>🏅Article</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
@@ -108,7 +108,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>📜 NVIDIA</b>
   </td>
   <td align="center">
@@ -118,7 +118,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>📜 DSAC</b>
   </td>
   <td align="center">
@@ -128,8 +128,8 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
-    <b>📜 AI Course</b>
+  <td align="left">
+    <b>📜Research</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1NluBnhDf06USY6wm1r2R16zXldbwUppn/view">
