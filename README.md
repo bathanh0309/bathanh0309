@@ -3,7 +3,9 @@
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 ---
 
 ## 🎯 Overview
@@ -52,10 +54,6 @@ mindmap
   <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
 
 </td>
 <td width="40%" valign="top">
