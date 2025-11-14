@@ -17,7 +17,10 @@ mindmap
     Embedded IoT
       MQTT
       FreeRTOS
-      PCB Design
+      PlatformIO
+    Hardware
+      Simulation Proteus
+      PCB Altium Design
     Signal
       mmWave
       THz
@@ -39,7 +42,7 @@ mindmap
 <tr>
 
 <!-- LEFT SIDE - FEATURED PROJECTS -->
-<td width="70%" valign="top">
+<td width="75%" valign="top">
 
 <table>
 <tr>
@@ -119,9 +122,9 @@ mindmap
 </td>
 
 <!-- RIGHT SIDE - HIGHLIGHTS -->
-<td width="30%" valign="top">
+<td width="25%" valign="top">
 
-### 🏅 Quick Highlights
+### 🎯Achievements
 <div align="left">
 
 [![President's Honor](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
