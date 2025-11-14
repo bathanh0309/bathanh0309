@@ -2,7 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Electronics+Engineer" />
 </p>
 
-<h3 align="center">🎓 Da Nang University of Science and Technology🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡🔌📡👁️📊 </h3>
+<h3 align="center">🎓 Da Nang University of Science and Technology</h3>
+🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡🔌📡👁️📊
+### 🤝 Let's Connect
+<p align="center">
+    <a href="https://zalo.me/0935636090" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
+   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
+  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
+   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bathanh0309&color=4285F4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
@@ -35,17 +48,6 @@ mindmap
 <tr>
 <td width="60%" valign="top">
 
-### 🤝 Let's Connect
-<p align="center">
-    <a href="https://zalo.me/0935636090" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
-   <a href="mailto:bathanh124ads@gmail.com" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#D14836;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-<img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Gmail" style="border-radius:4px;"/></a>
-  <a href="https://www.linkedin.com/in/bathanh0309" target="_blank"
-   style="display:inline-flex;align-items:center;gap:10px;background:#0077B5;color:#white;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="Linkedin" style="border-radius:4px;"/></a>
   
 ### 🚀 IoT & Embedded Projects
 | Tech Stack | Repository | Level | Status |
