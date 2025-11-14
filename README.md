@@ -22,8 +22,7 @@ mindmap
       Simulation Proteus
       PCB Altium Design
     Signal
-      mmWave
-      THz
+      mmWave, THz
       ADC Filter Design
       DSP Algorithms
       FFT Analysis
@@ -61,61 +60,61 @@ mindmap
 <tr>
 <td>🔌 IoT</td>
 <td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors</td>
-<td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td>
+<td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>🔌 IoT</td>
 <td><img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB</td>
-<td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td>
+<td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>📡 Signal</td>
 <td>MATLAB, Simulink</td>
-<td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td>
+<td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>📡 Signal</td>
 <td>mmWave, THz, DSP</td>
-<td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave Research</b></a></td>
+<td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave Research</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>📡 Signal</td>
 <td>Analog, Power Electronics</td>
-<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td>
+<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
 <td><img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++</td>
-<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td>
+<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
 <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO</td>
-<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td>
+<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
 <td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow</td>
-<td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td>
+<td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
 <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV</td>
-<td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td>
+<td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>🤖 AI/CV</td>
 <td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python</td>
-<td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td>
+<td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td><td>🔄</td>
 </tr>
 
 </table>
@@ -123,7 +122,7 @@ mindmap
 </td>
 
 <!-- RIGHT SIDE - HIGHLIGHTS -->
-<td width="25%" valign="top">
+<td width="35%" valign="top">
 
 ### 🎯Achievements
 <div align="left">
