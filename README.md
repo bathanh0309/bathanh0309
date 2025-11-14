@@ -25,19 +25,19 @@
 
 <tr>
 <td>Hardware</td>
-<td>MQTT, FreeRTOS</td>
+<td>Altium, MQTT, ESP32, FreeRTOS, App</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
 <td>Hardware</td>
-<td>MQTT, Sensors</td>
+<td>Altium, MQTT, ESP32, Web</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>Hardware</td>
-<td>Altium, PCB</td>
+<td>Altium, DC/AC</td>
 <td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
 
@@ -49,43 +49,43 @@
 
 <tr>
 <td>Signal</td>
-<td>mmWave, THz, DSP</td>
+<td>mmWave, THz, Beamforming, LSTM</td>
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave Research</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>Signal</td>
-<td>Analog, Power Electronics</td>
+<td>Analog, Power Electronics, Oscilloscope</td>
 <td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
-<td><img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/><img src="https://img.icons8.com/color/48/python.png" width="20"/></td>
+<td>Algothirm, Yolov3, Jetson Nano</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
-<td><img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Docker, PlatformIO</td>
+<td>MQTT, PlatformIO, ESP32, Yolov8, Docker</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
-<td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> Jupyter, TensorFlow</td>
+<td>Jupyter, TensorFlow</td>
 <td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
-<td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> TensorFlow, OpenCV</td>
+<td>TensorFlow, OpenCV</td>
 <td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
-<td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> OpenCV, Python</td>
+<td>OpenCV, Python</td>
 <td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td><td>🔄</td>
 </tr>
 
