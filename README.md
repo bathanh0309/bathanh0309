@@ -12,23 +12,20 @@
 <tr>
 <td width="60%" valign="top">
 
-### 👨‍💻 About Me
-
-I'm an **Electronics Engineer** specializing in **Embedded Systems, IoT, and Signal Processing** with hands-on experience in PCB design, RTOS development, and machine learning applications. Based in Vietnam 🇻🇳, I transform innovative ideas into practical hardware and software solutions.
+### 👨‍💻
 ### 🎓 Education
-**B.Eng. Electronics & Telecommunications**  
 📍 Da Nang University of Science and Technology  
-🏛️ Faculty: ETE.DUT.UDN.VN
+🏛️ Faculty of Electronics and Telecommunication Engineering
+
 ### 🔥 Current Focus🔌📡
 - 🤖 **Computer Vision** and Machine Learning
 - 🛠️ **PCB Design** with Altium Designer
 - 🐳 **Docker & Linux** for embedded applications
 
-### 🌱 2025 Learning Roadmap
-
+### 🌱 Current Focus
 ```mermaid
 mindmap
-  root((Tech Journey))
+  root((Skills))
     Embedded IoT
       MQTT
       FreeRTOS
