@@ -141,9 +141,10 @@
 mindmap
   root((Skills))
     Embedded IoT
-      MQTT, Broker
+      MQTT, Wifi
       ESP32
       FreeRTOS
+        Task, queue, semaphore
       PlatformIO
     Hardware
       Proteus, Altium Design
