@@ -136,7 +136,7 @@
 </table>
 
 ---
-### 🌱 Current Focus
+### 🌱 Roadmap
 ```mermaid
 mindmap
   root((Skills))
