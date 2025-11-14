@@ -40,15 +40,15 @@
 
 <table>
 <tr>
-  <td width="50%" align="center">
+  <td width="60%" align="center">
     <b>Achievements</b>
   </td>
-  <td width="50%" align="center">
+  <td width="40%" align="center">
     <b>Certificates</b>
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🏆 Presidential</b>
   </td>
   <td align="center">
@@ -58,7 +58,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥇 First Prize</b>
   </td>
   <td align="center">
@@ -68,7 +68,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥈 Second Prize</b>
   </td>
   <td align="center">
@@ -78,7 +78,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🥉 Third Prize</b>
   </td>
   <td align="center">
@@ -88,7 +88,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🏅 UDN</b>
   </td>
   <td align="center">
@@ -98,7 +98,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>🏅 Article</b>
   </td>
   <td align="center">
@@ -108,7 +108,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>📜 NVIDIA</b>
   </td>
   <td align="center">
@@ -118,7 +118,7 @@
   </td>
 </tr>
 <tr>
-  <td align="center">
+  <td align="left">
     <b>📜 DSAC</b>
   </td>
   <td align="center">
@@ -137,18 +137,11 @@
     </a>
   </td>
 </tr>
-<tr>
-  <td align="center">
-    <b>📜 HackerRank</b>
-  </td>
-  <td align="center">
-    <a href="https://www.hackerrank.com/certificates/92134261cc77">
-      <img src="https://img.icons8.com/color/48/hackerrank.png" width="32" alt="Certificate"/>
-    </a>
-  </td>
-</tr>
-</table>
 
+
+
+
+</table>
   </td>
 </tr>
 </table>
