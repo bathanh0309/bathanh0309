@@ -23,9 +23,9 @@
 
 | Skills | Project | Rating | Status |
 |:--------:|---------|:------:|:------:|
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ⭐⭐⭐⭐⭐ | ✅ |
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/><img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ⭐⭐⭐⭐⭐ | ✅ |
-| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ⭐⭐⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_freeaqua_rtos](https://github.com/bathanh0309/iot_freeaqua_rtos) | ⭐⭐⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/> <img src="https://cdn.simpleicons.org/mqtt/660066" width="20"/> Hardware/Embedded | [iot_parksense](https://github.com/bathanh0309/iot_parksense) | ⭐⭐⭐⭐⭐ | ✅ |
+| <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="20"/>  Hardware/Embedded | [iot_homehub](https://github.com/bathanh0309/iot_homehub) | ⭐⭐⭐⭐⭐ | ✅ |
 | 📡🛰️ Signal Processing | [sp_simuADC](https://github.com/bathanh0309/sp_simu_ADC) | ⭐⭐⭐⭐ | ✅ |
 | 📡🛰️ Signal Processing | [sp_mmWave_THz](https://github.com/bathanh0309/sp_mmWave_THz) | ⭐⭐⭐⭐ | ✅ |
 | 📡🛰️ Signal Processing | [sp_Amplifier_OTL](https://github.com/bathanh0309/sp_Amplifier_OTL) | ⭐⭐⭐⭐ | ✅ |
