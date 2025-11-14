@@ -36,7 +36,6 @@ mindmap
 ---
 
 ### 📂 Featured Projects
-
 <table>
 <tr>
 <td width="75%" valign="top">
@@ -65,10 +64,12 @@ mindmap
 | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> | [**image_processing**](https://github.com/bathanh0309/image_processing)<br/><sub>🖼️ Computer Vision Projects</sub> | 
 
 </td>
+
+
+
 <td width="25%" valign="top">
-
+  
 ### 🏅 Quick Highlights
-
 <div align="left">
 
 [![President's Honor](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
@@ -135,7 +136,10 @@ mindmap
 🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡🔌📡👁️📊❤️
 </div>
 
-
+### 📂 Featured Projects
+<table>
+<tr>
+<td width="75%" valign="top">
 | Skill Area | Tech Stack | Featured Project |
 |:-----------|:-----------|:-----------------|
 | 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) |
@@ -149,3 +153,31 @@ mindmap
 | 🤖 AI/CV | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow | [Machine Learning](https://github.com/bathanh0309/machine_learning) |
 | 🤖 AI/CV | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV | [Deep Learning](https://github.com/bathanh0309/deep_learning) |
 | 🤖 AI/CV | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python | [Image Processing](https://github.com/bathanh0309/image_processing) |
+</td>
+
+<td width="25%" valign="top">
+  
+### 🏅 Quick Highlights
+<div align="left">
+
+[![President's Honor](https://img.shields.io/badge/🏆_President's_Honor-Academic_Excellence-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
+
+[![1st Place](https://img.shields.io/badge/🥇_1st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
+
+[![2st Place](https://img.shields.io/badge/🥈_2st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
+
+[![3st Place](https://img.shields.io/badge/🥉_3st_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
+
+[![Ecourage Place](https://img.shields.io/badge/🏅_UDN_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
+
+[![Article Place](https://img.shields.io/badge/🏅_Article_Place-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
+
+[![NVIDIA](https://img.shields.io/badge/📜_NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
+
+[![NVIDIA](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
+
+</div>
+
+</td>
+</tr>
+</table>
