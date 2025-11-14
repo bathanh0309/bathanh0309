@@ -89,7 +89,7 @@
   
 <tr>
   <td align="left">
-    <b>🥉Giải ba</b>
+    <b>🥉Giải ba trung học</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view?usp=drive_link">
@@ -100,7 +100,7 @@
 
 <tr>
   <td align="left">
-    <b>🏅Giải khuyến khích</b>
+    <b>🏅Giải khuyến khích UDN</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view?usp=drive_link">
@@ -110,7 +110,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🏅Giải khuyến khích</b>
+    <b>🏅Giải khuyến khích bài báo</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view?usp=drive_link">
