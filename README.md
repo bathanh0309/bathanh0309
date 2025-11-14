@@ -160,7 +160,7 @@ mindmap
         Matlab, VScode
       Linux, Docker
       Web, App
-    Computer Vision
+    Computer Science
       Machine Learning
         Classification
         Regression
