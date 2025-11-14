@@ -49,12 +49,13 @@ mindmap
 <th>Skill Area</th>
 <th>Tech Stack</th>
 <th>Featured Project</th>
+<th>Status</th>
 </tr>
 
 <tr>
 <td>🔌 IoT</td>
 <td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS</td>
-<td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td>
+<td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
