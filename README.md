@@ -176,8 +176,7 @@ mindmap
         Clustering
       Deep Learning
         ANN
-          SLP
-          MLP
+          SLP, MLP, Sigmoid, Relu
         CNN
           Segmentation
           Object Detection
