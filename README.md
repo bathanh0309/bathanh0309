@@ -184,7 +184,7 @@ mindmap
         RNN
           LSTM
       Image Processing
-        Feature (HOG, Hu'moment)
+        Feature
         Image Filtering
         Image Restore
         Template Matching
