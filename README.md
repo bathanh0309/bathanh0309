@@ -134,3 +134,15 @@ mindmap
 <div align="center">
 🎓 📍🏛️ 🔥🔌📡🤖 👨‍💻 💻🎯💡🔌📡👁️📊❤️
 </div>
+
+
+
+### 🌱 Current Focus
+[mindmap...]
+
+**📌 Quick Links:** 
+🐠 [MQTT Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) | 
+🚗 [Parking](https://github.com/bathanh0309/iot_parksense) | 
+📡 [mmWave](https://github.com/bathanh0309/sp_mmWave_THz) | 
+🧠 [ML](https://github.com/bathanh0309/machine_learning) | 
+🔮 [DL](https://github.com/bathanh0309/deep_learning)
