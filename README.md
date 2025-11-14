@@ -137,8 +137,16 @@ mindmap
 
 
 
-| Skill Area | Featured Project |
-|:-----------|:-----------------|
-| 🔌 IoT | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) |
-| 📡 Signal | [mmWave Research](https://github.com/bathanh0309/sp_mmWave_THz) |
-| 🤖 AI/CV | [Deep Learning](https://github.com/bathanh0309/deep_learning) |
+| Skill Area | Tech Stack | Featured Project |
+|:-----------|:-----------|:-----------------|
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) |
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors | [Smart Parking](https://github.com/bathanh0309/iot_parksense) |
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB | [Home Hub](https://github.com/bathanh0309/iot_homehub) |
+| 📡 Signal | MATLAB, Simulink | [ADC Simulation](https://github.com/bathanh0309/sp_simu_ADC) |
+| 📡 Signal | mmWave, THz, DSP | [mmWave Research](https://github.com/bathanh0309/sp_mmWave_THz) |
+| 📡 Signal | Analog, Power Electronics | [OTL Amplifier](https://github.com/bathanh0309/sp_Amplifier_OTL) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++ | [RRT Path Planning](https://github.com/bathanh0309/json_RRT) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO | [Vision Gate](https://github.com/bathanh0309/json_Vision_Gate) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow | [Machine Learning](https://github.com/bathanh0309/machine_learning) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV | [Deep Learning](https://github.com/bathanh0309/deep_learning) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python | [Image Processing](https://github.com/bathanh0309/image_processing) |
