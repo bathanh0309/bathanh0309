@@ -117,8 +117,7 @@
 <p align="center">
   <a href="https://www.facebook.com/bathanh0309" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#1877F2;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
-  <img src="https://img.icons8.com/color/48/facebook.png" width="32" alt="Facebook" style="border-radius:4px;"/>
-</a>
+  <img src="https://img.icons8.com/color/48/facebook.png" width="32" alt="Facebook" style="border-radius:4px;"/></a>
     <a href="https://zalo.me/0935636090" target="_blank"
    style="display:inline-flex;align-items:center;gap:10px;background:#0068FF;color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;">
   <img src="https://img.icons8.com/color/48/zalo.png" width="32" alt="Zalo" style="border-radius:4px;"/></a>
