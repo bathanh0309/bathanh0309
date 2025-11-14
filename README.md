@@ -183,10 +183,10 @@ mindmap
           Transfer Learning
         RNN
           LSTM
-      Computer Vision
-        Feature Extraction
+      Image Processing
+        Feature (HOG, Hu'moment)
         Image Filtering
-        Image Restoration
+        Image Restore
         Template Matching
 ```
 
