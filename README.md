@@ -25,7 +25,7 @@
 
 <tr>
 <td>🔌 IoT</td>
-<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS</td>
+<td><img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> <img src="https://img.icons8.com/fluency/48/microchip.png" width="32"/> MQTT, FreeRTOS</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
