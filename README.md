@@ -151,6 +151,8 @@ mindmap
     Signal
       mmWave, THz
       ADC Filter Design
+      Optisystem
+      Wireshark
     Software
       Linux
       Docker
