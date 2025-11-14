@@ -159,6 +159,10 @@ mindmap
       Web, App
     Computer Vision
       Machine Learning
+        Classification
+        Regression
+        Clutering
+          K-mean, GMM
       Deep Learning
       Image Processing
 ```
