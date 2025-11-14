@@ -9,7 +9,6 @@
 </p>
 
 ---
-### 📂 Featured Projects
 <table>
 <tr>
 
@@ -18,10 +17,10 @@
 
 <table>
 <tr>
-<th>Skill Area</th>
-<th>Tech Stack</th>
-<th>Featured Project</th>
-<th>Status</th>
+<th>👨‍💻Skill Area</th>
+<th>💻Tech Stack</th>
+<th>📂Featured Project</th>
+<th>✅🔄Status</th>
 </tr>
 
 <tr>
