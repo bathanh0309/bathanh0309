@@ -137,16 +137,16 @@ mindmap
 
 
 
-| Skill Area | Tech Stack | Featured Project |
-|:-----------|:-----------|:-----------------|
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) |
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors | [Smart Parking](https://github.com/bathanh0309/iot_parksense) |
-| 🔌 IoT | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB | [Home Hub](https://github.com/bathanh0309/iot_homehub) |
-| 📡 Signal | MATLAB, Simulink | [ADC Simulation](https://github.com/bathanh0309/sp_simu_ADC) |
-| 📡 Signal | mmWave, THz, DSP | [mmWave Research](https://github.com/bathanh0309/sp_mmWave_THz) |
-| 📡 Signal | Analog, Power Electronics | [OTL Amplifier](https://github.com/bathanh0309/sp_Amplifier_OTL) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++ | [RRT Path Planning](https://github.com/bathanh0309/json_RRT) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO | [Vision Gate](https://github.com/bathanh0309/json_Vision_Gate) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow | [Machine Learning](https://github.com/bathanh0309/machine_learning) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV | [Deep Learning](https://github.com/bathanh0309/deep_learning) |
-| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python | [Image Processing](https://github.com/bathanh0309/image_processing) |
+| Skill Area | Tech Stack | Featured Project | Achievement | Description |
+|:-----------|:-----------|:-----------------|:------------|:------------|
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, FreeRTOS | [Smart Aquarium](https://github.com/bathanh0309/iot_freeaqua_rtos) | 🥇 1st Place | [Real-time monitoring system with FreeRTOS task scheduling](https://github.com/bathanh0309/iot_freeaqua_rtos) |
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/mqtt/660066" width="18"/> MQTT, Sensors | [Smart Parking](https://github.com/bathanh0309/iot_parksense) | 🥈 2nd Place | [IoT parking detection with cloud integration](https://github.com/bathanh0309/iot_parksense) |
+| 🔌 IoT | <img src="https://cdn.simpleicons.org/altiumdesigner/A5915F" width="18"/> Altium, PCB | [Home Hub](https://github.com/bathanh0309/iot_homehub) | - | [Central control hub for smart home devices](https://github.com/bathanh0309/iot_homehub) |
+| 📡 Signal | MATLAB, Simulink | [ADC Simulation](https://github.com/bathanh0309/sp_simu_ADC) | - | [Advanced ADC signal processing and filter design](https://github.com/bathanh0309/sp_simu_ADC) |
+| 📡 Signal | mmWave, THz, DSP | [mmWave Research](https://github.com/bathanh0309/sp_mmWave_THz) | 📜 Published | [Millimeter wave and terahertz signal analysis](https://github.com/bathanh0309/sp_mmWave_THz) |
+| 📡 Signal | Analog, Power Electronics | [OTL Amplifier](https://github.com/bathanh0309/sp_Amplifier_OTL) | - | [Output transformerless power amplifier design](https://github.com/bathanh0309/sp_Amplifier_OTL) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="18"/> Linux, C++ | [RRT Path Planning](https://github.com/bathanh0309/json_RRT) | - | [Rapidly-exploring Random Tree for autonomous navigation](https://github.com/bathanh0309/json_RRT) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="18"/> Docker, PlatformIO | [Vision Gate](https://github.com/bathanh0309/json_Vision_Gate) | 🥉 3rd Place | [AI-powered gate detection and recognition system](https://github.com/bathanh0309/json_Vision_Gate) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> Jupyter, TensorFlow | [Machine Learning](https://github.com/bathanh0309/machine_learning) | 📜 NVIDIA Certified | [Comprehensive ML algorithms and model implementations](https://github.com/bathanh0309/machine_learning) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> TensorFlow, OpenCV | [Deep Learning](https://github.com/bathanh0309/deep_learning) | 📜 NVIDIA Certified | [Deep neural networks for computer vision tasks](https://github.com/bathanh0309/deep_learning) |
+| 🤖 AI/CV | <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="18"/> OpenCV, Python | [Image Processing](https://github.com/bathanh0309/image_processing) | - | [Advanced image processing and computer vision projects](https://github.com/bathanh0309/image_processing) |
