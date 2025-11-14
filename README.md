@@ -55,7 +55,7 @@
 
 <tr>
 <td>Signal</td>
-<td>Analog, Power Electronics, Oscilloscope</td>
+<td>Analog, Power, Oscilloscope</td>
 <td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
 
@@ -67,7 +67,7 @@
 
 <tr>
 <td>Computer Science</td>
-<td>MQTT, PlatformIO, ESP32, Yolov8, Docker</td>
+<td>MQTT, PlatformIO, ESP32, Yolov8</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
 </tr>
 
