@@ -20,7 +20,7 @@
 <th>👨‍💻Skill Area</th>
 <th>💻Tech Stack</th>
 <th>📂Featured Project</th>
-<th>Status</th>
+<th>📊Done</th>
 </tr>
 
 <tr>
