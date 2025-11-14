@@ -147,6 +147,7 @@ mindmap
     Hardware
       Simulation Proteus
       PCB Altium Design
+      Oscilloscope
     Signal
       mmWave, THz
       ADC Filter Design
