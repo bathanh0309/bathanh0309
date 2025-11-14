@@ -56,7 +56,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🏆 Presidential</b>
+    <b>🏆Vinh danh</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view">
@@ -66,7 +66,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🥇 First Prize</b>
+    <b>🥇Giải nhất khoa</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view">
@@ -76,7 +76,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>🥈 Second Prize</b>
+    <b>🥈Giải nhì ý tưởng</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view">
