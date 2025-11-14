@@ -43,7 +43,7 @@
 
 <tr>
 <td>Signal</td>
-<td>MATLAB, Simulink</td>
+<td>Matlab, Simulink, Filter</td>
 <td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
 </tr>
 
