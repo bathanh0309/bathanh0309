@@ -60,7 +60,7 @@
 </tr>
 
 <tr>
-<td>🤖 AI/CV</td>
+<td>Computer Science</td>
 <td><img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="20"/><img src="https://img.icons8.com/color/48/python.png" width="20"/></td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
