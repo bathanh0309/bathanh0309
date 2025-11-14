@@ -22,7 +22,7 @@
 ```                         
 ⭐ Mức độ hiểu về dự án
 ✅ Dự án đã hoàn thiện
-🔄 Dự án đang thực hiện
+🔄 Dự án đang triển khai
 ```
 
 
