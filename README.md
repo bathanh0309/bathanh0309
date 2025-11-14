@@ -42,19 +42,19 @@
 </tr>
 
 <tr>
-<td>📡 Signal</td>
+<td>Signal</td>
 <td>MATLAB, Simulink</td>
 <td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>📡 Signal</td>
+<td>Signal</td>
 <td>mmWave, THz, DSP</td>
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave Research</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>📡 Signal</td>
+<td>Signal</td>
 <td>Analog, Power Electronics</td>
 <td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
@@ -66,25 +66,25 @@
 </tr>
 
 <tr>
-<td>🤖 AI/CV</td>
+<td>Computer Science</td>
 <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> <img src="https://cdn.simpleicons.org/platformio/FF6600" width="20"/> Docker, PlatformIO</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
-<td>🤖 AI/CV</td>
+<td>Computer Science</td>
 <td><img src="https://cdn.simpleicons.org/jupyter/F37626" width="20"/> <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> Jupyter, TensorFlow</td>
 <td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
-<td>🤖 AI/CV</td>
+<td>Computer Science</td>
 <td><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="20"/> <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> TensorFlow, OpenCV</td>
 <td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
-<td>🤖 AI/CV</td>
+<td>Computer Science</td>
 <td><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="20"/> OpenCV, Python</td>
 <td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td><td>🔄</td>
 </tr>
