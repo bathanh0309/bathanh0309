@@ -109,7 +109,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜 NVIDIA</b>
+    <b>📜NVIDIA</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view">
@@ -119,7 +119,7 @@
 </tr>
 <tr>
   <td align="left">
-    <b>📜 DSAC</b>
+    <b>📜DSAC</b>
   </td>
   <td align="center">
     <a href="https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view">
