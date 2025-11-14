@@ -141,7 +141,7 @@ mindmap
   root((Skills))
     Embedded IoT
       MQTT
-        ESP32
+      ESP32
       FreeRTOS
       PlatformIO
     Hardware
