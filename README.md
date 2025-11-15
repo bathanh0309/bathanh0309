@@ -61,7 +61,7 @@
 
 <tr>
 <td>Computer Science</td>
-<td>Algothirm, Yolov3, Jetson Nano</td>
+<td>Algorithm, Yolov3, Jetson Nano</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️RRT Path Planning</b></a></td><td>🔄</td>
 </tr>
 
