@@ -144,6 +144,8 @@ mindmap
       Microcontrollers
         ESP32
         STM32
+        ESP cam
+        Jetson Nano
       RTOS
         FreeRTOS
       Protocols
@@ -162,12 +164,17 @@ mindmap
         OptiSystem
         Wireshark
     💻 Software
-      Dev
+      Dev (basic)
         FE
         BE
         DB
+        Docker
       OOP
       DSA
+      Programming
+        C/C++
+        Python
+        Matlab
     🤖 AI 
       Machine Learning
         Classification
