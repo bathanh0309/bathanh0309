@@ -184,13 +184,18 @@ mindmap
         ANN
         CNN
           Segmentation
+            Thresholding
           Object Detection
             Yolo
         RNN
           LSTM
       Image Processing
         Feature
+          HOG
+          Hu'moment
         Filter
+          FFT
+          Median
 ```
 
 
