@@ -99,9 +99,9 @@
 
 [![Honored](https://img.shields.io/badge/🏆_Honored-Research-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
 
-[![1st Prize](https://img.shields.io/badge/🥇_1st_Prize-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
+[![1st Prize](https://img.shields.io/badge/🥇_1st_Prize-Faculty-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
-[![2nd Prize](https://img.shields.io/badge/🥈_2nd_Prize-Idea_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
+[![2nd Prize](https://img.shields.io/badge/🥈_2nd_Prize-Idea-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
 
 [![3rd Prize](https://img.shields.io/badge/🥉_3rd_Prize-High_School-bronze?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
 
