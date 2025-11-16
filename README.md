@@ -13,7 +13,7 @@
 <tr>
 
 <!-- LEFT SIDE - FEATURED PROJECTS -->
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <table>
 <tr>
