@@ -106,7 +106,7 @@
 
 [![3rd Prize](https://img.shields.io/badge/🥉_3rd_Prize-High_School-bronze?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
 
-[![UDN Award](https://img.shields.io/badge/🏅_UDN_Award-Encouragement-blue?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
+[![UDN Award](https://img.shields.io/badge/🏅_UDN_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
 
 [![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
