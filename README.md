@@ -178,6 +178,7 @@ mindmap
         CNN
           Segmentation
           Object Detection
+            Yolo
         RNN
           LSTM
       Image Processing
