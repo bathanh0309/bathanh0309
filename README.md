@@ -97,7 +97,7 @@
 <td width="45%" valign="top">
 <div align="left">
 
-[![Honored](https://img.shields.io/badge/🏆_Honored_Academic-Research-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
+[![Honored](https://img.shields.io/badge/🏆_Honored-Research-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
 
 [![1st Prize](https://img.shields.io/badge/🥇_1st_Prize-Faculty_Competition-silver?style=flat-square)](https://drive.google.com/file/d/1iI_mmLu6SrupykpjnciBaJUs4rW604Rp/view)
 
