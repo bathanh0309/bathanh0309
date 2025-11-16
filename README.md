@@ -25,7 +25,7 @@
 
 <tr>
 <td>Hardware Embedded</td>
-<td>Altium, MQTT, ESP32, FreeRTOS, App</td>
+<td>Altium, MQTT, wifi, FreeRTOS, App</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
