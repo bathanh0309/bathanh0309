@@ -13,7 +13,7 @@
 <tr>
 
 <!-- LEFT SIDE - FEATURED PROJECTS -->
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 <table>
 <tr>
@@ -94,7 +94,7 @@
 </td>
 
 <!-- RIGHT SIDE - HIGHLIGHTS -->
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 <div align="left">
 
 [![Honored](https://img.shields.io/badge/🏆_Honored-Research-gold?style=flat-square)](https://drive.google.com/file/d/1tr2x93TwjTtUAfHl8ggOcIgXE5LCZisv/view)
