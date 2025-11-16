@@ -161,13 +161,13 @@ mindmap
         Simulink
         OptiSystem
         Wireshark
-    💻 Software Dev
-      Web
-        Frontend
-      Tools
-        VSCode venv
-        MATLAB
-        C/C++
+    💻 Software
+      Dev
+        FE
+        BE
+        DB
+      OOP
+      DSA
     🤖 AI 
       Machine Learning
         Classification
@@ -175,17 +175,14 @@ mindmap
         Clustering
       Deep Learning
         ANN
-          SLP, MLP
         CNN
           Segmentation
           Object Detection
-          Transfer Learning
         RNN
           LSTM
       Image Processing
         Feature
         Filter
-        Template Matching
 ```
 
 
