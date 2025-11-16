@@ -164,7 +164,7 @@ mindmap
         OptiSystem
         Wireshark
     💻 Software
-      Dev (basic)
+      Dev basic
         FE
         BE
         DB
