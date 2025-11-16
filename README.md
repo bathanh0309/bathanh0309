@@ -49,7 +49,7 @@
 
 <tr>
 <td>Signal</td>
-<td>mmWave, THz, Beamforming, LSTM</td>
+<td>mmWave, THz, LSTM</td>
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
 </tr>
 
