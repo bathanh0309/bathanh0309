@@ -209,9 +209,7 @@ mindmap
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bathanh0309&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%"/>
-</p>
+
 </td>
   
 <td width="50%" valign="top">
@@ -219,9 +217,6 @@ mindmap
   <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bathanh0309&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
-</p>
 </td>
 
 
