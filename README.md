@@ -199,31 +199,6 @@ mindmap
 ```
 
 
-
-
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bathanh0309&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" width="100%"/>
-</p>
-
-</td>
-  
-<td width="50%" valign="top">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathanh0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-</p>
-
-</td>
-
-
-
-</tr>
-</table>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Thank%20you%20for%20visiting&fontSize=60&fontColor=fff&animation=fadeIn&descAlignY=40" width="100%"/>
 </div>
