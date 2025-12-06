@@ -123,7 +123,7 @@
 
 [![3rd Prize](https://img.shields.io/badge/🏅_Prize-Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
 
-[![DSAC](https://img.shields.io/badge/📜_Đảng-Tình_Nguyện-4285F4?style=flat-square)](https://drive.google.com/file/d/1wZkp_dPGft__iw8jeTz1DCgphfdBMFrf/view?usp=drive_link)
+[![DSAC](https://img.shields.io/badge/📜_VietNam-Volunteer-4285F4?style=flat-square)](https://drive.google.com/file/d/1wZkp_dPGft__iw8jeTz1DCgphfdBMFrf/view?usp=drive_link)
 
 ### 🤝 Let's Connect
 <p align="center">
