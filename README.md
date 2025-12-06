@@ -20,7 +20,7 @@
 <th>👨‍💻Area</th>
 <th>💻Technology</th>
 <th>📂My Project</th>
-<th>📊Done</th>
+<th>📊</th>
 </tr>
 
 <tr>
