@@ -123,6 +123,7 @@
 
 [![3rd Prize](https://img.shields.io/badge/🏅_Prize-Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
 
+![Certificate](https://img.shields.io/badge/Certificate-Political%20Theory-red?style=for-the-badge&logo=bookstack)
 
 ### 🤝 Let's Connect
 <p align="center">
