@@ -79,7 +79,7 @@
 
 <tr>
 <td>Computer Science</td>
-<td>TensorFlow, OpenCV</td>
+<td>TensorFlow, Pytorch</td>
 <td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
 </tr>
 
