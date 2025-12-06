@@ -111,8 +111,6 @@
 
 [![2nd Prize](https://img.shields.io/badge/🥈_2nd_Prize-Idea-silver?style=flat-square)](https://drive.google.com/file/d/1Nn8-F5u36uuBbKG1-ddfdwV_-vlJIkSc/view)
 
-[![3rd Prize](https://img.shields.io/badge/🥉_3rd_Prize-High_School-bronze?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
-
 [![UDN Award](https://img.shields.io/badge/🏅_UDN_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
 
 [![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
@@ -121,7 +119,9 @@
 
 [![DSAC](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-4285F4?style=flat-square)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
 
-[![3rd Prize](https://img.shields.io/badge/🏅_3rd_Prize-Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
+[![3rd Prize](https://img.shields.io/badge/🥉_Prize-High_School-bronze?style=flat-square)](https://drive.google.com/file/d/1VZz2rVPJsuUwPL--lmYGkaremqqJL9eP/view)
+
+[![3rd Prize](https://img.shields.io/badge/🏅_Prize-Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
 
 
 ### 🤝 Let's Connect
