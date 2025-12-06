@@ -74,13 +74,13 @@
 <tr>
 <td>Computer Science</td>
 <td>Jupyter, TensorFlow</td>
-<td><a href="https://github.com/bathanh0309/machine_learning"><b>🧠Machine Learning</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Computer Science</td>
 <td>Deep Learning / Unet, Pytorch</td>
-<td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🔮Crack Segmentation</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack Segmentation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
