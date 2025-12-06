@@ -79,8 +79,8 @@
 
 <tr>
 <td>Computer Science</td>
-<td>TensorFlow, Pytorch</td>
-<td><a href="https://github.com/bathanh0309/deep_learning"><b>🔮Deep Learning</b></a></td><td>🔄</td>
+<td>Deep Learning / Unet, Pytorch</td>
+<td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🔮Unet Crack Segmentation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
