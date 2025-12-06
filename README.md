@@ -85,6 +85,14 @@
 
 <tr>
 <td>Computer Science</td>
+<td>Deep Learning / LSTM, Pytorch</td>
+<td><a href="https://github.com/bathanh0309/dl_VNnews_LSTM_multilayer"><b>🧠LSTM VN news</b></a></td><td>✅</td>
+</tr>
+
+
+
+<tr>
+<td>Computer Science</td>
 <td>OpenCV, Python</td>
 <td><a href="https://github.com/bathanh0309/image_processing"><b>👁️Image Processing</b></a></td><td>🔄</td>
 </tr>
