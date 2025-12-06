@@ -121,7 +121,7 @@
 
 [![DSAC](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-4285F4?style=flat-square)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
 
-[![3rd Prize](https://img.shields.io/badge/🏅_3rd_Prize_Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
+[![3rd Prize](https://img.shields.io/badge/🏅_3rd_Prize-Secondary_School-bronze?style=flat-square)](https://drive.google.com/file/d/1w0dGOPzbebRxAkBmWf7nx1jc8fu3FEb7/view?usp=drive_link)
 
 
 ### 🤝 Let's Connect
