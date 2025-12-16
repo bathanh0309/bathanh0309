@@ -73,7 +73,7 @@
 
 <tr>
 <td>Computer Science</td>
-<td>Jupyter, TensorFlow</td>
+<td>Machine Learning / CNN, MobileNetV2</td>
 <td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Machine Learning</b></a></td><td>🔄</td>
 </tr>
 
