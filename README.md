@@ -73,8 +73,8 @@
 
 <tr>
 <td>Computer Science</td>
-<td>Machine Learning / CNN, MobileNetV2</td>
-<td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Machine Learning</b></a></td><td>🔄</td>
+<td>Machine Learning / CNN</td>
+<td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Forest fire</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
