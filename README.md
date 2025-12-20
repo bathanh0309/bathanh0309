@@ -115,7 +115,7 @@
 
 [![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
-[![NVIDIA](https://img.shields.io/badge/NVIDIA-AI_on_Jetson_Nano_-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-AI_on_Jetson_Nano_-76B900?style=flat-square&logo=nvidia)](https://learn.nvidia.com/certificates?id=RzaQ1-DESXKpyQ678iQcMg)
 
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
 
