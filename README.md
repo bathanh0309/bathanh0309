@@ -113,7 +113,7 @@
 
 [![UDN Award](https://img.shields.io/badge/🏅_UDN_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/1_k1gOUejFIOUj8iQCzT4rLdRF-s7Xugo/view)
 
-[![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-76B900?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
+[![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-AI_on_Jetson_Nano-76B900?style=flat-square&logo=nvidia)](https://learn.nvidia.com/certificates?id=RzaQ1-DESXKpyQ678iQcMg)
 
