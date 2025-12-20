@@ -115,6 +115,8 @@
 
 [![Article Award](https://img.shields.io/badge/🏅_Article_Award-Research-blue?style=flat-square)](https://drive.google.com/file/d/14Vq_sYqdfCSVpm4K6qnyK41LR1ABLt9C/view)
 
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-Getting_start_Jetson_Nano_-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
+
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Deep_Learning-76B900?style=flat-square&logo=nvidia)](https://drive.google.com/file/d/1IS7MKVRLEAUrxG3UAmzJelLf3vWU4Bb1/view)
 
 [![DSAC](https://img.shields.io/badge/📜_DSAC-IC_ECG_FPGA-4285F4?style=flat-square)](https://drive.google.com/file/d/1GZvRcehhXUOCUiw5jLp3gS9lZ-kPk8T2/view)
