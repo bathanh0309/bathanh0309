@@ -94,7 +94,7 @@
 <tr>
 <td>Computer Science</td>
 <td>Image Processing</td>
-<td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Otsu K-means Segmentation</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Otsu K-means</b></a></td><td>🔄</td>
 </tr>
 
 </table>
