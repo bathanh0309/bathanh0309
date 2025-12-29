@@ -25,19 +25,19 @@
 
 
 <tr>
-<td>Embedded & Software</td>
+<td>Embedded (Software)</td>
 <td>Node.js, Express, Vanilla, SQLite, Flask</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Embedded & Hardware</td>
+<td>Embedded (Hardware)</td>
 <td>Altium, Wifi, I2C, RTOS, RainMaker</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
-<td>Embedded & Hardware</td>
+<td>Embedded (Hardware)</td>
 <td>Altium, Wifi, EMQX, Node.js, Express</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
