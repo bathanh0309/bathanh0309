@@ -32,7 +32,7 @@
 
 <tr>
 <td>Embedded & Hardware</td>
-<td>Altium Design, Wifi, I2C, FreeRTOS, RainMaker</td>
+<td>Altium, Wifi, I2C, RTOS, RainMaker</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
