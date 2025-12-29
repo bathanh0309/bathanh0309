@@ -56,7 +56,7 @@
 
 <tr>
 <td>Deep Learning </td>
-<td>Unet, Pytorch, Segmentation</td>
+<td>Unet, Pytorch, Surface Defect</td>
 <td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack </b></a></td><td>✅</td>
 </tr>
 
