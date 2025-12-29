@@ -77,7 +77,7 @@
 <tr>
 <td>Image Processing</td>
 <td>Otsu, K-means, GaussianBlur</td>
-<td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Oxford-IIIT Pet</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Oxford-IIIT Pet</b></a></td><td>✅</td>
 </tr>
 
 <tr>
