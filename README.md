@@ -45,7 +45,7 @@
 <tr>
 <td>Computer Science</td>
 <td>Algorithm, Yolov3, Jetson Nano</td>
-<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano basic</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
 </tr>
 
 <tr>
