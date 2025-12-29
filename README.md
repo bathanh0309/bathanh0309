@@ -26,7 +26,7 @@
 
 <tr>
 <td>Embedded & Software</td>
-<td>Node.js, Expres, Vanilla, SQLite, Flask</td>
+<td>Node.js, Express, Vanilla, SQLite, Flask</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
@@ -38,7 +38,7 @@
 
 <tr>
 <td>Embedded & Hardware</td>
-<td>Altium, MQTT, ESP32, Web</td>
+<td>Altium, Wifi, EMQX, Node.js, Express</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
