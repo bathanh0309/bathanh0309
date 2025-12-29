@@ -55,9 +55,9 @@
 </tr>
 
 <tr>
-<td>Computer Science</td>
-<td>Deep Learning / Unet, Pytorch</td>
-<td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack Segment</b></a></td><td>✅</td>
+<td>Deep Learning </td>
+<td>Unet, Pytorch, Crack Segmentation</td>
+<td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack </b></a></td><td>✅</td>
 </tr>
 
 <tr>
