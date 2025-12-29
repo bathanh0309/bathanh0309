@@ -81,13 +81,13 @@
 </tr>
 
 <tr>
-<td>Signal</td>
+<td>Telecommunicate</td>
 <td>Matlab, Simulink, Filter</td>
 <td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Signal</td>
+<td>Telecommunicate</td>
 <td>mmWave, THz, LSTM</td>
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
 </tr>
