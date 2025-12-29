@@ -56,7 +56,7 @@
 
 <tr>
 <td>Machine Learning</td>
-<td></td>
+<td>Threshold + Morphology + Smoke vs CNN Transfer Learning</td>
 <td><a href="https://github.com/bathanh0309/ml_forest_fire"><b>⚙️Forest fire</b></a></td><td>🔄</td>
 </tr>
 
