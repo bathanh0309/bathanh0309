@@ -23,6 +23,13 @@
 <th>📊</th>
 </tr>
 
+
+<tr>
+<td>Software Embedded</td>
+<td>Backend, Frontend, Database, MQTT</td>
+<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
+</tr>
+
 <tr>
 <td>Hardware Embedded</td>
 <td>Altium, MQTT, wifi, FreeRTOS, App</td>
@@ -45,12 +52,6 @@
 <td>Computer Science</td>
 <td>Algorithm, Yolov3, Jetson Nano</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano basic</b></a></td><td>✅</td>
-</tr>
-
-<tr>
-<td>Computer Science</td>
-<td>Backend, Frontend, Database, MQTT</td>
-<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
