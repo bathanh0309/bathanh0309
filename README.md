@@ -57,7 +57,7 @@
 <tr>
 <td>Machine Learning</td>
 <td></td>
-<td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Forest fire</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/ml_forest_fire"><b>⚙️Forest fire</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
