@@ -67,8 +67,8 @@
 
 <tr>
 <td>Computer Science</td>
-<td>MQTT, PlatformIO, ESP32, Yolov8</td>
-<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>🔄</td>
+<td>Backend, Frontend, Database, MQTT, Yolov8, Rasp pi 5</td>
+<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
