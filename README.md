@@ -43,6 +43,12 @@
 </tr>
 
 <tr>
+<td>intern lab DUT</td>
+<td>Altium, Proteus, Oscilloscope</td>
+<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
+</tr>
+
+<tr>
 <td>Scientific Research</td>
 <td>Algorithm RRT, Yolov3, Jetson Nano</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
@@ -84,12 +90,6 @@
 <td>Signal</td>
 <td>mmWave, THz, LSTM</td>
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
-</tr>
-
-<tr>
-<td>Signal</td>
-<td>Altium, Proteus, Oscilloscope</td>
-<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
 
 
