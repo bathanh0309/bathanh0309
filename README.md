@@ -69,8 +69,8 @@
 
 
 <tr>
-<td>Computer Science</td>
-<td>Image Processing / Otsu K-means</td>
+<td>Image Processing</td>
+<td>Otsu K-means</td>
 <td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Oxford-IIIT Pet</b></a></td><td>🔄</td>
 </tr>
 
