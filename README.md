@@ -25,25 +25,25 @@
 
 
 <tr>
-<td>Software Embedded</td>
+<td>Embedded + Software</td>
 <td>Backend, Frontend, Database, MQTT</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Hardware Embedded</td>
+<td>Embedded + Hardware</td>
 <td>Altium, MQTT, Wifi, FreeRTOS, App</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
-<td>Hardware Embedded</td>
+<td>Embedded + Hardware</td>
 <td>Altium, MQTT, ESP32, Web</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Hardware Embedded</td>
+<td>Embedded + Hardware</td>
 <td>Altium, DC/AC, sensors, Arduino</td>
 <td><a href="https://github.com/bathanh0309/iot_homehub"><b>🏠Home Hub</b></a></td><td>✅</td>
 </tr>
