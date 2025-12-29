@@ -56,13 +56,13 @@
 
 <tr>
 <td>Deep Learning </td>
-<td>Unet, Pytorch, Crack Segmentation</td>
+<td>Unet, Pytorch, Segmentation</td>
 <td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack </b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Computer Science</td>
-<td>Deep Learning / LSTM, Pytorch</td>
+<td>Deep Learning</td>
+<td>LSTM, Pytorch</td>
 <td><a href="https://github.com/bathanh0309/dl_VNnews_LSTM_multilayer"><b>🧠LSTM VN news</b></a></td><td>✅</td>
 </tr>
 
