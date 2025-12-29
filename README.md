@@ -26,7 +26,7 @@
 
 <tr>
 <td>Embedded & Software</td>
-<td>Backend, Frontend, Database, MQTT</td>
+<td>Node.js, Expres, Vanilla, SQLite, Flask</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
