@@ -49,8 +49,8 @@
 </tr>
 
 <tr>
-<td>Computer Science</td>
-<td>Machine Learning / CNN</td>
+<td>Machine Learning</td>
+<td></td>
 <td><a href="https://github.com/bathanh0309/machine_learning"><b>⚙️Forest fire</b></a></td><td>🔄</td>
 </tr>
 
