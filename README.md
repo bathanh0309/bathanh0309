@@ -42,24 +42,6 @@
 </tr>
 
 <tr>
-<td>Signal</td>
-<td>Matlab, Simulink, Filter</td>
-<td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
-</tr>
-
-<tr>
-<td>Signal</td>
-<td>mmWave, THz, LSTM</td>
-<td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
-</tr>
-
-<tr>
-<td>Signal</td>
-<td>Altium, Proteus, Oscilloscope</td>
-<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
-</tr>
-
-<tr>
 <td>Computer Science</td>
 <td>Algorithm, Yolov3, Jetson Nano</td>
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano basic</b></a></td><td>✅</td>
@@ -96,6 +78,27 @@
 <td>Image Processing / Otsu K-means</td>
 <td><a href="https://github.com/bathanh0309/ip_otsu_k-means_segmentation"><b>👁️Oxford-IIIT Pet</b></a></td><td>🔄</td>
 </tr>
+
+<tr>
+<td>Signal</td>
+<td>Matlab, Simulink, Filter</td>
+<td><a href="https://github.com/bathanh0309/sp_simu_ADC"><b>🔬ADC Simulation</b></a></td><td>✅</td>
+</tr>
+
+<tr>
+<td>Signal</td>
+<td>mmWave, THz, LSTM</td>
+<td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
+</tr>
+
+<tr>
+<td>Signal</td>
+<td>Altium, Proteus, Oscilloscope</td>
+<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
+</tr>
+
+
+
 
 </table>
 
