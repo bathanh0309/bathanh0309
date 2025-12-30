@@ -55,9 +55,9 @@
 </tr>
 
 <tr>
-<td>Machine Learning</td>
-<td>Threshold, Morphology, Smoke</td>
-<td><a href="https://github.com/bathanh0309/ml_forest_fire"><b>⚙️Forest fire</b></a></td><td>🔄</td>
+<td>Deep Learning </td>
+<td>Efficient Net, Pytorch, Skin Lesion</td>
+<td><a href="https://github.com/bathanh0309/ISIC_2018"><b>🧠Skin Lesion</b></a></td><td>✅</td>
 </tr>
 
 <tr>
