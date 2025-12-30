@@ -68,7 +68,7 @@
 
 <tr>
 <td>Deep Learning</td>
-<td>LSTM, Pytorch</td>
+<td>LSTM, Pytorch, Topic Classification</td>
 <td><a href="https://github.com/bathanh0309/dl_VNnews_LSTM_multilayer"><b>🧠LSTM VN news</b></a></td><td>✅</td>
 </tr>
 
