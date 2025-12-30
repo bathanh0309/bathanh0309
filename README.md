@@ -43,7 +43,7 @@
 </tr>
 
 <tr>
-<td>intern lab DUT</td>
+<td>Hardware Design</td>
 <td>Altium, Proteus, Oscilloscope</td>
 <td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
