@@ -57,7 +57,7 @@
 <tr>
 <td>Deep Learning </td>
 <td>Pytorch, Efficient Net, Skin Lesion</td>
-<td><a href="https://github.com/bathanh0309/ISIC_2018"><b>🧠Skin Lesion</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/ISIC_2018"><b>🧠ISIC 2018 Task 3</b></a></td><td>✅</td>
 </tr>
 
 <tr>
