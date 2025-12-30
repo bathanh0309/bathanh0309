@@ -56,19 +56,19 @@
 
 <tr>
 <td>Deep Learning </td>
-<td>Efficient Net, Pytorch, Skin Lesion</td>
+<td>Pytorch, Efficient Net, Skin Lesion</td>
 <td><a href="https://github.com/bathanh0309/ISIC_2018"><b>🧠Skin Lesion</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>Deep Learning </td>
-<td>Unet, Pytorch, Surface Defect</td>
+<td>Pytorch, Unet, Surface Defect</td>
 <td><a href="https://github.com/bathanh0309/dl_crack_segmentation"><b>🧠Crack Segmentation</b></a></td><td>✅</td>
 </tr>
 
 <tr>
 <td>Deep Learning</td>
-<td>LSTM, Pytorch, Topic Classification</td>
+<td>Pytorch, LSTM, Topic Classification</td>
 <td><a href="https://github.com/bathanh0309/dl_VNnews_LSTM_multilayer"><b>🧠LSTM VN news</b></a></td><td>✅</td>
 </tr>
 
