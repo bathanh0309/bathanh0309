@@ -33,7 +33,7 @@
 <tr>
 <td>Embedded AIoT</td>
 <td>Node.js, Express, Vanilla, SQLite, Flask</td>
-<td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
