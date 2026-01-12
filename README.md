@@ -23,41 +23,48 @@
 <th>📊</th>
 </tr>
 
+
 <tr>
-<td>Embedded AIoT</td>
+<td>Scientific Research</td>
+<td>Algorithm RRT, Yolov3, Jetson Nano</td>
+<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
+</tr>
+
+<tr>
+<td>DevOps AIoT</td>
 <td>Docker, Yolo, Linux Ubuntu, Deploy</td>
 <td><a href="https://github.com/bathanh0309/TAVISO"><b>🔬TAVISO</b></a></td><td>✅</td>
 </tr>
 
 
 <tr>
-<td>Embedded AIoT</td>
+<td>DevOps AIoT</td>
 <td>Backend, Frontend, Database, Rasp Pi 5</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Embedded AIoT</td>
+<td>DevOps AIoT</td>
 <td>Backend, Frontend, Database, Telegram</td>
 <td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Embedded IoT</td>
+<td>Hardware IoT</td>
 <td>Altium, Wifi, I2C, FreeRTOS, RainMaker</td>
 <td><a href="https://github.com/bathanh0309/iot_freeaqua_rtos"><b>🐠Smart Aquarium</b></a></td> <td>✅</td>
 </tr>
 
 <tr>
-<td>Embedded IoT</td>
+<td>Hardware IoT</td>
 <td>Altium, Wifi, EMQX, Node.js, Express</td>
 <td><a href="https://github.com/bathanh0309/iot_parksense"><b>🚗Smart Parking</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>Scientific Research</td>
-<td>Algorithm RRT, Yolov3, Jetson Nano</td>
-<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
+<td>Hardware Design</td>
+<td>Altium, Proteus, Oscilloscope</td>
+<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
 
 <tr>
@@ -98,11 +105,6 @@
 <td><a href="https://github.com/bathanh0309/sp_mmWave_THz"><b>🛰️mmWave & THz</b></a></td><td>✅</td>
 </tr>
 
-<tr>
-<td>Hardware Design</td>
-<td>Altium, Proteus, Oscilloscope</td>
-<td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
-</tr>
 
 
 
