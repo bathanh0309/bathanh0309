@@ -62,7 +62,7 @@
 </tr>
 
 <tr>
-<td>Hardware Design</td>
+<td>Hardware IoT</td>
 <td>Altium, Proteus, Oscilloscope</td>
 <td><a href="https://github.com/bathanh0309/sp_Amplifier_OTL"><b>🔊OTL Amplifier</b></a></td><td>✅</td>
 </tr>
