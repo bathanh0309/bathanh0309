@@ -23,6 +23,12 @@
 <th>📊</th>
 </tr>
 
+<tr>
+<td>Embedded AIoT</td>
+<td>Docker, Yolo, Linux Ubuntu (WSL)</td>
+<td><a href="https://github.com/bathanh0309/TAVISO"><b>🔬TAVISO</b></a></td><td>✅</td>
+</tr>
+
 
 <tr>
 <td>Embedded AIoT</td>
