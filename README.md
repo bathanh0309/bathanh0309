@@ -32,7 +32,7 @@
 
 <tr>
 <td>Embedded AIoT</td>
-<td>Backend, Frontend, Database, EMQX, Rasp pi 5</td>
+<td>Backend, Frontend, Database, Rasp Pi 5</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
