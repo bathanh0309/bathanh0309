@@ -30,12 +30,6 @@
 <td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
 </tr>
 
-<tr>
-<td>DevOps AIoT</td>
-<td>Docker, Linux, RTX 3060 NVIDIA</td>
-<td><a href="https://github.com/bathanh0309/TAVISO"><b>🛠️TAVISO</b></a></td><td>🔁</td>
-</tr>
-
 
 <tr>
 <td>DevOps AIoT</td>
@@ -48,6 +42,7 @@
 <td>Backend, Frontend, Database, Telegram</td>
 <td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
+
 
 <tr>
 <td>Hardware IoT</td>
