@@ -33,13 +33,13 @@
 <tr>
 <td>Embedded AIoT</td>
 <td>ADL Recognition, ReID, Yolov8-Pose</td>
-<td><a href="https://github.com/bathanh0309/HAVEN"><b>HAVEN</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HAVEN</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
 <td>Embedded AIoT</td>
 <td>Backend, Frontend, Database, Rasp Pi 5</td>
-<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📹Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
