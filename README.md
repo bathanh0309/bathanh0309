@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;AIoT+/+Embedded+AI+in+chip+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&pause=1000&color=4285F4&center=true&vCenter=true&width=500&duration=4000&lines=Hi+There!+👋;I'm+Ba+Thanh;Embedded+AI+IoT+Engineer" />
 </p>
 
 <h3 align="center">🎓 Da Nang University of Science and Technology</h3>
