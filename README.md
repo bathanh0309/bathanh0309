@@ -27,9 +27,14 @@
 <tr>
 <td>Scientific Research</td>
 <td>Algorithm RRT, Yolov3, Jetson Nano</td>
-<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td>
+<td><a href="https://github.com/bathanh0309/json_RRT"><b>🗺️Jetson Nano</b></a></td><td>✅</td> 
 </tr>
 
+<tr>
+<td>Embedded AIoT</td>
+<td>ADL Recognition, ReID, Yolov8-Pose</td>
+<td><a href="https://github.com/bathanh0309/HAVEN"><b>HAVEN</b></a></td><td>🔄</td>
+</tr>
 
 <tr>
 <td>Embedded AIoT</td>
