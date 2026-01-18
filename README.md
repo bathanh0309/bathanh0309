@@ -39,13 +39,13 @@
 
 
 <tr>
-<td>Web/app AIoT</td>
+<td>Research AIoT</td>
 <td>ADL Recognition, ReID, Yolov8-Pose</td>
 <td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HAVEN</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
-<td>Web/app AIoT</td>
+<td>Research AIoT</td>
 <td>Backend, Frontend, Database, Telegram</td>
 <td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
