@@ -32,13 +32,13 @@
 
 
 <tr>
-<td>DevOps AIoT</td>
+<td>Embedded AIoT</td>
 <td>Backend, Frontend, Database, Rasp Pi 5</td>
 <td><a href="https://github.com/bathanh0309/json_Vision_Gate"><b>📊Vision Gate</b></a></td><td>✅</td>
 </tr>
 
 <tr>
-<td>DevOps AIoT</td>
+<td>Web/app AIoT</td>
 <td>Backend, Frontend, Database, Telegram</td>
 <td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
