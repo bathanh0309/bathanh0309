@@ -40,7 +40,7 @@
 
 <tr>
 <td>Research AIoT</td>
-<td>ADL Recognition, ReID, Yolov8-Pose</td>
+<td>ADL Recognition, ReID, Yolov11-Pose</td>
 <td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HAVEN Home</b></a></td><td>🔄</td>
 </tr>
 
