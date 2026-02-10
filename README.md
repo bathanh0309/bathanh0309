@@ -41,7 +41,7 @@
 <tr>
 <td>Research AIoT</td>
 <td>ADL Recognition, ReID, Yolov11-Pose</td>
-<td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HAVEN Home</b></a></td><td>🔄</td>
+<td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HavenNet</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
