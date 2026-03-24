@@ -55,7 +55,7 @@
 <tr>
 <td>Learn Long Term</td>
 <td>Backend, Frontend, Cloudflare</td>
-<td><a href="https://bathanh0309.github.io/"><b>App Vocabulary</b></a></td><td>🔄</td>
+<td><a href="https://bathanh0309.github.io/"><b>📨App Vocabulary</b></a></td><td>🔄</td>
 </tr>
 
 <tr>
