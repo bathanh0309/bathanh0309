@@ -40,12 +40,6 @@
 
 <tr>
 <td>Research AIoT</td>
-<td>Global ReID, ADL, Yolov11, Tracking</td>
-<td><a href="https://github.com/bathanh0309/HAVEN"><b>👨‍👩‍👧 HavenNet</b></a></td><td>🔄</td>
-</tr>
-
-<tr>
-<td>Research AIoT</td>
 <td>Backend, Frontend, Database, Telegram</td>
 <td><a href="https://github.com/bathanh0309/SMAC"><b>🔒SMAC Gate</b></a></td><td>✅</td>
 </tr>
